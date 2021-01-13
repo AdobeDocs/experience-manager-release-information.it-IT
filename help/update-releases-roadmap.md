@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] release roadmap'
 description: '[!DNL Adobe Experience Manager] release roadmap'
 translation-type: tm+mt
-source-git-commit: abee2c5b1796d9c729d8492439c81cceb8290084
+source-git-commit: 7394d2d8a9b1f4264004e5623ee1e44e2e8f35cd
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '367'
 ht-degree: 13%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 13%
 
 | Release | Versione | Tipo | Pianificazione |
 |---|---|---|---|
-| [!DNL Experience Manager] come  [!DNL Cloud Service] 2020.12.0 | 2020.12.0 | Rilascio mensile | 17 dicembre 2020 |
 | [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.1.0 | 2021.1.0 | Rilascio mensile | 28 gennaio 2021 |
 | [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.2.0 | 2021.2.0 | Rilascio mensile | 25 febbraio 2021 |
 | [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Rilascio mensile | 25 marzo 2021 |
