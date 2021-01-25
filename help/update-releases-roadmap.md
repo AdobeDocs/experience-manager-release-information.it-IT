@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] release roadmap'
 description: '[!DNL Adobe Experience Manager] release roadmap'
 translation-type: tm+mt
-source-git-commit: 7394d2d8a9b1f4264004e5623ee1e44e2e8f35cd
+source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 13%
+source-wordcount: '403'
+ht-degree: 14%
 
 ---
 
@@ -29,6 +29,12 @@ ht-degree: 13%
 | [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Rilascio mensile | 25 marzo 2021 |
 | [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Rilascio mensile | 29 aprile 2021 |
 | [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | Rilascio mensile | 27 maggio 2021 |
+| [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | Rilascio mensile | 24 giugno 2021 |
+| [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Rilascio mensile | 29 luglio 2021 |
+| [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Rilascio mensile | 26 agosto 2021 |
+| [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Rilascio mensile | 30 settembre 2021 |
+| [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Rilascio mensile | 28 ottobre 2021 |
+| [!DNL Experience Manager] come  [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Rilascio mensile | 02 dicembre 2021 |
 
 Oltre ai rilasci mensili, sono disponibili vari aggiornamenti critici in [!DNL Experience Manager] come [!DNL Cloud Service] con una frequenza di rilascio giornaliera.
 
