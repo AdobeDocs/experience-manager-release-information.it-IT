@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] aggiornamenti recenti della documentazione'
 description: 'Novità, aggiornamento o modifica nella documentazione di [!DNL Experience Manager] '
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
+source-git-commit: 94a5511d9f88f023fa8947dd4cf4ff7a43979dac
 workflow-type: tm+mt
-source-wordcount: '3219'
+source-wordcount: '3220'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ Puoi consultare anche i [precedenti aggiornamenti della documentazione](previous
 >
 >AEM as a Cloud Service viene rilasciato mensilmente.
 >
->Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) per la documentazione relativa alle singole versioni (versioni amd correnti).
+>Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) per la documentazione relativa alle singole versioni (versioni correnti e precedenti).
 
 | Data | Argomento | Modifiche |
 | --- | --- | --- |
