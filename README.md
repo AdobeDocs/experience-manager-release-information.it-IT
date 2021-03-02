@@ -1,17 +1,17 @@
 ---
 source-git-commit: 3a7b4464bff5b4186a21968fe5b2497cb8198100
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Informazioni sulla versione di Adobe Experience Manager
 
-Questo è l&#39;archivio delle informazioni sulla versione di Adobe Experience Manager.
+Questo è l’archivio in cui sono raccolte le informazioni sulla versione di Adobe Experience Manager.
 
-I vostri contributi alla documentazione sono i benvenuti. Consulta le risorse seguenti:
+Saremo lieti di accogliere anche il contributo alla documentazione. Consulta le risorse seguenti:
 
-* [contribute.](contributing.md) mdPer una panoramica di come contribuire alla documentazione.
-* [guidelines.](guidelines.md) mdPer una panoramica di quanto ci si aspetta dai contributi e come comporre i contributi della documentazione.
-* [code-of-Conduct.](code-of-conduct.md) mdPer una panoramica degli standard di comportamento che ci aspettiamo nel corso del progetto di documentazione.
+* [contributing.md](contributing.md): panoramica su come contribuire alla documentazione.
+* [guidelines.md](guidelines.md): panoramica su cosa includere nei contributi e come comporre i contributi alla documentazione.
+* [code-of-conduct.md](code-of-conduct.md): panoramica degli standard di comportamento a cui dovrà attenersi chi partecipa al progetto di documentazione.
