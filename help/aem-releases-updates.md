@@ -6,14 +6,14 @@ translation-type: tm+mt
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 
 # Versioni e aggiornamenti di [!DNL Adobe Experience Manager] {#aem-releases-and-updates}
 
-Nuove versioni di ![[!DNL Experience Manager]](assets/new-aem-releases1.jpeg)
+![[!DNL Experience Manager]Nuove versioni](assets/new-aem-releases1.jpeg)
 
 [!DNL Adobe Experience Manager] viene continuamente aggiornato con nuove funzionalità, miglioramenti e correzioni di bug per le sue offerte [!DNL Cloud Service], Adobe Managed Services e On-Premise.
 
@@ -23,7 +23,7 @@ Questo articolo elenca la versione più recente per ogni categoria e indirizza a
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] segue una cadenza di rilascio mensile. Le nuove funzionalità sono quindi disponibili mensilmente come aggiornamenti continui di [!DNL Experience Manager].
 
-Per informazioni dettagliate sulla versione corrente/più recente, consulta [Note sulla versione corrente per [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=it) . Da qui puoi anche passare ai dettagli delle versioni precedenti (organizzate cronologicamente).
+Per informazioni dettagliate sulla versione corrente/più recente, consulta [Note sulla versione corrente di [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=it). Da questa pagina puoi anche passare ai dettagli delle versioni precedenti (organizzate in ordine cronologico).
 
 ## Offerte On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
@@ -53,7 +53,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.4 vengono forniti attraverso CF
 
 * [[!DNL Experience Manager] 6.3 Service Pack 3 Cumulative Fix Pack 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html?lang=it)
 
-* [[!DNL Experience Manager] 6.3 Service Pack 3](https://helpx.adobe.com/it/experience-manager/6-3/release-notes/sp3-release-notes.html?lang=it)
+* [[!DNL Experience Manager] 6.3 Service Pack 3](https://helpx.adobe.com/it/experience-manager/6-3/release-notes/sp3-release-notes.html)
 
 * [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes.html)
 
