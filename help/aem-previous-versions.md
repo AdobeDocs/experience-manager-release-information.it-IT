@@ -1,11 +1,11 @@
 ---
 title: Versioni precedenti di AEM, CQ e CRX
 description: Documentazione per le versioni precedenti di Adobe Experience Manager, CQ e CRX.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '773'
+ht-degree: 100%
 
 ---
 
