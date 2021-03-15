@@ -45,13 +45,10 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 è l’ultimo Cumulative Fix Pack per AEM 
 >[!NOTE]
 >
 >* Con AEM Cumulative Fix Pack 6.2 SP1-CFP10 viene fornito un nuovo bundle Sling `discovery-  api` Johnzon 1.0.0. È inoltre disponibile una funzione di rilevamento sling per l’utente del servizio con privilegi di lettura e scrittura relativi al nodo */var/discovery* dell’archivio CRX.
-   >
-   >
-* È stato anche aggiunto il bundle per l’e-mail di Apache Commons **org.apache.commons/commons-email/1.5** in sostituzione di **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
-   >
-   >
-* Per i clienti con un numero elevato di utenti nell’istanza di AEM, Adobe consiglia di implementare il CFP tramite la cartella di installazione.
-
+>
+>* È stato anche aggiunto il bundle per l’e-mail di Apache Commons **org.apache.commons/commons-email/1.5** in sostituzione di **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
+>
+>* Per i clienti con un numero elevato di utenti nell’istanza di AEM, Adobe consiglia di implementare il CFP tramite la cartella di installazione.
 >
 
 
@@ -1327,10 +1324,8 @@ Le correzioni per AEM Forms vengono distribuite tramite pacchetti di componenti
 >
 >* L’opzione Copia/Incolla da Word o dal web nell’editor di testo CM mostra i contenuti con interruzioni di riga. NPR-19530
 >* I contenuti senza interruzioni di riga non vanno a capo nell’editor di testo CM. NPR-19449
-
 >
->
-Questi problemi saranno affrontati nei pacchetti CFP futuri.
+>Questi problemi saranno affrontati nei pacchetti CFP futuri.
 
 #### Moduli adattivi {#adaptive-forms-9}
 
