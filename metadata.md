@@ -1,18 +1,14 @@
 ---
 cloud: experience-cloud
-solution-title: Informazioni e supporto
-solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it
-getting-started-title: Guida introduttiva
-getting-started-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=it
-tutorials-title: Esercitazioni
-tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it
+solution: Experience Cloud
+type: Documentazione
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.it-IT
 index: true
-translation-type: ht
-source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
-workflow-type: ht
-source-wordcount: '130'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 5ef17b174aa13f789144e1293bd2680b0299bbeb
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 99%
 
 ---
 
