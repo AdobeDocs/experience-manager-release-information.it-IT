@@ -3,9 +3,9 @@ title: Aggiornamenti recenti della documentazione di [!DNL Experience Manager]
 description: 'Novità, aggiornamenti e modifiche nella documentazione di  [!DNL Experience Manager] '
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
 workflow-type: tm+mt
-source-wordcount: '3254'
+source-wordcount: '3247'
 ht-degree: 99%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 99%
 
 # Documentazione di [!DNL Experience Manager]: aggiornamenti recenti {#aem-documentation-recent-documentation-updates}
 
-In questa pagina sono elencate le modifiche e gli aggiornamenti principali apportati alla documentazione di [!DNL Adobe Experience Manager] dall’inizio del nuovo anno.
+Questa pagina elenca importanti modifiche e aggiornamenti alla documentazione per [!DNL Adobe Experience Manager].
 
 Puoi consultare anche i [precedenti aggiornamenti della documentazione](previous-documentation-updates.md).
 
@@ -21,9 +21,9 @@ Puoi consultare anche i [precedenti aggiornamenti della documentazione](previous
 
 >[!NOTE]
 >
->AEM come Cloud Service viene pubblicato mensilmente.
+>AEM as a Cloud Service viene rilasciato mensilmente.
 >
->Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=it) per la documentazione relativa alle singole versioni (versioni correnti e precedenti).
+>Per la documentazione relativa alle singole versioni (corrente e precedenti), consulta [Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=it).
 
 | Data | Argomento | Modifiche |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ Puoi consultare anche i [precedenti aggiornamenti della documentazione](previous
 | 4 giugno 2020 | [!DNL Experience Manager] 6.5 Service Pack 5 | È disponibile [[!DNL Experience Manager] 6.5 Service Pack 5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html). |
 | 25 maggio 2020 | Accessibilità e linee guida di WCAG 2.1 | Aggiornamenti inerenti alle linee guida di WCAG 2.1:<br>- [Adobe Experience Manager as a [!DNL Cloud Service] e linee guida per l’accessibilità per il Web](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/accessibility/web-accessibility.html)<br>- [Guida rapida a WCAG 2.1](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/accessibility/quick-guide-wcag.html)<br>- [Creazione di contenuti accessibili (conformità a WCAG 2.1)](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/fundamentals/accessible-content.html) |
 | 13 aprile 2020 | Controllo delle versioni delle risorse | Sono stati aggiornati i contenuti e i video su come creare, visualizzare in anteprima e ripristinare le [versioni precedenti di una risorsa in [!DNL Experience Manager].](https://docs.adobe.com/content/help/it-IT/experience-manager-65/assets/managing/managing-assets-touch-ui.html#asset-versioning) |
-| 13 aprile 2020 | Elaborazione delle risorse | È stata aggiunta una nuova panoramica su come utilizzare i flussi di lavoro per l’elaborazione delle risorse. Un nuovo argomento descrive inoltre come [attivare automaticamente un flusso di lavoro per l’elaborazione delle risorse.](https://docs.adobe.com/content/help/it-ITexperience-manager-65/assets/using/assets-workflow.html) |
+| 13 aprile 2020 | Elaborazione delle risorse | È stata aggiunta una nuova panoramica su come utilizzare i flussi di lavoro per l’elaborazione delle risorse. Un nuovo argomento descrive inoltre come [attivare automaticamente un flusso di lavoro per l’elaborazione delle risorse.](https://docs.adobe.com/content/help/it-IT/experience-manager-65/assets/using/assets-workflow.html) |
 | 30 marzo 2020 | Dynamic Media - Imaging avanzato | È stato interamente aggiornato l’argomento della Guida dedicato all’imaging avanzato, con esempi di immagini che illustrano questa nuova funzionalità di ottimizzazione.<br>Consulta [Imaging avanzato.](https://docs.adobe.com/content/help/it-IT/experience-manager-65/assets/dynamic/imaging-faq.html) |
 | 5 marzo 2020 | [!DNL Experience Manager] 6.5 Service Pack 4 | È disponibile [[!DNL Experience Manager] 6.5 Service Pack 4](https://docs.adobe.com/content/help/it-IT/experience-manager-65/release-notes/sp-release-notes.html). |
 | 4 marzo 2020 | Configurazione di Dynamic Media - Modalità Scene7 | È ora disponibile la nuova opzione Sincronizza tutto il contenuto nella pagina di configurazione di Dynamic Media accessibile da Strumenti > Cloud Services.<br>Consulta [Creazione di una configurazione di Dynamic Media.](https://docs.adobe.com/content/help/it-IT/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services) |
