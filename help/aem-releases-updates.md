@@ -2,9 +2,9 @@
 title: Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]
 description: Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]
 contentOwner: AK
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
