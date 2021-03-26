@@ -1,11 +1,11 @@
 ---
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 è l&#39;ultimo CFP per la versione  [!DNL Experience Manager] 6.4. Per informazioni dettagliate sull&#39;ultima versione di CFP rilasciata, consultare le note sulla versione  [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=it).
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 è l&#39;ultimo Cumulative Fix Pack per [!DNL Experience Manager] 6.4. Per informazioni dettagliate sull’ultima versione CFP rilasciata, consulta le note sulla versione di [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=it).
 
 >[!MORELIKETHIS]
 >
