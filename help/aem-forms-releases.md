@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
 workflow-type: tm+mt
 source-wordcount: '13231'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -514,7 +514,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-LX.zip">Pacchetto del componente aggiuntivo AEM Forms per Linux</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-WIN.zip">Pacchetto del componente aggiuntivo AEM Forms per Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-SOL.zip">Pacchetto del componente aggiuntivo AEM Forms per Solaris</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-OSX.zip">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X [2]</a><br /> </li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-OSX.zip">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X [2] </a><br /> </li> 
      <li>AEM Forms Client SDK [1]</li> 
      <li>Programma di installazione di AEM Forms JEE [1]</li> 
     </ul> </td> 
