@@ -7,7 +7,7 @@ user-guide-title: Aggiornamenti e roadmap delle versioni di Adobe Experience Man
 breadcrumb-title: Informazioni sulla versione di AEM
 user-guide-description: Scopri gli ultimi aggiornamenti sulla versione di AEM.
 feature-set: Experience Manager
-feature: Informazioni sulla versione
+feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
