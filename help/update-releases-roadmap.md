@@ -2,10 +2,9 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-translation-type: tm+mt
-source-git-commit: e73837adaeb3407c4c92de0c927e92e0044dac27
+source-git-commit: 0926a739fe07b10b425d198317a92724fcc85503
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 100%
 
 ---
@@ -24,7 +23,6 @@ ht-degree: 100%
 
 | Versione | Versione | Tipo | Pianificazione |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Rilascio mensile | 06 maggio 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | Rilascio mensile | 27 maggio 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | Rilascio mensile | 24 giugno 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Rilascio mensile | 29 luglio 2021 |
@@ -39,7 +37,7 @@ Oltre ai rilasci mensili, in [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 Gli aggiornamenti di prodotto in termini di nuove funzioni, miglioramenti e correzioni di bug per le offerte On-Premise e Managed Services di [!DNL Experience Manager] supportati vengono forniti tramite Service Pack trimestrali e Cumulative Fix Pack (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
 
-### [!DNL Experience Manager] 6.5 {#aem65}
+### [!DNL Experience Manager] 6,5 {#aem65}
 
 Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it).
 
@@ -62,5 +60,5 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 >* [Matrice EOL](https://helpx.adobe.com/it/support/programs/eol-matrix.html)
 >* Versioni e aggiornamenti di [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=it)
 >* Informazioni e supporto per [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
->* Definizioni delle versioni di aggiornamento di [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
+>* [Definizioni delle versioni di aggiornamento di [!DNL Experience Manager]](/help/update-release-vehicle-definitions.md)
 
