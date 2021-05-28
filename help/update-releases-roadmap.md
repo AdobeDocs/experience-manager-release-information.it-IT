@@ -37,7 +37,7 @@ Oltre ai rilasci mensili, in [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 Gli aggiornamenti di prodotto in termini di nuove funzioni, miglioramenti e correzioni di bug per le offerte On-Premise e Managed Services di [!DNL Experience Manager] supportati vengono forniti tramite Service Pack trimestrali e Cumulative Fix Pack (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
 
-### [!DNL Experience Manager] 6,5 {#aem65}
+### [!DNL Experience Manager] 6.5 {#aem65}
 
 Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it).
 
