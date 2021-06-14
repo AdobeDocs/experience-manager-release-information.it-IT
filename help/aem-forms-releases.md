@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -172,7 +172,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
    </tr> 
    <tr> 
     <td>19 settembre 2019</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it#service-pack">Pacchetto del componente aggiuntivo AEM Forms Service Pack 2 per AEM 6.5.2.0</a></td> 
+    <td><a href="https://helpx.adobe.com/it/experience-manager/6-5/release-notes/sp-release-notes.html">Pacchetto del componente aggiuntivo AEM Forms Service Pack 2 per AEM 6.5.2.0</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
@@ -437,7 +437,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.2.0-COMPAT" target="_blank">Pacchetto di compatibilità per AEM Forms</a></li>
      <li>Programma di installazione di AEM Forms JEE<sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.1.30</strong></p> <p>AEM Forms App Source Code:<strong> 4.1.6</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.4.0-0003</strong></p> </td> 
+   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.1.30</strong></p> <p>Codice sorgente dell’app AEM Forms:<strong> 4.1.6</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.4.0-0003</strong></p> </td> 
   </tr> 
   <tr> 
    <td>29 giugno 2018</td> 
@@ -453,7 +453,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG" target="_blank">Sorgente dell’app AEM Forms</a> </li> 
      <li>Programma di installazione di AEM Forms JEE<sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.1.14</strong></p> <p>AEM Forms App Source Code:<strong> 4.1.2</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.4.0-0001</strong></p> </td> 
+   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.1.14</strong></p> <p>Codice sorgente dell’app AEM Forms:<strong> 4.1.2</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.4.0-0001</strong></p> </td> 
   </tr> 
   <tr> 
    <td>04 aprile 2018</td> 
@@ -477,7 +477,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li>Workbench AEM <sup>[1]</sup></li> 
      <li>Programma di installazione di AEM Designer <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.0.86</strong></p> <p>Pacchetto Central Migration Bridge:<strong> 6.0.18</strong></p> <p>Pacchetto di configurazione per la sicurezza globale di AEM WebSphere:<strong> 1.0.0</strong></p> <p>Pacchetto di compatibilità per AEM Forms:<strong> 1.0.18</strong></p> <p>AEM Forms App Source Code:<strong> 4.0.30</strong></p> </td> 
+   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.0.86</strong></p> <p>Pacchetto Central Migration Bridge:<strong> 6.0.18</strong></p> <p>Pacchetto di configurazione per la sicurezza globale di AEM WebSphere:<strong> 1.0.0</strong></p> <p>Pacchetto di compatibilità per AEM Forms:<strong> 1.0.18</strong></p> <p>Codice sorgente dell’app AEM Forms:<strong> 4.0.30</strong></p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -1196,7 +1196,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
 
 >[!NOTE]
 >
->Per AEM [!DNL Forms] vengono rilasciate regolarmente patch o Quick Fix correzioni rapide per risolvere eventuali bug e migliorare l’usabilità e le prestazioni del software. Se si verifica un problema durante l’utilizzo di AEM [!DNL Forms], questo potrebbe essere già stato corretto da una patch o Quick Fix. Per informazioni dettagliate sulle versioni Quick Fix disponibili, consulta la pagina sugli [hotfix di Adobe Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=it).
+>Per AEM [!DNL Forms] vengono rilasciate regolarmente patch o Quick Fix correzioni rapide per risolvere eventuali bug e migliorare l’usabilità e le prestazioni del software. Se si verifica un problema durante l’utilizzo di AEM [!DNL Forms], questo potrebbe essere già stato corretto da una patch o Quick Fix. Per informazioni dettagliate sulle versioni Quick Fix disponibili, consulta la pagina sugli [hotfix di Adobe Experience Manager 6.2](https://helpx.adobe.com/it/experience-manager/kb/aem62-available-hotfixes.html).
 
 ## Aspetti da ricordare {#things-to-remember}
 
