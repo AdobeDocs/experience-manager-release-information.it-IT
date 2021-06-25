@@ -10,7 +10,7 @@ ht-degree: 99%
 
 ---
 
-# Versioni di AEM [!DNL Forms] {#aem-forms-releases}
+# Versioni di AEM [!DNL Forms]  {#aem-forms-releases}
 
 Adobe Experience Manager [!DNL Forms] è un’applicazione implementata in AEM. Estende esperienze web e mobile coinvolgenti a moduli e documenti aziendali per consentire alle organizzazioni di completare interazioni digitali complesse, migliorando le esperienze degli utenti e ampliando la portata del business. AEM [!DNL Forms] incluso in AEM Quick start è pronto all’uso e ha una serie limitata di funzionalità. Il pacchetto di componenti aggiuntivi per AEM [!DNL Forms] offre invece funzionalità avanzate come l’integrazione con [!DNL Adobe Analytics], [!DNL Adobe Sign], servizi documentali, motore per flussi di lavoro e molto altro.
 
@@ -20,7 +20,7 @@ Adobe Experience Manager [!DNL Forms] è un’applicazione implementata in AEM. 
 
 Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [!DNL Forms] esistenti, le corrispondenti versioni di AEM (pre-requisiti), i link per il download dei pacchetti e altre informazioni utili:
 
-## Versioni di AEM 6.5 [!DNL Forms] {#aem-65-forms-releases}
+## Versioni di AEM 6.5 [!DNL Forms]  {#aem-65-forms-releases}
 
 <table> 
   <tbody> 
@@ -230,7 +230,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
 
 `[3]` Il pacchetto di compatibilità per la versione 6.5.4.0 di AEM [!DNL Forms] rimane invariato rispetto alla versione 6.5.3.0.
 
-## Versioni di AEM 6.4 [!DNL Forms] {#aem-64-forms-releases}
+## Versioni di AEM 6.4 [!DNL Forms]  {#aem-64-forms-releases}
 
 <table> 
  <tbody> 
@@ -488,7 +488,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
 
 `[3]` Il pacchetto di compatibilità per la versione 6.4.8.0 di AEM [!DNL Forms] rimane invariato rispetto alla versione 6.4.7.0.
 
-## Versioni di AEM 6.3 [!DNL Forms] {#aem-63-forms-releases}
+## Versioni di AEM 6.3 [!DNL Forms]  {#aem-63-forms-releases}
 
 <table> 
  <tbody> 
@@ -809,7 +809,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
 
 `[3]` **IMPORTANTE**: prima di installare il pacchetto di incorporamento LiveCycle, installa [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) e assicurati che la versione del bundle **Apache Sling Authentication Service** sia 1.4.0 o successiva, altrimenti il server potrebbe bloccarsi o diventare irrecuperabile. La versione del bundle è disponibile su `http://[server]:[port]/system/console/bundles`.
 
-## Versioni di AEM 6.2 [!DNL Forms] {#aem-62-forms-releases}
+## Versioni di AEM 6.2 [!DNL Forms]  {#aem-62-forms-releases}
 
 <table> 
  <tbody> 
