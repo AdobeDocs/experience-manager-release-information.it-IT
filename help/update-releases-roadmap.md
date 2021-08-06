@@ -3,7 +3,7 @@ title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '317'
 ht-degree: 100%
 
@@ -29,9 +29,9 @@ ht-degree: 100%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Rilascio mensile | 28 ottobre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Rilascio mensile | 2 dicembre 2021 |
 
-Oltre ai rilasci mensili, in [!DNL Experience Manager] as a [!DNL Cloud Service] sono disponibili vari aggiornamenti critici con una frequenza di rilascio giornaliera.
+Oltre ai rilasci mensili, per [!DNL Experience Manager] as a [!DNL Cloud Service] vengono rilasciati vari aggiornamenti critici su base giornaliera.
 
-## Offerte On-Premise e Managed Services di [!DNL Experience Manager]  {#aem-on-prem-managed-services}
+## Offerte On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
 Gli aggiornamenti di prodotto in termini di nuove funzioni, miglioramenti e correzioni di bug per le offerte On-Premise e Managed Services di [!DNL Experience Manager] supportati vengono forniti tramite Service Pack trimestrali e Cumulative Fix Pack (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
 
