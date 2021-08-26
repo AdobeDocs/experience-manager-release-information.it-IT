@@ -743,7 +743,7 @@ Gli elementi di rilievo di **AEM Cumulative Fix Pack** sono:
 #### Interfaccia utente {#user-interface}
 
 * Correzioni proattive per l’accesso alla piattaforma. NPR-26961
-* (Multifield) Utilizzo di nomi personalizzati consentito per gli elementi compositi. NPR-26493: Hotfix per GRANITE-20568
+* &lpar;Multifield&rpar; Utilizzo di nomi personalizzati consentito per gli elementi compositi. NPR-26493: Hotfix per GRANITE-20568
 * Una pagina incollata non viene visualizzata nella vista a colonne finché questa non viene aggiornata. NPR-26030: Hotfix per CQ-4236346
 * Correzioni proattive per granite.ui.commons. NPR-26960
 * Correzioni proattive per granite.ui.content. NPR-26959
