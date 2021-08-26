@@ -1405,7 +1405,7 @@ Elenco dei pacchetti di contenuti inclusi in AEM 6.3.1.2
 Gli elementi di rilievo di AEM Cumulative Fix Pack sono:
 
 * Abilitazione dell’azione Pubblica su Brand Portal per il modulo schema metadati predefinito.
-* Modifica del comportamento nella visualizzazione dei titoli nella scheda Immagine per un’immagine con la proprietà dc: title impostata su String [](multifield).
+* Modifica del comportamento nella visualizzazione dei titoli nella scheda Immagine per un’immagine con la proprietà dc: title impostata su String [] (multifield).
 * Sostituzione del rendering del tempo lato server con il componente di tempo di Foundation.
 * Abilitazione della pubblicazione di tag da AEM a Brand Portal dalla console tagadmin/tagging.
 * Pubblicazione dell’API JSON per l’utilizzo di frammenti di contenuto.
