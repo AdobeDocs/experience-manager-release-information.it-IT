@@ -2,9 +2,9 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
-workflow-type: ht
-source-wordcount: '317'
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+workflow-type: tm+mt
+source-wordcount: '299'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,6 @@ ht-degree: 100%
 
 | Versione | Versione | Tipo | Pianificazione |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Rilascio mensile | 29 luglio 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Rilascio mensile | 26 agosto 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Rilascio mensile | 30 settembre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Rilascio mensile | 28 ottobre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Rilascio mensile | 2 dicembre 2021 |
@@ -41,7 +39,6 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 
 | Versione | Versione | Tipo | Pianificazione |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 26 agosto 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 novembre 2021 |
 
 >[!NOTE]
@@ -57,5 +54,5 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 >* [Matrice EOL](https://helpx.adobe.com/it/support/programs/eol-matrix.html)
 >* Versioni e aggiornamenti di [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=it)
 >* Informazioni e supporto per [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
->* [Definizioni delle versioni di aggiornamento di [!DNL Experience Manager]](/help/update-release-vehicle-definitions.md)
+>* Definizioni delle versioni di aggiornamento di [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
