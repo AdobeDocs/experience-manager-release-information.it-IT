@@ -3,9 +3,9 @@ title: Versioni di AEM Forms
 description: Elenco di tutte le versioni di AEM Forms e dei relativi pacchetti
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 7ad2dc86027f0c3a64922c1328f154e2fd8f403f
+source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
 workflow-type: tm+mt
-source-wordcount: '10036'
+source-wordcount: '9745'
 ht-degree: 100%
 
 ---
@@ -213,8 +213,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WEBSPHERE-GLOBALSEC-CONFIG">Pacchetto di configurazione per la sicurezza globale di AEM WebSphere</a> </li> 
       <li><a href="https://licensing.adobe.com/">Programma di installazione di AEM Forms JEE</a><sup> [1]</sup></li> 
       <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li> 
-      <li><a href="https://licensing.adobe.com/">Programma di installazione di AEM Designer</a> <sup>[1]</sup></li> 
-      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.4.0-COMPAT">Pacchetto di compatibilità per AEM Forms</a></li> 
+      <li><a href="https://licensing.adobe.com/">Programma di installazione di AEM Designer</a> <sup>[1]</sup></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">Sorgente dell’app AEM Forms</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">Pacchetto per il sito di riferimento FSI di AEM Forms</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">Pacchetto per il sito di riferimento Gov di AEM Forms</a></li> 
@@ -385,8 +384,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">Pacchetto del componente aggiuntivo AEM Forms per Linux</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-WIN">Pacchetto del componente aggiuntivo AEM Forms per Windows</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X[2]</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/fd/AEM-FORMS-6.4.5.0-COMPAT">Pacchetto di compatibilità per AEM Forms</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X[2]</a><br /> </li>      
      <li>Programma di installazione di AEM Forms JEE [1]<br /> </li> 
     </ul> </td> 
    <td><p>Programma di installazione di AEM Forms JEE: 6.4.0-0008_00</p> <p>Pacchetti del componente aggiuntivo AEM Forms: 5.1.66</p> <p>Pacchetto di compatibilità per AEM Forms:<strong> </strong>1.1.14</p> <br /> </td> 
@@ -417,8 +415,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-LX">Pacchetto del componente aggiuntivo AEM Forms per Linux</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-WIN">Pacchetto del componente aggiuntivo AEM Forms per Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-SOL">Pacchetto del componente aggiuntivo AEM Forms per Solaris</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X<sup>[2]</sup></a></li> 
-     <li>Programma di installazione di AEM Forms JEE<sup>[1]</sup><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG"></a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X<sup>[2]</sup></a></li>      
     </ul> </td> 
    <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>5.1.42</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.4.0-004</strong></p> </td> 
   </tr> 
@@ -770,9 +767,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-LX" target="_blank">Pacchetto del componente aggiuntivo AEM Forms per Linux</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-WIN" target="_blank">Pacchetto del componente aggiuntivo AEM Forms per Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-SOL" target="_blank">Pacchetto del componente aggiuntivo AEM Forms per Solaris</a></li>
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X </a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG" target="_blank">Pacchetto per AEM Forms JEE</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-FORMS-APP-SRC-PKG" target="_blank">AEM Forms App Source Code</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X </a></li>      
      <li>AEM Forms Client SDK<sup>[1]</sup><br /> </li> 
      <li>AEM Forms Designer<sup>[1]</sup></li> 
      <li>Programma di installazione di AEM Forms JEE<sup>[1]</sup></li> 
@@ -785,18 +780,9 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
    <td>Pacchetto del componente aggiuntivo AEM Forms 6.3</td> 
    <td><a href="https://docs.adobe.com/docs/en/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
    <td> 
-    <ul> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-AIX">Pacchetto del componente aggiuntivo AEM Forms per AIX</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-LX">Pacchetto del componente aggiuntivo AEM Forms per Linux</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-WIN">Pacchetto del componente aggiuntivo AEM Forms per Windows</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-SOL">Pacchetto del componente aggiuntivo AEM Forms per Solaris</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-Forms-6.3-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X</a><sup>[2]</sup></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">Pacchetto Central Migration Bridge</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">Pacchetto del AEM Forms App Source Code</a></li> 
+    <ul>      
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">Pacchetto Document Security Indexer per AEM Forms</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">Pacchetto per il sito di riferimento FSI di AEM Forms</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">Pacchetto per il sito di riferimento Gov di AEM Forms</a></li> 
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li>      
     </ul> </td> 
    <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>4.0.74</strong></p> <p>Pacchetto Central Migration Bridge: <strong>5.0.10</strong></p> <p>Sorgente dell’app AEM Forms: <strong>3.1.12</strong></p> <p>Document Security Indexer per AEM Forms: <strong>2.0.4</strong></p> <p>Pacchetto per il sito di riferimento FSI di AEM Forms: <strong> aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>Pacchetto per il sito di riferimento Gov di AEM Forms: <strong>day/cq60/fd: cq -we-gov-all-pkg:4.0.8</strong></p> </td> 
   </tr> 
