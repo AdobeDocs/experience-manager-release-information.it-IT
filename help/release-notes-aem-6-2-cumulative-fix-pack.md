@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: Note sulla versione AEM 6.2 Cumulative Fix Pack.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **Prodotto** | Adobe Experience Manager |
 |---|---|
 | **Versione** | 6.2 |
-| **Versione** | [Cumulative Fix Pack 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Versione** | Cumulative Fix Pack 6.2 SP1-CFP20 |
 | **Prerequisito** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Disponibilità generale** | 6 giugno 2019 |
 
@@ -2206,7 +2206,7 @@ Questa sezione descrive i requisiti e i passaggi necessari per installare il CFP
 
 * AEM 6.2 Service Pack 1 è un prerequisito per CFP. Per le istruzioni di installazione, consulta le [note sulla versione di AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 
-* Il download del Cumulative Fix Pack è disponibile su [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), a cui è possibile accedere direttamente dall’istanza di AEM.
+* Il download del Cumulative Fix Pack è disponibile su [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), a cui è possibile accedere direttamente dall’istanza di AEM.
 * Per un’implementazione cluster tramite RDBMK o MongoDB, il pacchetto CFP può essere installato in una qualsiasi delle istanze di authoring che utilizzano Gestione pacchetti.
 
 * Prima di installare il Cumulative Fix Pack, assicurati di creare uno snapshot o eseguire un backup dell’istanza di AEM.

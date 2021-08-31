@@ -2,14 +2,13 @@
 title: Installazione di Cumulative Fix Pack in AEM Forms JEE
 description: Riepilogo dell’installazione e configurazione di Cumulative Fix Pack (CFP) in AEM Forms JEE
 contentOwner: AK
-translation-type: ht
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
-source-wordcount: '1102'
+exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
+workflow-type: tm+mt
+source-wordcount: '1044'
 ht-degree: 100%
 
 ---
-
 
 # Installazione di Cumulative Fix Pack in AEM [!DNL  Forms] JEE {#installing-cumulative-fix-packs-on-aem-forms-jee}
 
@@ -22,9 +21,9 @@ Per installare Cumulative Fix Pack in AEM 6.3 [!DNL Forms JEE], effettua le segu
 1. Installare la versione più recente di AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
 1. Installare il pacchetto del componente aggiuntivo [!DNL Forms] per AEM CFP [6.3.3.x](aem-forms-releases.md)
 
-### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
+### Installare il pacchetto di bundle AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
 
-Il pacchetto per [AEM [!DNL  Forms JEE]](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG) (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce agli utenti di [!DNL Forms] su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
+Il pacchetto per AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce agli utenti di [!DNL Forms] su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
@@ -49,14 +48,14 @@ Per installare Cumulative Fix Pack in AEM 6.2 [!DNL Forms JEE], effettua le segu
 
 1. Per ottenere il programma di installazione di AEM 6.2 [!DNL Forms JEE] per Cumulative Fix Pack, contatta il [supporto Adobe](https://www.adobe.com/account/sign-in.supportportal.html).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
-1. Installa [AEM Hotfix 12785 versione 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785).
+1. Installa AEM Hotfix 12785 versione 7.0.
 1. Installa [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 1. Installa la versione più recente di [AEM 6.2 Service Pack 1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md).
 1. Installa il pacchetto del componente aggiuntivo [!DNL Forms] per [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md).
 
-### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
+### Installare il pacchetto di bundle AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package-1}
 
-Il [pacchetto AEM Forms JEE](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&amp;$$login$$=%24%24login%24%24) (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) fornisce agli utenti di [!DNL Forms] su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
+Il pacchetto AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) fornisce agli utenti di [!DNL Forms] su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
 
 ### Configurazione del timeout per le operazioni a livello di componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -84,7 +83,7 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
 
 1. Per impostare su 500 sec i valori di timeout dell’operazione `DesigntimeService`:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   imposta &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Per impostare su 700 sec i valori di timeout dell’operazione `DesigntimeService's previewLCA`:
 
@@ -92,7 +91,7 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
 
 1. Per impostare su 600 sec `DSC operations` come caricamento, installazione e così via:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   imposta &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Installare e configurare AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
