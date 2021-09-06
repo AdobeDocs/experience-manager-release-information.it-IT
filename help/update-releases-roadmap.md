@@ -3,7 +3,7 @@ title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [[!DNL Experience Manager]  as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=it) segue una cadenza di rilascio mensile. Le nuove funzionalità sono quindi disponibili mensilmente come aggiornamenti continui di [!DNL Experience Manager]. Di seguito sono elencate le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service].
 
-| Versione | Versione | Tipo | Pianificazione |
+| Nome | Versione | Tipo | Pianificazione |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Rilascio mensile | 30 settembre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Rilascio mensile | 28 ottobre 2021 |
@@ -37,7 +37,7 @@ Gli aggiornamenti di prodotto in termini di nuove funzioni, miglioramenti e corr
 
 Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it).
 
-| Versione | Versione | Tipo | Pianificazione |
+| Nome | Versione | Tipo | Pianificazione |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 novembre 2021 |
 
