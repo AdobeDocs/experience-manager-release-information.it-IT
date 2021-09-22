@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 5ec20490b5845b863e3b707b883f2a819b46e0b0
 workflow-type: tm+mt
 source-wordcount: '10253'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -56,7 +56,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
      </ul> </td> 
-    <td><p>Programma di installazione di AEM Forms JEE: AEMForms-6.5.0-0032<br /> </p> Pacchetti del componente aggiuntivo AEM Forms: 6.0.490</p> <p>Client SDK: 6.0.490<br /> </p><p>Pacchetto di compatibilità per AEM Forms: 2.0.40</p><p>Patch per AEM Forms Designer: 650.017</p><p>Pacchetto incorporato AEM Forms su JEE: 5.0.18</p></td> 
+    <td><p>Programma di installazione di AEM Forms JEE: AEMForms-6.5.0-0032<br /> </p> Pacchetti del componente aggiuntivo AEM Forms: 6.0.490</p> <p>Client SDK: 6.0.490<br /> </p><p>Pacchetto di compatibilità per AEM Forms: 2.0.40</p><p>Patch per AEM Forms Designer: 650.017</p><p>Pacchetto di incorporamento AEM Forms su JEE: 5.0.18</p></td> 
    </tr>
    <tr> 
     <td>3 giugno 2021</td> 
@@ -82,7 +82,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>Programma di installazione di AEM Forms JEE: AEMForms-6.5.0-0028<br /> </p> Pacchetti del componente aggiuntivo AEM Forms: 6.0.434</p> <p>Client SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>Pacchetto incorporato AEM Forms su JEE: 5.0.14</p></td> 
+    <td><p>Programma di installazione di AEM Forms JEE: AEMForms-6.5.0-0028<br /> </p> Pacchetti del componente aggiuntivo AEM Forms: 6.0.434</p> <p>Client SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>Pacchetto di incorporamento AEM Forms su JEE: 5.0.14</p></td> 
    </tr>
    <tr> 
     <td>18 marzo 2021</td> 
@@ -743,10 +743,10 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Pacchetto del componente aggiuntivo AEM Forms per Mac OS X</a><sup> [2] </sup></li> 
      <li>Programma di installazione di AEM Forms JEE<sup>[1]</sup></li> 
      <li>AEM Forms Client SDK<sup>[1]</sup></li> 
-     <li>Pacchetto incorporato AEM Forms su JEE <sup>[1] [3]</sup></li> 
+     <li>Pacchetto di incorporamento AEM Forms su JEE <sup>[1] [3]</sup></li> 
      <li>Codice sorgente dell’app AEM Forms<sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>4.1.36</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.3.0-0013</strong></p> <p> Pacchetto incorporato AEM Forms su JEE: <strong>4.0.20</strong></p> <p>Sorgente dell’app AEM Forms: <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
+   <td><p>Pacchetti del componente aggiuntivo AEM Forms e Client SDK: <strong>4.1.36</strong></p> <p>Programma di installazione di AEM Forms JEE: <strong>6.3.0-0013</strong></p> <p> Pacchetto di incorporamento AEM Forms su JEE: <strong>4.0.20</strong></p> <p>Sorgente dell’app AEM Forms: <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
   </tr> 
   <tr> 
    <td>13 ottobre 2017</td> 
@@ -820,7 +820,7 @@ Il seguente elenco contiene tutti i pacchetti di componenti aggiuntivi per AEM [
 
 `[2]` Il pacchetto del componente aggiuntivo AEM [!DNL Forms] per Mac OS X non è supportato negli ambienti di produzione e deve essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per Mac OS X.
 
-`[3]` **IMPORTANTE**: Prima di installare il pacchetto di incorporamento AEM Forms su JEE, installa  [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) e assicurati che la versione di  **Apache Sling Authentication** Service sia 1.4.0 o più, altrimenti il server potrebbe non essere reattivo e non essere recuperabile. La versione del bundle è disponibile su `http://[server]:[port]/system/console/bundles`.
+`[3]` **IMPORTANTE**: prima di installare il pacchetto di incorporamento AEM Forms su JEE, installa [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) e assicurati che la versione del bundle **Apache Sling Authentication Service** sia 1.4.0 o successiva, altrimenti il server potrebbe bloccarsi o diventare irrecuperabile. La versione del bundle è disponibile su `http://[server]:[port]/system/console/bundles`.
 
 <!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
