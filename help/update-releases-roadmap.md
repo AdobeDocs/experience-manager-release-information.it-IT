@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: dcd72e5b5a4bbcf7c9892b654a18f4b687dc2c2c
 workflow-type: tm+mt
 source-wordcount: '311'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 
 >[!NOTE]
 >
->Per [!DNL Experience Manager] Forms vengono rilasciati pacchetti del componente aggiuntivo una settimana dopo la data di rilascio pianificata per il Service Pack di [!DNL Experience Manager].
+>I pacchetti del componente aggiuntivo [!DNL Experience Manager] Forms vengono rilasciati una settimana dopo la data di rilascio pianificata per il Service Pack di [!DNL Experience Manager].
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
