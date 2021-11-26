@@ -4,8 +4,8 @@ description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
