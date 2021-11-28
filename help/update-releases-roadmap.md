@@ -2,10 +2,10 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: 3a32f1a6f2807219c235d59c841e53e88a017fad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 | Nome | Versione | Tipo | Pianificazione |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Rilascio mensile | 2 dicembre 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Rilascio mensile | 16 dicembre 2021 |
 
 Oltre ai rilasci mensili, per [!DNL Experience Manager] as a [!DNL Cloud Service] vengono rilasciati vari aggiornamenti critici su base giornaliera.
 
