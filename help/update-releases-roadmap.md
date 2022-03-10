@@ -2,9 +2,9 @@
 title: '"[!DNL Adobe Experience Manager] release roadmap"'
 description: '"[!DNL Adobe Experience Manager] release roadmap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7050ba180d88533bc057a6789ba5e1fb75b4f28a
+source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '329'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 98%
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Rilascio mensile | 16 dicembre 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | Rilascio mensile | 3 febbraio 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | Rilascio mensile | 10 marzo 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Rilascio mensile | 31 marzo 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Rilascio mensile | 28 aprile 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Rilascio mensile | 26 maggio 2022 |
