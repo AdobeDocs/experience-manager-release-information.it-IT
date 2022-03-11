@@ -1,11 +1,11 @@
 ---
-title: '"[!DNL Adobe Experience Manager] release roadmap"'
-description: '"[!DNL Adobe Experience Manager] release roadmap"'
+title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
+description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '329'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
