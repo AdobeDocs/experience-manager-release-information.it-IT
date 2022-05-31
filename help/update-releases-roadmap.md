@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 2ce78b5a21a9f167753043c61995b728cfa9164d
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: 53cccff092a433c3fba00a43def69606ee6e2a11
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Le nuove funzioni di [[!DNL Experience Manager] as a [!DNL Cloud Service]](https
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Release funzionale | 31 marzo 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Release funzionale | 5 maggio 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Release funzionale | 2 giugno 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Release funzionale | 9 giugno 2022 |
 
 Oltre alle release funzionali, [!DNL Experience Manager] as a [!DNL Cloud Service] prevede anche delle release di manutenzione per correzioni di bug critici e di sicurezza, con il relativo aggiornamento di manutenzione solitamente a cadenza settimanale.
 
