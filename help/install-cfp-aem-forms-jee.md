@@ -3,10 +3,10 @@ title: Installazione di Cumulative Fix Pack in AEM Forms JEE
 description: Riepilogo dell’installazione e configurazione di Cumulative Fix Pack (CFP) in AEM Forms JEE
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: ht
-source-wordcount: '1044'
-ht-degree: 100%
+source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
+workflow-type: tm+mt
+source-wordcount: '910'
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ Per installare Cumulative Fix Pack in AEM 6.3 [!DNL Forms JEE], effettua le segu
 
 1. Per ottenere il programma di installazione di AEM 6.3 [!DNL Forms JEE] per Cumulative Fix Pack, contatta il [supporto Adobe](https://www.adobe.com/account/sign-in.supportportal.html).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
-1. Installare la versione più recente di AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
+1. Installare la versione più recente di AEM CFP 6.3.3.x
 1. Installare il pacchetto del componente aggiuntivo [!DNL Forms] per AEM CFP [6.3.3.x](aem-forms-releases.md)
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
@@ -27,7 +27,7 @@ Il pacchetto per AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versi
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
-Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, configura le seguenti impostazioni successivamente alla distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale. Consulta l’argomento CQ-4208044 nelle [Note sulla versione di AEM 6.3](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205).
+Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, configura le seguenti impostazioni successivamente alla distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
 
 1. Accedi all’interfaccia utente di **amministrazione**.
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Gestione utente]** > **[!UICONTROL Configurazione]** > **[!UICONTROL Import and Export Configuration File]** (Importa ed esporta file di configurazione).
@@ -42,16 +42,12 @@ Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, confi
 
 Per installare Cumulative Fix Pack in AEM 6.2 [!DNL Forms JEE], effettua le seguenti operazioni, nella sequenza specificata.
 
->[!NOTE]
->
->Per AEM 6.2 [!DNL Forms OSGi], segui le istruzioni di installazione in [Note sulla versione di AEM 6.2 CFP.](release-notes-aem-6-2-cumulative-fix-pack.md)
-
 1. Per ottenere il programma di installazione di AEM 6.2 [!DNL Forms JEE] per Cumulative Fix Pack, contatta il [supporto Adobe](https://www.adobe.com/account/sign-in.supportportal.html).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installa AEM Hotfix 12785 versione 7.0.
-1. Installa [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/it/aem/6-2/release-notes/sp1.html).
-1. Installa la versione più recente di [AEM 6.2 Service Pack 1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md).
-1. Installa il pacchetto del componente aggiuntivo [!DNL Forms] per [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md).
+1. Installa AEM 6.2 Service Pack 1.
+1. Installa l&#39;ultima versione-notes-aem-6-2-cumulative-fix-pack.md.
+1. Installa il pacchetto del componente aggiuntivo [!DNL Forms] per AEM 6.2 Service Pack 1 CFP.
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
@@ -61,7 +57,7 @@ Il pacchetto AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) f
 
 >[!NOTE]
 >
->Dopo AEM 6.2 CFP4, puoi utilizzare le seguenti istruzioni per configurare il timeout per operazioni DSC, qualora si verifichino problemi dovuti a errori di timeout durante il processo di aggiornamento. Consulta NPR-16774 nelle [Note sulla versione di AEM 6.2 CFP4](release-notes-aem-6-2-cumulative-fix-pack.md).
+>Dopo AEM 6.2 CFP4, puoi utilizzare le seguenti istruzioni per configurare il timeout per operazioni DSC, qualora si verifichino problemi dovuti a errori di timeout durante il processo di aggiornamento.
 
 L’implementazione di DSC richiede un intervallo tempo variabile e, per questo motivo, potrebbe non riuscire. Per modificare il valore di timeout per le operazioni DSC come l’installazione, il caricamento, l’avvio e l’arresto, è necessario impostare `adobe.component.registry.timeout` utilizzando l’argomento JVM con l’opzione -D.
 
@@ -142,22 +138,8 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
 
    Per AEM [!DNL Forms] 6.3, consulta:
 
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per JBoss](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-jboss.pdf)
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per WebSphere](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per WebLogic](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-weblogic.pdf)
-
-   Per AEM [!DNL Forms] 6.2, consulta:
-
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per JBoss](http://www.adobe.com/go/learn_aemforms_installJBoss_62)
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per WebSphere](http://www.adobe.com/go/learn_aemforms_installWebSphere_62)
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per WebLogic](http://www.adobe.com/go/learn_aemforms_installWebLogic_62)
-
-   Per AEM Forms 6.1, consulta:
-
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per JBoss](http://www.adobe.com/go/learn_aemforms_installJBoss_61)
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per WebSphere](http://www.adobe.com/go/learn_aemforms_installWebSphere_61)
-   * [Installazione e distribuzione di AEM  [!DNL Forms]  per WebLogic](http://www.adobe.com/go/learn_aemforms_installWebLogic_61)
-
-
+   * Installazione e distribuzione di AEM [!DNL Forms] per JBoss
+   * Installazione e distribuzione di AEM [!DNL Forms] per WebSphere
+   * Installazione e distribuzione di AEM [!DNL Forms] per WebLogic
 
 1. Riavvia il server AEM [!DNL Forms] JEE.
