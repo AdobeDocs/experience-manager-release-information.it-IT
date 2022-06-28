@@ -4,9 +4,9 @@ description: Riepilogo dell’installazione e configurazione di Cumulative Fix P
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Per installare Cumulative Fix Pack in AEM 6.2 [!DNL Forms JEE], effettua le segu
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installa AEM Hotfix 12785 versione 7.0.
 1. Installa AEM 6.2 Service Pack 1.
-1. Installa l&#39;ultima versione-notes-aem-6-2-cumulative-fix-pack.md.
+1. Installa l’ultimo pacchetto release-notes-aem-6-2-cumulative-fix-pack.md.
 1. Installa il pacchetto del componente aggiuntivo [!DNL Forms] per AEM 6.2 Service Pack 1 CFP.
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
