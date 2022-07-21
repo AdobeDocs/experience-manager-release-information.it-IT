@@ -1,16 +1,16 @@
 ---
-title: Precedenti aggiornamenti alla documentazione
+title: 'Precedenti aggiornamenti alla documentazione '
 description: In questa pagina sono elencate le precedenti modifiche e aggiornamenti significativi della documentazione di [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Precedenti aggiornamenti alla documentazione{#previous-documentation-updates}
+# Precedenti aggiornamenti alla documentazione {#previous-documentation-updates}
 
 In questa pagina sono elencate le precedenti modifiche e aggiornamenti significativi della documentazione di [!DNL Adobe Experience Manager]. È possibile visualizzare gli [Aggiornamenti recenti della documentazione](documentation-updates.md) qui.
 
@@ -45,8 +45,8 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   </tr>
   <tr>
    <td>18 ottobre 2019<br /> </td> 
-   <td>Archetipo di progetto AEM<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM Project Archetype</a> ti consente di sviluppare un progetto AEM partendo da un prototipo basato sulle best practice di Adobe Experience Manager.<br /> </td> 
+   <td>AEM Project Archetype<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=it">AEM Project Archetype</a> ti consente di sviluppare un progetto AEM partendo da un prototipo basato sulle best practice di Adobe Experience Manager.<br /> </td> 
   </tr>
   <tr>
    <td>18 ottobre 2019<br /> </td> 
@@ -101,7 +101,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>19 settembre 2019</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td>È ora disponibile <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it#service-pack">AEM 6.5 Service Pack 2 (6.5.2.0)</a>.</td>
+   <td>È ora disponibile <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it">AEM 6.5 Service Pack 2 (6.5.2.0)</a>.</td>
   </tr>
   <tr>
    <td>9 settembre 2019</td> 
@@ -156,7 +156,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>3 luglio 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td>È ora disponibile <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0)</a>.</td> 
+   <td>È ora disponibile <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it">AEM 6.5 Service Pack 1 (6.5.1.0)</a>.</td> 
   </tr>
   <tr>
    <td>25 giugno 2019</td> 
@@ -225,7 +225,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>12 aprile 2019</td> 
    <td>Guida utente di AEM 6.5 Screens</td> 
-   <td><p>Per ulteriori informazioni, consulta <a href="https://docs.adobe.com/content/help/it-IT/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Implementazione di Windows 10 Player</a>.</p> </td> 
+   <td><p>Per ulteriori informazioni, consulta <a href="https://docs.adobe.com/content/help/it/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Implementazione di Windows 10 Player</a>.</p> </td> 
   </tr>
   <tr>
    <td>8 aprile 2019</td> 
@@ -262,12 +262,12 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>19 settembre 2019</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td>È ora disponibile <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a>.</td> 
+   <td>È ora disponibile <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=it">AEM 6.4 Service Pack 6 (6.4.6.0)</a>.</td> 
   </tr>
   <tr>
    <td>9 settembre 2019<br /> </td> 
    <td>App desktop AEM</td> 
-   <td>L’app desktop AEM v2.0 è disponibile e consente a creativi, addetti al marketing e utenti del settore di lavorare con AEM Assets. Consulta le <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">note sulla versione</a>.</td> 
+   <td>L’app desktop AEM v2.0 è disponibile e consente a creativi, addetti al marketing e utenti del settore di lavorare con AEM Assets. Consulta le <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=it" target="_blank">note sulla versione</a>.</td> 
   </tr>
   <tr>
    <td>6 settembre 2019</td> 
@@ -277,7 +277,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>20 agosto 2019</td> 
    <td>AEM Assets: tag avanzati</td> 
-   <td>Scopri come <a href="https://docs.adobe.com/content/help/it-IT/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">aggiornare il certificato</a> dopo la scadenza.</td> 
+   <td>Scopri come <a href="https://docs.adobe.com/content/help/it/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">aggiornare il certificato</a> dopo la scadenza.</td> 
   </tr>
   <tr>
    <td>2 agosto 2019<br /> </td> 
@@ -302,7 +302,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>4 aprile 2019</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td>È ora disponibile <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a>.</td> 
+   <td>È ora disponibile <a href="https://docs.adobe.com/content/help/it/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a>.</td> 
   </tr>
   <tr>
    <td>22 febbraio 2019</td> 
@@ -339,7 +339,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>20 dicembre 2018</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td>È ora disponibile <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a>.</td> 
+   <td>È ora disponibile <a href="https://docs.adobe.com/content/help/it/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a>.</td> 
   </tr>
   <tr>
    <td>17 dicembre 2018</td> 
@@ -374,7 +374,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>28 novembre 2018</td> 
    <td>Componenti core<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/it-IT/experience-manager-core-components/using/versions.html">La documentazione dei componenti core</a> è stata aggiornata di conseguenza.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/it/experience-manager-core-components/using/versions.html">La documentazione dei componenti core</a> è stata aggiornata di conseguenza.<br /> </td> 
   </tr>
   <tr>
    <td>19 novembre 2018</td> 
@@ -399,7 +399,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>16 ottobre 2018</td> 
    <td>Componenti core<br /> </td> 
-   <td>Sono stati apportati miglioramenti e numerose correzioni di bug alla versione 2.2.0 dei componenti <a href="https://docs.adobe.com/content/help/it-IT/experience-manager-core-components/using/components/tabs.html">Schede</a> e <a href="https://docs.adobe.com/content/help/it/experience-manager-core-components/using/components/carousel.html">Carosello</a>, come anche ai componenti Immagine, Titolo e Pagina.</td> 
+   <td>Sono stati apportati miglioramenti e numerose correzioni di bug alla versione 2.2.0 dei componenti <a href="https://docs.adobe.com/content/help/it/experience-manager-core-components/using/components/tabs.html">Schede</a> e <a href="https://docs.adobe.com/content/help/it/experience-manager-core-components/using/components/carousel.html">Carosello</a>, come anche ai componenti Immagine, Titolo e Pagina.</td> 
   </tr>
   <tr>
    <td>10 ottobre 2018<br /> </td> 
@@ -414,7 +414,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>3 ottobre 2018</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td>È ora disponibile <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2 (6.4.2.0)</a>.</td> 
+   <td>È ora disponibile <a href="https://docs.adobe.com/content/help/it/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2 (6.4.2.0)</a>.</td> 
   </tr>
   <tr>
    <td>18 settembre 2018</td> 
@@ -434,12 +434,12 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>24 agosto 2018</td> 
    <td>Editor Rich Text<br /> </td> 
-   <td>L’articolo sulla <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configurazione dell’Editor Rich Text</a> è stato suddiviso in più sezioni e aggiornato con una migliore struttura, informazioni aggiuntive e un’illustrazione del flusso di lavoro.</td> 
+   <td>L’articolo sulla <a href="https://docs.adobe.com/content/help/it/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configurazione dell’Editor Rich Text</a> è stato suddiviso in più sezioni e aggiornato con una migliore struttura, informazioni aggiuntive e un’illustrazione del flusso di lavoro.</td> 
   </tr>
   <tr>
    <td>24 agosto 2018</td> 
    <td>Applicazioni a pagina singola<br /> </td> 
-   <td>La documentazione per lo sviluppo di <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">applicazioni su singola pagina (SPA)</a> per l’editor SPA di AEM è stata aggiornata e ampliata.<br /> </td> 
+   <td>La documentazione per lo sviluppo di <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=it&amp;topic=%2Fexperience-manager%2F6-4%2Fsites%2Fdeveloping%2Fmorehelp%2Fspa.ug.js">applicazioni su singola pagina (SPA)</a> per l’editor SPA di AEM è stata aggiornata e ampliata.<br /> </td> 
   </tr>
   <tr>
    <td>16 agosto 2018</td> 
@@ -474,7 +474,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>5 luglio 2018</td> 
    <td>Integrazione MC-CC<br /> </td> 
-   <td>Correzioni di bug e miglioramenti redazionali nell’articolo <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configurare l’integrazione di AEM Assets con Experience Cloud e Creative Cloud</a>.</td> 
+   <td>Correzioni di bug e miglioramenti redazionali nell’articolo <a href="https://docs.adobe.com/content/help/it/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configurare l’integrazione di AEM Assets con Experience Cloud e Creative Cloud</a>.</td> 
   </tr>
   <tr>
    <td>5 luglio 2018</td> 
@@ -489,7 +489,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>29 giugno 2018</td> 
    <td>AEM 6.4.1.0</td> 
-   <td>È disponibile <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a>.</td> 
+   <td>È disponibile <a href="https://docs.adobe.com/content/help/it/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a>.</td> 
   </tr>
   <tr>
    <td>25 giugno 2018</td> 
@@ -509,7 +509,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>14 giugno 2018</td> 
    <td>Sono stati migliorati i tag avanzati</td> 
-   <td>È stata migliorata la documentazione su come <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">configurare i tag delle risorse mediante Smart Content Service</a>.</td> 
+   <td>È stata migliorata la documentazione su come <a href="https://docs.adobe.com/content/help/it/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">configurare i tag delle risorse mediante Smart Content Service</a>.</td> 
   </tr>
   <tr>
    <td>4 giugno 2018</td> 
@@ -555,7 +555,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>24 aprile 2018<br /> </td> 
    <td>Applicazioni a pagina singola<br /> </td> 
-   <td><p>Le applicazioni a pagina singola (SPA) possono offrire esperienze coinvolgenti agli utenti di siti web. Gli sviluppatori desiderano essere in grado di creare siti utilizzando framework SPA e gli autori desiderano modificare i contenuti all’interno di AEM per un sito creato come SPA.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">La funzione di authoring di applicazioni a pagina singola</a> (attualmente disponibile come anteprima tecnologica) offre una soluzione completa per il supporto di applicazioni a pagina singola in AEM.</p> </td> 
+   <td><p>Le applicazioni a pagina singola (SPA) possono offrire esperienze coinvolgenti agli utenti di siti web. Gli sviluppatori desiderano essere in grado di creare siti utilizzando framework SPA e gli autori desiderano modificare i contenuti all’interno di AEM per un sito creato come SPA.</p> <p><a href="https://docs.adobe.com/content/help/it/experience-manager-64/developing/headless/spas/spa-walkthrough.html">La funzione di authoring di applicazioni a pagina singola</a> (attualmente disponibile come anteprima tecnologica) offre una soluzione completa per il supporto di applicazioni a pagina singola in AEM.</p> </td> 
   </tr>
   <tr>
    <td>4 aprile 2018</td> 
@@ -571,7 +571,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
 
 ## Contenuti precedenti {#legacy-content}
 
-A partire dal 24 ottobre 2017, le versioni precedenti della documentazione di AEM sono state spostate in una nuova posizione in [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=it).
+A partire dal 24 ottobre 2017, le versioni precedenti della documentazione di AEM sono state spostate in [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=it).
 
 Sono state spostate le seguenti versioni:
 
@@ -601,7 +601,7 @@ Sono state spostate le seguenti versioni:
   <tr>
    <td>14 febbraio 2018</td> 
    <td>Versioni e aggiornamenti per AEM</td> 
-   <td><p>È ora disponibile un hub unico per tutte le versioni e gli aggiornamenti disponibili di AEM. In esso è presente un collegamento ai pacchetti di correzione cumulativi più recenti, service pack, feature pack e hotfix per AEM 6.4, AEM 6.3, AEM 6.2 e AEM 6.1.</p> <p>Consulta <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html">Versioni e aggiornamenti di AEM</a>. </p> </td> 
+   <td><p>È ora disponibile un hub unico per tutte le versioni e gli aggiornamenti disponibili di AEM. In esso è presente un collegamento ai pacchetti di correzione cumulativi più recenti, service pack, feature pack e hotfix per AEM 6.4, AEM 6.3, AEM 6.2 e AEM 6.1.</p> <p>Consulta <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=it">Versioni e aggiornamenti di AEM</a>. </p> </td> 
   </tr>
  </tbody>
 </table>
