@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: bc57d5d74c91ff4af4f14886a1ba2aefb5daed9f
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Le date seguenti e gli aggiornamenti della roadmap disponibili in questo articolo sono solo a scopo informativo e sono soggette a modifiche in qualsiasi momento.
+>Le seguenti date e gli aggiornamenti della roadmap presentati in questo articolo sono solo a scopo informativo e sono soggetti a modifiche in qualsiasi momento.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
