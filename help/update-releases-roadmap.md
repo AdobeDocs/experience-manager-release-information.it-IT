@@ -2,9 +2,9 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 910c642b207c0dca1ed51286fd7f99981508e159
+source-git-commit: ba84fc0741908dd935f66887d2ef7219a5c5a64a
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '322'
 ht-degree: 99%
 
 ---
@@ -35,11 +35,10 @@ Gli aggiornamenti di prodotto in termini di nuove funzioni, miglioramenti e corr
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=it).
+Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=it).
 
 | Nome | Versione | Tipo | Pianificazione |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 24 febbraio 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 26 maggio 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25 agosto 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24 novembre 2022 |
