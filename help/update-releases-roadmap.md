@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 297629d471c0c3ac6a13015d3eac1594732837d6
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] come [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=it) in genere esegue il targeting di una frequenza di rilascio mensile per le nuove funzioni. Le prossime attivazioni delle funzioni per [!DNL Experience Manager] come [!DNL Cloud Service]s sono programmati come segue.
+Le nuove funzioni di [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=it) vengono solitamente rilasciate a cadenza mensile. Le prossime attivazioni delle funzioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono pianificate come segue.
 
 | Nome | Versione | Tipo | Pianificazione |
 |---|---|---|---|
@@ -30,7 +30,7 @@ ht-degree: 80%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Attivazione delle funzioni | 27 aprile 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Attivazione delle funzioni | 25 maggio 2023 |
 
-Oltre alle release delle funzioni, sono disponibili correzioni di bug critici e di sicurezza in [!DNL Experience Manager] come [!DNL Cloud Service] sotto forma di release di manutenzione, con un corrispondente aggiornamento di manutenzione generalmente avviene con una frequenza più elevata.
+Oltre alle release funzionali, [!DNL Experience Manager] as a [!DNL Cloud Service] prevede anche delle release di manutenzione per correzioni critiche relative ai bug e alla sicurezza, con il relativo aggiornamento di manutenzione con frequenza solitamente superiore.
 
 ## Offerte On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
