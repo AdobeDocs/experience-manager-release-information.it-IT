@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
 source-wordcount: '14263'
-ht-degree: 88%
+ht-degree: 90%
 
 ---
 
@@ -109,7 +109,7 @@ Il seguente elenco contiene tutti i AEM [!DNL Forms] pacchetti aggiuntivi rilasc
       <br><b>Programmi di installazione patch per AEM Forms su JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/JBoss/Win/AEMForms-6.5.0-0053_jboss_win.zip">JBoss® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/JBoss/Linux/AEMForms-6.5.0-0053_jboss_linux.tar.gz">JBoss® Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebLogic/Win/AEMForms-6.5.0-0053_weblogic_win.zip">WebLogic su Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebLogic/win/AEMForms-6.5.0-0053_weblogic_win.zip">WebLogic su Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebLogic/Linux/AEMForms-6.5.0-0053_weblogic_linux.tar.gz">WebLogic su Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebSphere/Win/AEMForms-6.5.0-0053_websphere_win.zip">Windows WebSphere®</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebSphere/Linux/AEMForms-6.5.0-0053_websphere_linux.tar.gz">WebSphere® Linux</a></li>
