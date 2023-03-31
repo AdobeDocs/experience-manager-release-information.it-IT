@@ -4,9 +4,9 @@ description: Questo articolo descrive i vari tipi di versioni di [!DNL Experienc
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '730'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 | Elementi | Descrizione |
 |-------|------|
-| Definizione | <ul> <li> Versione pianificata </li> <li> Supporta i percorsi di aggiornamento per versioni specifiche definite nelle note sulla versione </li> </ul> |
+| Definizione | <ul> <li> Versione pianificata </li> <li> Supporta i percorsi di aggiornamento per versioni specifiche, definiti nelle note sulla versione </li> </ul> |
 | Denominazione | <ul> <li> I numeri di versione per le release principali aumentano in base alla formula X+1.Y.Z. </li> <li> I numeri di versione per le release minori aumentano in base alla formula X.Y+1.Z </li> </ul> Dove X è il numero di versione principale, Y è il numero di versione secondario e Z il numero di patch. |
 | Comprende | <ul> <li> Nuove funzioni </li> <li>  Miglioramenti </li> <li>  Correzioni di bug </li> </ul> |
 | Documentazione | <ul> <li> Le note sulla versione sono disponibili nel portale della documentazione </li> <li> La documentazione su funzioni, miglioramenti e correzioni di bug è disponibile nel portale della documentazione </li> </ul> |
@@ -77,4 +77,4 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 | Disponibilità e installazione | <ul> <li>Consegnato tramite Service Pack </li> <li> Disponibile su Software Distribution. I clienti accettano i Termini e Condizioni [!DNL Adobe's] attraverso Software Distribution. </li> </ul> |
 | Livello di test | I pacchetti di funzioni per la disponibilità generale (GA) sono convalidati tramite QA. |
 
-* 1: Le correzioni Oak non vengono consegnate come singole hotfix. Tuttavia, sono incluse nel successivo hotfix cumulativo di OAK. Se necessario, è possibile mettere a disposizione una build diagnostica oltre al COFP più recente. La condizione preliminare è che il cliente disponga del COFP più recente e lo utilizzi. Le build diagnostiche forniscono solo lo stesso livello di garanzia qualità di un hotfix. Pertanto, non forniscono la stessa garanzia di qualità di un cumulative fix pack, service pack o rilascio del prodotto. La correzione definitiva viene fornita con il successivo CFP.
+* 1: Le correzioni Oak non vengono distribuite come singoli hot fix. Tuttavia, sono incluse nel successivo hotfix cumulativo di OAK. Se necessario, è possibile mettere a disposizione una build diagnostica oltre al COFP più recente. La condizione preliminare è che il cliente disponga del COFP più recente e lo utilizzi. Le build diagnostiche forniscono solo lo stesso livello di garanzia qualità di un hotfix. Pertanto, non forniscono lo stesso livello di qualità di un Cumulative Fix Pack, di un Service Pack o di una versione del prodotto. La correzione definitiva viene fornita con il successivo CFP.
