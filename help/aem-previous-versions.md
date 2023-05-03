@@ -2,10 +2,10 @@
 title: Scaricare la documentazione per le versioni precedenti di AEM, CQ e CRX
 description: Scarica i pacchetti della documentazione per le versioni precedenti di Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '818'
-ht-degree: 100%
+source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
+workflow-type: tm+mt
+source-wordcount: '828'
+ht-degree: 99%
 
 ---
 
@@ -41,6 +41,7 @@ Per assistenza nella creazione o nella gestione dell’Adobe ID, [fai riferiment
 
 | Versione di [!DNL Experience Manager] | Collegamento per Software Distribution |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4 | [Documentazione di Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=it) |
 | [!DNL Experience Manager] 6.3 | [Scarica AEM-DOCS-6.3 da Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [Scarica AEM-DOCS-6.2 da Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [Scarica AEM-DOCS-6.1 da Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
