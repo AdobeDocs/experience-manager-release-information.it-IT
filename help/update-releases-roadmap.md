@@ -2,7 +2,7 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a6fe2531f159b29279c7fcbf9f782e1985700eee
+source-git-commit: 0e41c3ca0192478b2e98ecbd6dd90fcbff226ba9
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Le nuove funzioni di [[!DNL Experience Manager] as a [!DNL Cloud Service]](https
 | Nome | Versione | Tipo | Pianificazione |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Attivazione delle funzioni | 12 aprile 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Attivazione delle funzioni | 18 maggio 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Attivazione delle funzioni | 25 maggio 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | Attivazione delle funzioni | 29 giugno 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | Attivazione delle funzioni | 27 luglio 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | Attivazione delle funzioni | 31 agosto 2023 |
