@@ -4,9 +4,9 @@ description: In questa pagina sono elencate le precedenti modifiche e aggiorname
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -237,7 +237,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
 
 ## Contenuti precedenti {#legacy-content}
 
-A partire dal 1° maggio 2023, le versioni precedenti della documentazione di AEM sono state spostate in una nuova posizione in [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=it).
+A partire dal 1° maggio 2023, le versioni precedenti della documentazione di AEM sono state spostate in [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=it).
 
 Sono state spostate le seguenti versioni:
 
