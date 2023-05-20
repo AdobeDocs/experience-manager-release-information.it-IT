@@ -3,9 +3,9 @@ title: AEM 6.3 Cumulative Fix Pack
 description: Note sulla versione AEM 6.3 Cumulative Fix Pack.
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e9031f819352f34248c6a458ef5a9101a660fbea
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '15909'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -1831,14 +1831,14 @@ Con AEM Cumulative Fix Pack 6.3.0.2 e versioni successive, la configurazione OSG
 
 * Durante l’installazione di AEM CFP 6.3.3.x.x potrebbero essere visualizzati i seguenti errori e avvisi che è possibile ignorare senza problemi:
 
-   * *WARN* [OsgiInstallerImpl]org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar threw runtime exception.
-   * *ERROR* [OsgiInstallerImpl]com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout waiting for reg change to complete unregistered. CQ-4209974.
+   * &#42;AVVERTI&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.package.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar ha generato un&#39;eccezione di runtime.
+   * &#42;ERRORE&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout in attesa del completamento della modifica del registro non registrato. CQ-4209974.
    * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver service missing, cannot service requests , sending status 503
    * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource: cannot check resource[/bin/receive] page manager unavailable
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver: Calling the error handler resulted in an error
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver Original error null
    * org.apache.sling.engine.impl.DefaultErrorHandler Error handler failed:java.io.IOException
-   * *ERROR* [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory returned null. (Component: com.day.cq.dam.handler.standard.ps.PostScriptHandler))
+   * &#42;ERRORE&#42; [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory ha restituito un valore null. (Component: com.day.cq.dam.handler.standard.ps.PostScriptHandler))
 
 **Brand Portal**
 
@@ -1867,11 +1867,11 @@ Per aggiornare manualmente le modifiche in adobe- livecycle - cq -author.ear/ cq
 
    * aggiorna il valore di param-name in **sling.bootdelegation.ibm** con:
 
-      * com.ibm.xml.*,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
+      * com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
    * Dopo la modifica precedente, init-param dovrebbe essere simile a:
 
       * &lt;init-param>\
-         &lt;param-name>sling.bootdelegation.ibm&lt;/param-name> &lt;param-value>com.ibm.xml.*,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value>\
+         &lt;param-name>sling.bootdelegation.ibm&lt;/param-name> &lt;param-value>com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value>\
          &lt;/init-param>
 
 
@@ -1892,11 +1892,11 @@ Per aggiornare i criteri ACL, aggiungi i seguenti controlli di accesso tramite C
 `a)` Entità principale: servizio-regolazione-riferimento\
 Tipo: Consenti\
 Privilegi: jcr:read , jcr:modifyProperties\
-Restrizioni : rep:glob=&quot;/*/jcr:content&quot;\
+Restrizioni : rep:glob=&quot;/&#42;/jcr:content&quot;\
 `b)` Entità principale: servizio-regolazione-riferimento\
 Tipo: Consenti\
 Privilegi: jcr:read , jcr:modifyProperties\
-Restrizioni : rep:glob=&quot;/*/jcr:content/*&quot;
+Restrizioni : rep:glob=&quot;/&#42;/jcr:content/&#42;&quot;
 
 `2)` Nel percorso &quot;/content/usergenerated&quot;\
 `a)` Entità principale: servizio-regolazione-riferimento\
@@ -1907,11 +1907,11 @@ Privilegi: jcr:write
 `a)` Entità principale: servizio-regolazione-riferimento\
 Tipo: Consenti\
 Privilegi: jcr:read , jcr:modifyProperties\
-Restrizioni : rep:glob=&quot;/*/jcr:content&quot;\
+Restrizioni : rep:glob=&quot;/&#42;/jcr:content&quot;\
 `b)` Entità principale: servizio-regolazione-riferimento\
 Tipo: Consenti\
 Privilegi: jcr:read , jcr:modifyProperties\
-Restrizioni : rep:glob=&quot;/*/jcr:content/*&quot;
+Restrizioni : rep:glob=&quot;/&#42;/jcr:content/&#42;&quot;
 
 ## Impostazioni di configurazione richieste per NPR-19450 {#configuration-settings-required-for-npr-2}
 
