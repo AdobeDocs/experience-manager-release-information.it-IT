@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 81c18c5423b4c62a192666fa8774f754d8ff4745
 workflow-type: tm+mt
 source-wordcount: '7427'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -33,7 +33,7 @@ Il seguente elenco contiene tutti i pacchetti aggiuntivi esistenti di AEM [!DNL 
    </tr>
    <tr>
     <td>1 giugno 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">Pacchetto aggiuntivo AEM Forms Service Pack 17 per AEM 6.5.17.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=it#forms-6517">Pacchetto aggiuntivo AEM Forms Service Pack 17 per AEM 6.5.17.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=it">AEM 6.5.17.0</a></td>
     <td>
      <ul>
@@ -45,7 +45,7 @@ Il seguente elenco contiene tutti i pacchetti aggiuntivi esistenti di AEM [!DNL 
       <br><b>Programmi di installazione patch per AEM Forms su JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/JBoss/Win/AEMForms-6.5.0-0065_jboss_win.zip">JBoss® su Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/JBoss/Linux/AEMForms-6.5.0-0065_jboss_linux.tar.gz">JBoss® su Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/weblogic/win/AEMForms-6.5.0-0065_weblogic_win.zip">WebLogic su Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0065/weblogic/win/AEMForms-6.5.0-0065_weblogic_win.zip">WebLogic su Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/weblogic/linux/AEMForms-6.5.0-0065_weblogic_linux.tar.gz">WebLogic su Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/WebSphere/win/AEMForms-6.5.0-0065_websphere_win.zip">WebSphere® su Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/WebSphere/linux/AEMForms-6.5.0-0065_websphere_linux.tar.gz">WebSphere® su Linux</a></li>
@@ -61,7 +61,7 @@ Il seguente elenco contiene tutti i pacchetti aggiuntivi esistenti di AEM [!DNL 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_Spanish_Cumulative_QF.msp">Programma di installazione lingua spagnola</a> </li>
       </ul> 
       </td>
-    <td><p>Programma di installazione di AEM Forms JEE: AEMForms-6-5-0-0065<br/><p>Pacchetti aggiuntivi AEM Forms: 6.0.968</p></td>
+    <td><p>Programma di installazione di AEM Forms per JEE: AEMForms-6-5-0-0065<br/><p>Pacchetti aggiuntivi AEM Forms: 6.0.968</p></td>
    </tr>
    <tr>
     <td>2 marzo 2023</td>
@@ -496,9 +496,9 @@ Il pacchetto di compatibilità per la versione 6.5.4.0 di `[3]` AEM [!DNL Forms]
 * I pacchetti del componente aggiuntivo AEM Forms sopra elencati sono applicabili sia a AEM [!DNL Forms] su OSGi che a AEM [!DNL Forms] su JEE.
 * Tutti i pacchetti del componente aggiuntivo e i Quick Fix di AEM [!DNL Forms] sono cumulativi: ogni pacchetto del componente aggiuntivo e Quick Fix include tutti i componenti aggiuntivi e Quick Fix precedenti per un componente della versione corrispondente. Ad esempio, se installi Quick Fix 2.4.50, è compreso anche il pacchetto del componente aggiuntivo AEM [!DNL Forms] 2.4.26.
 
-   >[!NOTE]
-   >
-   >I pacchetti aggiuntivi cumulativi e le correzioni rapide implicano che i primi due numeri della versione siano identici.
+  >[!NOTE]
+  >
+  >I pacchetti aggiuntivi cumulativi e le correzioni rapide implicano che i primi due numeri della versione siano identici.
 
 * Installa sempre il componente aggiuntivo Service Pack/Feature Pack più recente, in quanto include miglioramenti relativi a sicurezza, prestazioni, stabilità nonché correzioni per problemi segnalati dai clienti, introdotti dopo la data di disponibilità generale della versione base.
 * Ogni volta che installi un Service Pack o esegui un aggiornamento da una versione precedente di AEM a una versione più recente, installa sempre anche il pacchetto del componente aggiuntivo AEM [!DNL Forms] corrispondente. Se, ad esempio, aggiorni la versione 2.2.4 del pacchetto del componente aggiuntivo AEM 6.1 [!DNL Forms] al Service Pack 1 di AEM 6.1, dopo aver installato il Service Pack 1 di AEM 6.1, installa anche la versione 2.4.50 del pacchetto del componente aggiuntivo AEM [!DNL Forms].

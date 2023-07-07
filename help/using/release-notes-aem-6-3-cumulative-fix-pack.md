@@ -5,7 +5,7 @@ exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
 workflow-type: tm+mt
 source-wordcount: '15909'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1831,14 +1831,14 @@ Con AEM Cumulative Fix Pack 6.3.0.2 e versioni successive, la configurazione OSG
 
 * Durante l’installazione di AEM CFP 6.3.3.x.x potrebbero essere visualizzati i seguenti errori e avvisi che è possibile ignorare senza problemi:
 
-   * &#42;AVVERTI&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.package.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar ha generato un&#39;eccezione di runtime.
-   * &#42;ERRORE&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout in attesa del completamento della modifica del registro non registrato. CQ-4209974.
+   * &#42;WARN&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar threw runtime exception.
+   * &#42;ERROR&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout waiting for reg change to complete unregistered. CQ-4209974.
    * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver service missing, cannot service requests , sending status 503
    * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource: cannot check resource[/bin/receive] page manager unavailable
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver: Calling the error handler resulted in an error
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver Original error null
    * org.apache.sling.engine.impl.DefaultErrorHandler Error handler failed:java.io.IOException
-   * &#42;ERRORE&#42; [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory ha restituito un valore null. (Component: com.day.cq.dam.handler.standard.ps.PostScriptHandler))
+   * &#42;ERROR*&#42; [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory returned null. (Component: com.day.cq.dam.handler.standard.ps.PostScriptHandler))
 
 **Brand Portal**
 
@@ -1868,12 +1868,12 @@ Per aggiornare manualmente le modifiche in adobe- livecycle - cq -author.ear/ cq
    * aggiorna il valore di param-name in **sling.bootdelegation.ibm** con:
 
       * com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
+
    * Dopo la modifica precedente, init-param dovrebbe essere simile a:
 
       * &lt;init-param>\
-         &lt;param-name>sling.bootdelegation.ibm&lt;/param-name> &lt;param-value>com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value>\
-         &lt;/init-param>
-
+        &lt;param-name>sling.bootdelegation.ibm&lt;/param-name> &lt;param-value>com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value>\
+        &lt;/init-param>
 
 * Disinstalla il file EAR (Enterprise Archive) precedente dal server applicazioni WebSphere e installa il file EAR aggiornato seguendo la procedura descritta alla Sezione 10.2 del documento [https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
 * Salva il file e riavvia il server. [https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
@@ -1973,4 +1973,3 @@ Nei documenti di testo seguenti sono elencati i bundle OSGi e i pacchetti di con
 >* [Pagina del prodotto AEM](http://www.adobe.com/it/solutions/web-experience-management.html)
 >* [Documentazione di AEM 6.3](https://docs.adobe.com/content/docs/it/aem/6-3.html)
 >* Abbonati ad [Adobe priority product update](https://www.adobe.com/subscription/priority-product-update.html)
-
