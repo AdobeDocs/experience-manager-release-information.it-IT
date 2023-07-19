@@ -3,9 +3,9 @@ title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 8431dac82cec9454c6a4683dc566f34c3978fae6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Le nuove funzioni di [[!DNL Experience Manager] as a [!DNL Cloud Service]](https
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Attivazione delle funzioni | 28 settembre 2023 | Destinazione |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Attivazione delle funzioni | 26 ottobre 2023 | Destinazione |
 
-Oltre alle versioni di funzioni, in sono disponibili correzioni di bug critici e di sicurezza in [!DNL Experience Manager] as a [!DNL Cloud Service] sotto forma di [versioni di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), con un aggiornamento di manutenzione corrispondente che in genere avviene con una frequenza più elevata.
+Oltre alle release funzionali, [!DNL Experience Manager] as a [!DNL Cloud Service] prevede anche delle [release di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) per correzioni critiche relative ai bug e alla sicurezza, con il relativo aggiornamento di manutenzione con frequenza solitamente superiore.
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
