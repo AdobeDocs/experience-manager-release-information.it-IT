@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
+source-git-commit: 15841ed517305f1db2d12931add81ff1ef817492
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 100%
+source-wordcount: '372'
+ht-degree: 97%
 
 ---
 
@@ -23,15 +23,24 @@ Le nuove funzioni di [[!DNL Experience Manager] as a [!DNL Cloud Service]](https
 
 | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | Attivazione delle funzioni | 12 aprile 2023 | Attivato |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | Attivazione delle funzioni | 7 giugno 2023 | Attivato |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | Attivazione delle funzioni | 29 giugno 2023 | Attivato |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | Attivazione delle funzioni | 27 luglio 2023 | Attivato |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | Attivazione delle funzioni | 31 agosto 2023 | Destinazione |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Attivazione delle funzioni | 28 settembre 2023 | Destinazione |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Attivazione delle funzioni | 26 ottobre 2023 | Destinazione |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 | Attivazione delle funzioni | 30 novembre 2023 | Destinazione |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.12.0 | Attivazione delle funzioni | 14 dicembre 2023 | Destinazione |
 
 Oltre alle release funzionali, [!DNL Experience Manager] as a [!DNL Cloud Service] prevede anche delle [release di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) per correzioni critiche relative ai bug e alla sicurezza, con il relativo aggiornamento di manutenzione con frequenza solitamente superiore.
+
+>[!CAUTION]
+>
+>**Periodo di esclusione dalla manutenzione pianificata**
+>
+> Non verrà eseguita alcuna manutenzione automatica di AEMaaCS nei seguenti archi temporali, con inizio e fine a mezzanotte (00:00) CET:
+>
+>* Da giovedì 16 novembre a martedì 28 novembre
+>* Da venerdì 15 dicembre a martedì 2 gennaio
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
