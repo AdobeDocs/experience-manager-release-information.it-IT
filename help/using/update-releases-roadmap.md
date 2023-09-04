@@ -3,9 +3,9 @@ title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 15841ed517305f1db2d12931add81ff1ef817492
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
