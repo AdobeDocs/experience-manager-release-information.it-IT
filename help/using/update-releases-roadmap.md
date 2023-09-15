@@ -4,8 +4,8 @@ description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 75%
+source-wordcount: '497'
+ht-degree: 93%
 
 ---
 
@@ -19,28 +19,28 @@ ht-degree: 75%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] le nuove funzioni vengono distribuite tramite [attivazione mensile della funzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it), mentre miglioramenti e correzioni di bug vengono distribuiti due volte al mese tramite [versioni di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it).
+Le nuove funzioni di [!DNL Experience Manager] as a [!DNL Cloud Service] vengono distribuite tramite un’[attivazione mensile delle funzioni](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it), mentre i miglioramenti e le correzioni di bug vengono distribuiti due volte al mese tramite [versioni di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it).
 Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono pianificate come segue:
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
 | Versione funzione [2023.6.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-6-0.html?lang=it) | Attivazione delle funzioni | 29 giugno 2023 | Attivato |
 | Versione funzione [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html?lang=it) | Attivazione delle funzioni | 27 luglio 2023 | Attivato |
-| Versione di manutenzione [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | Aggiornamento automatico | 2 agosto 2023 | Aggiornamento dei bundle   |
-| Versione di manutenzione [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | Aggiornamento automatico | 21 agosto 2023 | Aggiornamento dei bundle   |
+| Versione di manutenzione [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | Aggiornamento automatico | 2 agosto 2023 | Aggiornato |
+| Versione di manutenzione [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | Aggiornamento automatico | 21 agosto 2023 | Aggiornato |
 | Versione funzione [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 31 agosto 2023 | Attivato |
-| Versione di manutenzione [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Aggiornamento automatico | 1 settembre 2023 | Aggiornamento dei bundle   |
-| Versione di manutenzione [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 12 settembre 2023 | Aggiornamento dei bundle   |
-| Versione di manutenzione | Aggiornamento automatico | 18-20 settembre 2023 | Destinazione |
-| Versione di funzioni 2023.9.0 | Attivazione delle funzioni | 28 settembre 2023 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 2-5 ottobre 2023 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 16-19 ottobre 2023 | Destinazione |
-| Versione di funzioni 2023.10.0 | Attivazione delle funzioni | 26 ottobre 2023 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 13-16 novembre 2023 | Destinazione |
-| Versione di funzioni 2023.11.0 | Attivazione delle funzioni | 30 novembre 2023 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 11-14 dicembre 2023 | Destinazione |
-| Versione di funzioni 2023.12.0 | Attivazione delle funzioni | 14 dicembre 2023 | Destinazione |
+| Versione di manutenzione [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Aggiornamento automatico | 1 settembre 2023 | Aggiornato |
+| Versione di manutenzione [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 12 settembre 2023 | Aggiornato |
+| Versione di manutenzione | Aggiornamento automatico | 18-20 settembre 2023 | Previsto |
+| Versione funzionale 2023.9.0 | Attivazione delle funzioni | 28 settembre 2023 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 2-5 ottobre 2023 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 16-19 ottobre 2023 | Previsto |
+| Versione funzionale 2023.10.0 | Attivazione delle funzioni | 26 ottobre 2023 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 13-16 novembre 2023 | Previsto |
+| Versione funzionale 2023.11.0 | Attivazione delle funzioni | 30 novembre 2023 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 11-14 dicembre 2023 | Previsto |
+| Versione funzionale 2023.12.0 | Attivazione delle funzioni | 14 dicembre 2023 | Previsto |
 
 >[!CAUTION]
 >
