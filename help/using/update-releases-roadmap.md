@@ -2,9 +2,9 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 578f404ad359536461fd93a364a4ac4e59381e0e
+source-git-commit: 568528ecf59035b6fd5fb7bab119bfe8712ea3a1
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '549'
 ht-degree: 100%
 
 ---
@@ -35,8 +35,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=it#release-13665) | Aggiornamento automatico | 2-5 ottobre 2023 | Aggiornato |
 | Versione di manutenzione [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=it#release-13804) | Aggiornamento automatico | 16-19 ottobre 2023 | Aggiornato |
 | Versione funzionale [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 26 ottobre 2023 | Attivato |
-| Versione di manutenzione [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 13-16 novembre 2023 | Previsto |
+| Versione di manutenzione [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=it#release-14029) | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Aggiornato |
+| Versione di manutenzione [14157](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 13-16 novembre 2023 | Previsto |
 | Versione funzionale 2023.11.0 | Attivazione delle funzioni | 30 novembre 2023 | Previsto |
 | Versione di manutenzione | Aggiornamento automatico | 11-14 dicembre 2023 | Previsto |
 | Versione funzionale 2023.12.0 | Attivazione delle funzioni | 14 dicembre 2023 | Previsto |
