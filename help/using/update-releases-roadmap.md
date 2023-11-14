@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ffa37b42c9f90404900d9e4c5e4ce25fe4a1d12f
+source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 99%
+ht-degree: 96%
 
 ---
 
@@ -36,13 +36,13 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale 2023.11.0 | Attivazione delle funzioni | 30 novembre 2023 | Previsto |
 | Versione di manutenzione | Aggiornamento automatico | 11-14 dicembre 2023 | Previsto |
 | Versione funzionale 2023.12.0 | Attivazione delle funzioni | 14 dicembre 2023 | Previsto |
-| Versione funzionale 2024.1.0 | Attivazione delle funzioni | 25 gennaio 2023 | Previsto |
-| Versione funzionale 2024.2.0 | Attivazione delle funzioni | 29 febbraio 2023 | Previsto |
-| Versione funzionale 2024.3.0 | Attivazione delle funzioni | 28 marzo 2023 | Previsto |
-| Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2023 | Previsto |
-| Versione funzionale 2024.5.0 | Attivazione delle funzioni | 30 maggio 2023 | Previsto |
-| Versione funzionale 2024.6.0 | Attivazione delle funzioni | 27 giugno 2023 | Previsto |
-| Versione funzionale 2024.7.0 | Attivazione delle funzioni | 25 luglio 2023 | Previsto |
+| Versione funzionale 2024.1.0 | Attivazione delle funzioni | 25 gennaio 2024 | Previsto |
+| Versione funzionale 2024.2.0 | Attivazione delle funzioni | 29 febbraio 2024 | Previsto |
+| Versione funzionale 2024.3.0 | Attivazione delle funzioni | 28 marzo 2024 | Previsto |
+| Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2024 | Previsto |
+| Versione funzionale 2024.5.0 | Attivazione delle funzioni | 30 maggio 2024 | Previsto |
+| Versione funzionale 2024.6.0 | Attivazione delle funzioni | 27 giugno 2024 | Previsto |
+| Versione funzionale 2024.7.0 | Attivazione delle funzioni | 25 luglio 2024 | Previsto |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 >
 > Non verrà eseguita alcuna manutenzione automatica di AEMaaCS nei seguenti archi temporali, con inizio e fine a mezzanotte (00:00) CET:
 >
->* Da giovedì 16 novembre a martedì 28 novembre
->* Da venerdì 15 dicembre a martedì 2 gennaio
+>* Da giovedì 16 novembre 2023 a martedì 28 novembre 2023
+>* Da venerdì 15 dicembre 2023 a martedì 2 gennaio 2024
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
