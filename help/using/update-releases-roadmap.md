@@ -3,9 +3,9 @@ title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 97cb94f05cd40bb1321712a6713b93db626948ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '557'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -50,8 +50,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 >
 > Non verrà eseguita alcuna manutenzione automatica di AEMaaCS nei seguenti archi temporali, con inizio e fine a mezzanotte (00:00) CET:
 >
->* Da giovedì 16 novembre 2023 a martedì 28 novembre 2023
->* Da venerdì 15 dicembre 2023 a martedì 2 gennaio 2024
+>* Da giovedì 16 novembre a martedì 28 novembre 2023
+>* Da venerdì 15 dicembre a martedì 2 gennaio 2024
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
