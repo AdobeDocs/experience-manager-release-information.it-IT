@@ -3,8 +3,8 @@ title: Scaricare la documentazione per le versioni precedenti di AEM, CQ e CRX
 description: Scarica i pacchetti della documentazione per le versioni precedenti di Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '828'
+workflow-type: ht
+source-wordcount: '570'
 ht-degree: 100%
 
 ---

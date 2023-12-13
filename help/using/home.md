@@ -3,7 +3,7 @@ title: “Aggiornamenti e roadmap delle versioni di [!DNL Adobe Experience Manag
 description: “Aggiornamenti e roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
