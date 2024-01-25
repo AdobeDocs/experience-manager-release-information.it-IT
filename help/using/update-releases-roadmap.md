@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4e209f166c0401279f73632e19bf8f05ee0e9dec
-workflow-type: ht
-source-wordcount: '467'
-ht-degree: 100%
+source-git-commit: 6349e074790bc922482eee3b40f28931751c26d0
+workflow-type: tm+mt
+source-wordcount: '468'
+ht-degree: 99%
 
 ---
 
@@ -36,13 +36,13 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=it#release-14227) | Aggiornamento automatico | 13-16 novembre 2023 | Aggiornato |
 | Versione funzionale [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=it) | Attivazione delle funzioni | 30 novembre 2023 | Attivato |
 | Versione di manutenzione [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 11-14 dicembre 2023 | Aggiornato |
-| Versione funzionale [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 14 dicembre 2023 | Attivato |
+| Versione funzionale [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) | Attivazione delle funzioni | 14 dicembre 2023 | Attivato |
+| Versione funzionale [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 25 gennaio 2024 | Attivato |
 
 ### Prossime versioni {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione funzionale 2024.1.0 | Attivazione delle funzioni | 25 gennaio 2024 | Previsto |
 | Versione di manutenzione | Aggiornamento automatico | 5-7 febbraio 2024 | Previsto |
 | Versione funzionale 2024.2.0 | Attivazione delle funzioni | 29 febbraio 2024 | Previsto |
 | Versione funzionale 2024.3.0 | Attivazione delle funzioni | 28 marzo 2024 | Previsto |
