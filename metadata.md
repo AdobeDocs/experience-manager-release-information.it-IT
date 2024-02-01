@@ -5,8 +5,8 @@ git-repo: https://github.com/AdobeDocs/experience-manager-release-information.it
 index: true
 recommendations: noDisplay
 source-git-commit: 193e6ce46e042cb01e0d7ff43e6364019ab1663f
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
