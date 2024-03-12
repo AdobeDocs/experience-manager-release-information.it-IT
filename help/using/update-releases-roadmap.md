@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7c38fa83d5f24c4ad3d953b00e00306a4a2e70c9
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: 8d7f2b64a2bb4608a916b8d2c4f55abb463caa0a
+workflow-type: tm+mt
+source-wordcount: '479'
+ht-degree: 99%
 
 ---
 
@@ -35,16 +35,16 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14029) | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Aggiornato |
 | Versione di manutenzione [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14227) | Aggiornamento automatico | 13-16 novembre 2023 | Aggiornato |
 | Versione funzionale [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=it) | Attivazione delle funzioni | 30 novembre 2023 | Attivato |
-| Versione di manutenzione [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 11-14 dicembre 2023 | Aggiornato |
+| Versione di manutenzione [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0.html#release-14697) | Aggiornamento automatico | 11-14 dicembre 2023 | Aggiornato |
 | Versione funzionale [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=it) | Attivazione delle funzioni | 14 dicembre 2023 | Attivato |
 | Versione funzionale [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 25 gennaio 2024 | Attivato |
+| Versione di manutenzione [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=it) | Aggiornamento automatico | 11-13 marzo 2024 | Attivato |
 
 ### Prossime versioni {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
 | Versione funzionale 2024.2.0 | Attivazione delle funzioni | 29 febbraio 2024 | Annullato |
-| Versione di manutenzione | Aggiornamento automatico | 11-13 marzo 2024 | Previsto |
 | Versione di manutenzione | Aggiornamento automatico | 1-3 aprile 2024 | Previsto |
 | Versione funzionale 2024.3.0 | Attivazione delle funzioni | venerdì 4 aprile 2024 | Previsto |
 | Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2024 | Previsto |
