@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4c3f6652b13c99bdd2140c7e4a03be9eb9417a06
+source-git-commit: 6d63bec303a4bf9858e536f06d854069982af4db
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 99%
+source-wordcount: '524'
+ht-degree: 96%
 
 ---
 
@@ -46,8 +46,14 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 |---|---|---|---|
 | Versione di manutenzione | Aggiornamento automatico | 1-3 aprile 2024 | Previsto |
 | Versione funzionale 2024.3.0 | Attivazione delle funzioni | venerdì 4 aprile 2024 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 15-17 aprile 2024 | Previsto |
 | Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2024 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 29 aprile - 1 maggio 2024 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 13-15 maggio 2024 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 27-29 maggio 2024 | Previsto |
 | Versione funzionale 2024.5.0 | Attivazione delle funzioni | 30 maggio 2024 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 10-12 giugno 2024 | Previsto |
+| Versione di manutenzione | Aggiornamento automatico | 24-26 giugno 2024 | Previsto |
 | Versione funzionale 2024.6.0 | Attivazione delle funzioni | 27 giugno 2024 | Previsto |
 | Versione funzionale 2024.7.0 | Attivazione delle funzioni | 25 luglio 2024 | Previsto |
 
