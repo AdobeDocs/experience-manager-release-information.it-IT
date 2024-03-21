@@ -3,9 +3,9 @@ title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9ef364f5e561b07ae9d81dba9b772e884e74d322
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '535'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -38,26 +38,26 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0.html#release-14697) | Aggiornamento automatico | 11-14 dicembre 2023 | Aggiornato |
 | Versione funzionale [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=it) | Attivazione delle funzioni | 14 dicembre 2023 | Attivato |
 | Versione funzionale [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 25 gennaio 2024 | Attivato |
-| Versione di manutenzione [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html#release-15262) | Aggiornamento automatico | 11-13 marzo 2024 | Attivato |
+| Versione di manutenzione [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html?lang=it#release-15262) | Aggiornamento automatico | 11-13 marzo 2024 | Attivato |
 
 
 ### Prossime versioni {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 19-21 marzo 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 1-3 aprile 2024 | Previsto |
-| Versione funzionale 2024.3.0 | Attivazione delle funzioni | venerdì 4 aprile 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 15-17 aprile 2024 | Previsto |
-| Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 29 aprile - 1 maggio 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 13-15 maggio 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 27-29 maggio 2024 | Previsto |
-| Versione funzionale 2024.5.0 | Attivazione delle funzioni | 30 maggio 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 10-12 giugno 2024 | Previsto |
-| Versione di manutenzione | Aggiornamento automatico | 24-26 giugno 2024 | Previsto |
-| Versione funzionale 2024.6.0 | Attivazione delle funzioni | 27 giugno 2024 | Previsto |
-| Versione funzionale 2024.7.0 | Attivazione delle funzioni | 25 luglio 2024 | Previsto |
+| Versione di manutenzione [15575](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 19-21 marzo 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 1-3 aprile 2024 | Destinazione |
+| Versione funzionale 2024.3.0 | Attivazione delle funzioni | venerdì 4 aprile 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 15-17 aprile 2024 | Destinazione |
+| Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 29 aprile - 1 maggio 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 13-15 maggio 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 27-29 maggio 2024 | Destinazione |
+| Versione funzionale 2024.5.0 | Attivazione delle funzioni | 30 maggio 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 10-12 giugno 2024 | Destinazione |
+| Versione di manutenzione | Aggiornamento automatico | 24-26 giugno 2024 | Destinazione |
+| Versione funzionale 2024.6.0 | Attivazione delle funzioni | 27 giugno 2024 | Destinazione |
+| Versione funzionale 2024.7.0 | Attivazione delle funzioni | 25 luglio 2024 | Destinazione |
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
@@ -72,10 +72,10 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 | [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | Service Pack | 25 maggio 2023 | Attivato |
 | [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | Service Pack | 24 agosto 2023 | Attivato |
 | [!DNL Experience Manager] 6.5 [Service Pack 19](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html) | 6.5.19.0 | Service Pack | 30 novembre 2023 | Attivato |
-| [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20.0 | Service Pack | 22 febbraio 2024 | Previsto |
-| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 23 maggio 2024 | Previsto |
-| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 22 agosto 2024 | Previsto |
-| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 21 novembre 2024 | Previsto |
+| [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20.0 | Service Pack | 22 febbraio 2024 | Destinazione |
+| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 23 maggio 2024 | Destinazione |
+| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 22 agosto 2024 | Destinazione |
+| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 21 novembre 2024 | Destinazione |
 
 >[!NOTE]
 >
