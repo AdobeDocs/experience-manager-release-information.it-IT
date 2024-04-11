@@ -2,8 +2,8 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3576fd92208fbe3db53ef9fe79a385e3138ece7c
-workflow-type: ht
+source-git-commit: c4476985bbe7dede32a748d8f7f16bcf843a055c
+workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 100%
 
@@ -40,12 +40,12 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it) | Attivazione delle funzioni | 25 gennaio 2024 | Attivato |
 | Versione di manutenzione [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html?lang=it#release-15262) | Aggiornamento automatico | 11-13 marzo 2024 | Attivato |
 | Versione di manutenzione [15575](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Aggiornamento automatico | 19-21 marzo 2024 | Attivato |
-| Versione di manutenzione [15787](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 8-10 aprile 2024 | Attivato |
 
 ### Prossime versioni {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
+| Versione di manutenzione [15860](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 8-10 aprile 2024 | Destinazione |
 | Versione funzionale 2024.3.0 | Attivazione delle funzioni | venerdì 11 aprile 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 22-24 aprile 2024 | Destinazione |
 | Versione funzionale 2024.4.0 | Attivazione delle funzioni | 25 aprile 2024 | Destinazione |
