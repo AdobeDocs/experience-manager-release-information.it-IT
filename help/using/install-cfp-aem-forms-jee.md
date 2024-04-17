@@ -1,12 +1,12 @@
 ---
 title: Installazione di Cumulative Fix Pack in AEM Forms JEE
-description: Riepilogo dell’installazione e configurazione di Cumulative Fix Pack (CFP) in AEM Forms JEE
+description: Riepilogo dei passaggi per installare e configurare Cumulative Fix Pack (CFP) in AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ Per installare il Cumulative Fix Pack su AEM 6.3 [!DNL Forms JEE], esegui la seq
 
 Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
 
-### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
+### Altre istruzioni per CQ-4208044 {#additional-instructions-for-cq}
 
 Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, configura le seguenti impostazioni successivamente alla distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
 
@@ -36,7 +36,7 @@ Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, confi
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
-1. Importa di nuovo il file modificato ed esegui nuovamente la sincronizzazione.
+1. Importare nuovamente il file modificato, quindi eseguire nuovamente la sincronizzazione.
 
 ## Installare CFP in AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
@@ -100,8 +100,8 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
 
    Passa alla directory appropriata sul supporto di installazione o sulla cartella del disco rigido in cui è stato copiato il programma di installazione:
 
-   * (Windows 32 bit): Disk1\InstData\Windows\VM
-   * (Windows 64 bit): Disk1\InstData\Windows_64bit\VM
+   * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
 
    Quindi, fai doppio clic sul file denominato:
 
@@ -126,7 +126,7 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
    Viene avviata la procedura guidata di installazione per fornirti una guida.
 
 1. Nel pannello introduttivo, fai clic su **[!UICONTROL Avanti]**.
-1. Nella schermata Scegli cartella di installazione, verifica che il percorso predefinito visualizzato sia corretto per l’installazione esistente. Se non lo è, fai clic su **[!UICONTROL Sfoglia]** per selezionare la cartella in cui è attualmente installato AEM [!DNL Forms], quindi fai clic su **[!UICONTROL Avanti]**.
+1. Nella schermata Cartella di installazione, verificare che il percorso predefinito visualizzato sia corretto per l&#39;installazione esistente. Oppure fai clic su **[!UICONTROL Sfoglia]** per selezionare la cartella alternativa in cui si trova AEM [!DNL Forms] , quindi fare clic su **[!UICONTROL Successivo]**.
 1. Leggi le informazioni di riepilogo della patch di correzione rapida e fai clic su **[!UICONTROL Avanti]**.
 1. Leggi le informazioni di riepilogo di pre-installazione e fai clic su **[!UICONTROL Installa]**.
 1. Al termine dell’installazione, fai clic su **[!UICONTROL Avanti]** per applicare gli aggiornamenti della correzione rapida ai file installati.

@@ -3,10 +3,10 @@ title: “Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]”
 description: “Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]”
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,7 @@ Questo articolo elenca la versione più recente per ogni categoria e indirizza a
 
 Le nuove funzioni di [!DNL Experience Manager]as a[!DNL Cloud Service] vengono solitamente rilasciate a cadenza mensile.
 
-Per informazioni dettagliate sulla versione corrente/più recente, consulta [Note sulla versione corrente di [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it). Da questa pagina è possibile anche passare ai dettagli delle versioni precedenti (disposti in ordine cronologico).
+Per informazioni dettagliate sulla versione corrente/più recente, consulta [Note sulla versione corrente di [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current). Da questa pagina è possibile anche passare ai dettagli delle versioni precedenti (disposti in ordine cronologico).
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
@@ -32,4 +32,4 @@ Per le offerte On-Premise e Managed Services, l’articolo elenca l’ultimo Cum
 
 Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug.
 
-Consulta [[!DNL Experience Manager] 6.5 Ultimo Feature Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=it) per informazioni dettagliate sulla versione corrente/più recente. Da questa pagina è possibile anche passare ai dettagli delle versioni precedenti (disposti in ordine cronologico).
+Consulta [[!DNL Experience Manager] 6.5 Ultimo Feature Pack](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes) per informazioni dettagliate sulla versione corrente/più recente. Da questa pagina è possibile anche passare ai dettagli delle versioni precedenti (disposti in ordine cronologico).
