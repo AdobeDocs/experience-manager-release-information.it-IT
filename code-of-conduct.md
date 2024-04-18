@@ -1,7 +1,7 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 62%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 62%
 
 ## Adobe in garanzia
 
-Allo scopo di promuovere un ambiente aperto e accogliente, i collaboratori e i maintainer si impegnano a rendere la partecipazione al progetto e alla community un’esperienza priva di molestie per tutti, a prescindere da età, corporatura, disabilità, etnia, identità ed espressione di genere, livello di esperienza, nazionalità, aspetto personale, razza, religione o identità e orientamento sessuali.
+Allo scopo di promuovere un ambiente aperto e accogliente, i collaboratori e i maintainer si impegnano a rendere la partecipazione al progetto e alla community un’esperienza priva di molestie per tutti. Questo impegno è indipendentemente da età, corporatura, disabilità, etnia, identità ed espressione di genere, livello di esperienza, nazionalità, aspetto personale, razza, religione o identità e orientamento sessuale.
 
 ## Standard Adobe
 
@@ -33,7 +33,7 @@ Di seguito sono elencati esempi di comportamenti inaccettabili da parte dei part
 
 I gestori dei progetti hanno la responsabilità di chiarire gli standard di comportamento accettabile e sono tenuti ad adottare misure correttive eque ed adeguate in risposta a qualsiasi evento di comportamento inaccettabile.
 
-I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare o rifiutare commenti, commit, codice, modifiche wiki, problemi e altri contributi non allineati al presente Codice di condotta. Oppure, per vietare temporaneamente o definitivamente qualsiasi collaboratore per altri comportamenti che ritenga inappropriati, minacciosi, offensivi o dannosi.
+I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare o rifiutare commenti, commit, codice, modifiche wiki e problemi non allineati al presente Codice di condotta. Oppure, per vietare temporaneamente o definitivamente qualsiasi collaboratore per altri comportamenti che ritenga inappropriati, minacciosi, offensivi o dannosi.
 
 ## Ambito
 
