@@ -1,12 +1,12 @@
 ---
 title: Installazione di Cumulative Fix Pack in AEM Forms JEE
-description: Riepilogo dei passaggi per installare e configurare Cumulative Fix Pack (CFP) in AEM Forms JEE.
+description: Riepilogo dei passaggi d’installazione e configurazione di Cumulative Fix Pack (CFP) in AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '909'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Per installare il Cumulative Fix Pack su AEM 6.3 [!DNL Forms JEE], esegui la seq
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
-Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
+Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
 
-### Altre istruzioni per CQ-4208044 {#additional-instructions-for-cq}
+### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
 Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, configura le seguenti impostazioni successivamente alla distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
 
@@ -36,7 +36,7 @@ Se si utilizza un server per AEM 6.3 [!DNL Forms JEE] con database Oracle, confi
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
-1. Importare nuovamente il file modificato, quindi eseguire nuovamente la sincronizzazione.
+1. Importa di nuovo il file modificato ed esegui nuovamente la sincronizzazione.
 
 ## Installare CFP in AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
@@ -51,7 +51,7 @@ Per installare il Cumulative Fix Pack su AEM 6.2 [!DNL Forms JEE], esegui la seq
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
-Il pacchetto JEE per AEM Forms (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto, se non è già installato.
+Il pacchetto JEE per AEM Forms (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
 
 ### Configurazione del timeout per le operazioni a livello di componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -126,7 +126,7 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
    Viene avviata la procedura guidata di installazione per fornirti una guida.
 
 1. Nel pannello introduttivo, fai clic su **[!UICONTROL Avanti]**.
-1. Nella schermata Cartella di installazione, verificare che il percorso predefinito visualizzato sia corretto per l&#39;installazione esistente. Oppure fai clic su **[!UICONTROL Sfoglia]** per selezionare la cartella alternativa in cui si trova AEM [!DNL Forms] , quindi fare clic su **[!UICONTROL Successivo]**.
+1. Nella schermata Scegli cartella di installazione, verifica che la posizione predefinita visualizzata sia corretta per l’installazione esistente. Oppure fai clic su **[!UICONTROL Sfoglia]** per selezionare la cartella alternativa in cui è installato AEM [!DNL Forms] , quindi fai clic su **[!UICONTROL Successivo]**.
 1. Leggi le informazioni di riepilogo della patch di correzione rapida e fai clic su **[!UICONTROL Avanti]**.
 1. Leggi le informazioni di riepilogo di pre-installazione e fai clic su **[!UICONTROL Installa]**.
 1. Al termine dell’installazione, fai clic su **[!UICONTROL Avanti]** per applicare gli aggiornamenti della correzione rapida ai file installati.
