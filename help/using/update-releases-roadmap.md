@@ -2,12 +2,13 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: e8096928919b05bf86a972dcd7debbba3f0f6b59
+source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 96%
+ht-degree: 91%
 
 ---
+
 
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -60,7 +61,7 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
-Gli aggiornamenti del prodotto in termini di nuove funzionalità, miglioramenti e correzioni di bug per i [!DNL Experience Manager] On-Premise e Managed Services supportati, vengono forniti tramite Service Packs trimestrali e Cumulative Fix Packs (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
+Aggiornamenti dei prodotti in termini di nuove funzioni, miglioramenti e correzioni di bug per [!DNL Experience Manager] on-premise e Managed Services vengono forniti tramite Service Pack trimestrali e Cumulative Fix Pack (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
