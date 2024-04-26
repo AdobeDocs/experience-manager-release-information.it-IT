@@ -36,7 +36,7 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | Aggiornamento automatico | 11-13 marzo 2024 | Aggiornata |
 | Versione di manutenzione [15575](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Aggiornamento automatico | 19-21 marzo 2024 | Aggiornata |
 | Versione funzionale [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | Attivazione delle funzioni | venerdì 11 aprile 2024 | Attivato |
-| Versione di manutenzione [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Aggiornamento automatico | 8-15 aprile 2024 | Aggiornata |
+| Versione di manutenzione [15860](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Aggiornamento automatico | 8-15 aprile 2024 | Aggiornata |
 | Versione di manutenzione [15977](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 20-24 aprile 2024 | Aggiornata |
 | Versione funzionale [2024.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione delle funzioni | 25 aprile 2024 | Attivato |
 
@@ -78,6 +78,6 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 >[!MORELIKETHIS]
 >
 >* [Matrice EOL](https://helpx.adobe.com/it/support/programs/eol-matrix.html)
->* Versioni e aggiornamenti di [[!DNL Experience Manager] ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* Versioni e aggiornamenti di [[!DNL Experience Manager] ](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
 >* Informazioni e supporto per [[!DNL Experience Manager] ](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service)
 >* Definizioni delle versioni di aggiornamento di [[!DNL Experience Manager] ](/help/using/update-release-vehicle-definitions.md)
