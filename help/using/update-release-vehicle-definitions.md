@@ -1,12 +1,12 @@
 ---
 title: Definizioni relative alle versioni di aggiornamento
-description: Questo articolo descrive i vari tipi di [!DNL Experience Manager] versioni di, tra cui versioni complete, Feature Pack e Service Pack.
+description: Questo articolo descrive nel dettaglio i vari tipi di versioni di [!DNL Experience Manager] tra cui versioni complete, Feature Pack e Service Pack.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,4 +77,4 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 | Disponibilità e installazione | <ul> <li>Consegnato tramite Service Pack </li> <li> Disponibile su Software Distribution. I clienti accettano i Termini e Condizioni [!DNL Adobe's] attraverso Software Distribution. </li> </ul> |
 | Livello di test | I pacchetti di funzioni per la disponibilità generale (GA) sono convalidati tramite QA. |
 
-* 1: Le correzioni Oak non vengono distribuite come singoli hot fix. Tuttavia, sono incluse nel successivo hotfix cumulativo di OAK. Se necessario, è possibile rendere disponibile una diagnostica basata sul COFP più recente. La condizione preliminare è che il cliente disponga del COFP più recente e lo utilizzi. Le build diagnostiche forniscono solo lo stesso livello di garanzia qualità di un hotfix. Pertanto, non forniscono lo stesso livello di qualità di un Cumulative Fix Pack, di un Service Pack o di una versione del prodotto. La correzione definitiva viene fornita con il successivo CFP.
+* 1: Le correzioni Oak non vengono distribuite come singoli hot fix. Tuttavia, sono incluse nel successivo hotfix cumulativo di OAK. Se necessario, è possibile mettere a disposizione una build diagnostica basata sulla versione più recente del COFP. La condizione preliminare è che il cliente disponga del COFP più recente e lo utilizzi. Le build diagnostiche forniscono solo lo stesso livello di garanzia qualità di un hotfix. Pertanto, non forniscono lo stesso livello di qualità di un Cumulative Fix Pack, di un Service Pack o di una versione del prodotto. La correzione definitiva viene fornita con il successivo CFP.

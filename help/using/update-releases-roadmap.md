@@ -3,9 +3,9 @@ title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: f2d1c4df7e8313c622b8ffde1dab9a2b8c117ff6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '484'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,18 +27,18 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Aggiornata |
-| Versione di manutenzione [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | Aggiornamento automatico | 13-16 novembre 2023 | Aggiornata |
-| Versione funzionale [2023.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | Attivazione delle funzioni | 30 novembre 2023 | Attivato |
-| Versione di manutenzione [14697](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | Aggiornamento automatico | 11-14 dicembre 2023 | Aggiornata |
-| Versione funzionale [2023.12.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) | Attivazione delle funzioni | 14 dicembre 2023 | Attivato |
-| Versione funzionale [2024.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | Attivazione delle funzioni | 25 gennaio 2024 | Attivato |
-| Versione di manutenzione [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | Aggiornamento automatico | 11-13 marzo 2024 | Aggiornata |
-| Versione di manutenzione [15575](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Aggiornamento automatico | 19-21 marzo 2024 | Aggiornata |
-| Versione funzionale [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | Attivazione delle funzioni | venerdì 11 aprile 2024 | Attivato |
-| Versione di manutenzione [15860](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Aggiornamento automatico | 8-15 aprile 2024 | Aggiornata |
-| Versione di manutenzione [15977](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 20-24 aprile 2024 | Aggiornata |
-| Versione funzionale [2024.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione delle funzioni | 25 aprile 2024 | Attivato |
+| Versione di manutenzione [14029](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | Aggiornamento automatico | 30 ottobre - 2 novembre 2023 | Aggiornato |
+| Versione di manutenzione [14227](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | Aggiornamento automatico | 13-16 novembre 2023 | Aggiornato |
+| Versione funzionale [2023.11.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | Attivazione della funzione | 30 novembre 2023 | Attivato |
+| Versione di manutenzione [14697](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | Aggiornamento automatico | 11-14 dicembre 2023 | Aggiornato |
+| Versione funzionale [2023.12.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) | Attivazione della funzione | 14 dicembre 2023 | Attivato |
+| Versione funzionale [2024.1.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | Attivazione della funzione | 25 gennaio 2024 | Attivato |
+| Versione di manutenzione [15262](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | Aggiornamento automatico | 11-13 marzo 2024 | Aggiornato |
+| Versione di manutenzione [15575](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Aggiornamento automatico | 19-21 marzo 2024 | Aggiornato |
+| Versione funzionale [2024.3.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | Attivazione della funzione | venerdì 11 aprile 2024 | Attivato |
+| Versione di manutenzione [15860](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Aggiornamento automatico | 8-15 aprile 2024 | Aggiornato |
+| Versione di manutenzione [15977](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 20-24 aprile 2024 | Aggiornato |
+| Versione funzionale [2024.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 25 aprile 2024 | Attivato |
 
 ### Prossime versioni {#upcoming}
 
@@ -46,16 +46,16 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 |---|---|---|---|
 | Versione di manutenzione | Aggiornamento automatico | 6-8 maggio 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 20-22 maggio 2024 | Destinazione |
-| Versione funzionale 2024.5.0 | Attivazione delle funzioni | 30 maggio 2024 | Destinazione |
+| Versione funzionale 2024.5.0 | Attivazione della funzione | 30 maggio 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 3-5 giugno 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 17-19 giugno 2024 | Destinazione |
-| Versione funzionale 2024.6.0 | Attivazione delle funzioni | 27 giugno 2024 | Destinazione |
+| Versione funzionale 2024.6.0 | Attivazione della funzione | 27 giugno 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 1-3 luglio 2024 | Destinazione |
-| Versione funzionale 2024.7.0 | Attivazione delle funzioni | 25 luglio 2024 | Destinazione |
+| Versione funzionale 2024.7.0 | Attivazione della funzione | 25 luglio 2024 | Destinazione |
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
-Aggiornamenti dei prodotti in termini di nuove funzioni, miglioramenti e correzioni di bug per [!DNL Experience Manager] on-premise e Managed Services vengono forniti tramite Service Pack trimestrali e Cumulative Fix Pack (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
+Gli aggiornamenti del prodotto in termini di nuove funzionalità, miglioramenti e correzioni di bug per le versioni supportate On-Premise e Managed Services di [!DNL Experience Manager], vengono forniti tramite Service Packs trimestrali e Cumulative Fix Packs (CFP). La disponibilità di rilasci frequenti consente infatti un’adozione più rapida degli aggiornamenti di prodotto. Di seguito è riportata la pianificazione dei prossimi aggiornamenti di prodotto.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -63,9 +63,9 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Se
 
 | Versione | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-17) | 6.5.17.0 | Service Pack | 25 maggio 2023 | Attivato |
-| [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | Service Pack | 24 agosto 2023 | Attivato |
-| [!DNL Experience Manager] 6.5 [Service Pack 19](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | Service Pack | 30 novembre 2023 | Attivato |
+| [!DNL Experience Manager] 6.5 [Service Pack 17](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/service-pack/6-5-17) | 6.5.17.0 | Service Pack | 25 maggio 2023 | Attivato |
+| [!DNL Experience Manager] 6.5 [Service Pack 18](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0 | Service Pack | 24 agosto 2023 | Attivato |
+| [!DNL Experience Manager] 6.5 [Service Pack 19](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | Service Pack | 30 novembre 2023 | Attivato |
 | [!DNL Experience Manager] 6.5 [Service Pack 20](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.20.0 | Service Pack | 22 febbraio 2024 | Attivato |
 | [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 23 maggio 2024 | Destinazione |
 | [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 22 agosto 2024 | Destinazione |

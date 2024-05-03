@@ -4,9 +4,9 @@ description: Ulteriori informazioni sulle modifiche e sugli aggiornamenti signif
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
