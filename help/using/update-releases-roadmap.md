@@ -2,17 +2,17 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 93%
 
 ---
 
 
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] viene continuamente aggiornato con nuove funzioni, miglioramenti alle funzioni esistenti e correzioni di bug per gli utenti che utilizzano [!DNL Cloud Service], Managed Services e offerte On-Premise del prodotto. In questo articolo sono elencate le prossime versioni di [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] fornisce costantemente nuove funzioni e miglioramenti alle funzionalità esistenti. Fornisce correzioni di bug per gli utenti in [!DNL Cloud Service], Managed Services e versioni on-premise. In questo articolo sono elencate le prossime versioni di [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Gli aggiornamenti del prodotto in termini di nuove funzionalità, miglioramenti 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] Gli aggiornamenti di 6.5 vengono forniti attraverso Service Pack trimestrali. che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versione | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|---|

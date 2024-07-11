@@ -3,10 +3,10 @@ title: Aggiornamenti della documentazione precedenti
 description: Ulteriori informazioni sulle modifiche e sugli aggiornamenti significativi della documentazione precedente per [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: ht
-source-wordcount: '1228'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '1255'
+ht-degree: 80%
 
 ---
 
@@ -56,12 +56,12 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>11 ottobre 2019</td> 
    <td>Activity Map</td> 
-   <td><p>In seguito a modifiche di sicurezza nell’API di Adobe Analytics, non è più possibile utilizzare la versione di Activity Map inclusa in AEM. Ora si deve utilizzare il <a href="https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">plugin ActivityMap fornito con Adobe Analytics</a>. </p> </td> 
+   <td><p>In seguito a modifiche di sicurezza nell’API di Adobe Analytics, non è più possibile utilizzare la versione di Activity Map inclusa in AEM. Consulta <a href="https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Plug-in Activity Map fornito da Adobe Analytics</a> ora deve essere utilizzato. </p> </td> 
   </tr>
   <tr>
    <td>10 ottobre 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager versione 2019.10.0 è stato rilasciato il 10 ottobre 2019.</p> <p>Le <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0">note sulla versione 2019.10.0</a> mettono in evidenza <i>le novità</i> e gli aggiornamenti sulle fasi di implementazione e sulla gestione delle versioni di un progetto Maven.<br /> </p> </td> 
+   <td><p>Cloud Manager versione 2019.10.0 è stato rilasciato il 10 ottobre 2019.</p> <p>Le <a href="https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0">note sulla versione 2019.10.0</a> mettono in evidenza <i>le novità</i> e gli aggiornamenti sulle fasi di implementazione e sulla gestione delle versioni di un progetto Maven.<br /> </p> </td> 
   </tr>
   <tr>
    <td>8 ottobre 2019</td> 
@@ -71,12 +71,12 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>1 ottobre 2019</td> 
    <td>Installazione di AEM Forms su JEE </td> 
-   <td><p>AEM Forms ora supporta anche il driver di database Oracle 18c. </p> <p>Matrice di piattaforma: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>È stato aggiunto il supporto AEM Forms per il driver di database Oracle 18c. </p> <p>Matrice di piattaforma: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>1 ottobre 2019 </td> 
    <td>Guida alle best practice per i progetti AEM Screens</td> 
-   <td><p>Questa nuova guida fornisce informazioni approfondite e consigli pratici per immaginare, progettare e introdurre esperienze cliente intenzionali nell’implementazione della segnaletica digitale. Inoltre, illustra come creare un impatto positivo sull’azienda utilizzando alcune delle best practice adottate durante l’implementazione di un progetto di segnaletica digitale in AEM Screens.</p> <p>Per ulteriori informazioni, consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/using/about-guide">Guida alle best practice per i progetti AEM Screens</a>.</p> </td> 
+   <td><p>Questa nuova guida fornisce informazioni approfondite e consigli pratici per immaginare, progettare e introdurre esperienze cliente intenzionali nell’implementazione della segnaletica digitale. Inoltre, illustra come creare un impatto positivo sull’azienda utilizzando alcune delle best practice adottate durante l’implementazione di un progetto di segnaletica digitale in AEM Screens.</p> <p>Consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/using/about-guide">Guida alle best practice per i progetti AEM Screens</a> per ulteriori dettagli.</p> </td> 
   </tr>
   <tr>
    <td>25 settembre 2019</td> 
@@ -96,7 +96,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>25 settembre 2019</td> 
    <td>Integrazione dei visualizzatori Dynamic Media con Adobe Analytics e Adobe Launch</td> 
-   <td><p>Con l’estensione Dynamic Media Viewers per Adobe Launch, rilasciata con Dynamic Media Viewers 5.13, chi utilizza di Dynamic Media, Adobe Analytics e Adobe Launch può utilizzare eventi e dati specifici per i visualizzatori Dynamic Media nella propria configurazione di Adobe Launch.</p> <p>Consulta <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">Integrazione dei visualizzatori Dynamic Media con Adobe Analytics e Adobe Launch</a>. </p> </td> 
+   <td><p>L’estensione Dynamic Medie Viewers per Adobe Launch 5.13 consente ai clienti di integrare Dynamic Medie, Adobe Analytics e Adobe Launch. Utilizza eventi e dati specifici per i visualizzatori Dynamic Medie nelle loro configurazioni di Adobe Launch.</p> <p>Consulta <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">Integrazione dei visualizzatori Dynamic Media con Adobe Analytics e Adobe Launch</a>. </p> </td> 
   </tr>
   <tr>
    <td>19 settembre 2019</td> 
@@ -121,7 +121,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>21 agosto 2019</td> 
    <td>Guida utente di AEM 6.5 Screens</td> 
-   <td>È disponibile una nuova sezione sulle nozioni di base relative all’implementazione in rete. Per ulteriori informazioni, consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/user-guide/aem-screens-introduction">Guida utente</a>.</td> 
+   <td>È disponibile una nuova sezione sulle nozioni di base relative all’implementazione in rete. Consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/user-guide/aem-screens-introduction">Guida utente</a> per ulteriori dettagli.</td> 
   </tr>
   <tr>
    <td>20 agosto 2019</td> 
@@ -136,7 +136,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>25 luglio 2019</td> 
    <td>Funzionalità AEM Assets con licenze diverse</td> 
-   <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">Elenco delle funzionalità</a> di AEM Assets disponibili con una licenza DAM stand-alone o in AEM MediaLibrary, aggiornate ad AEM versione 6.5.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">Elenco delle funzionalità</a> di AEM Assets che sono disponibili con una licenza DAM stand-alone o in AEM MediaLibrary sono aggiornati per la versione AEM 6.5.<br /> </td> 
   </tr>
   <tr>
    <td>12 luglio 2019</td> 
@@ -237,7 +237,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
 
 ## Contenuti precedenti {#legacy-content}
 
-A partire dal 1° maggio 2023, le versioni precedenti della documentazione di AEM sono state spostate in [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+A partire dal 1° maggio 2023, le versioni precedenti della documentazione AEM sono state spostate all’indirizzo [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Sono state spostate le seguenti versioni:
 
