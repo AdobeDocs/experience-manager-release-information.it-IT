@@ -90,7 +90,7 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 1. Una volta caricato il pacchetto, installalo.
 
-1. Nell’interfaccia utente per la gestione dei pacchetti, individua il pacchetto e seleziona **[!UICONTROL Installa]**.
+1. Nell&#39;interfaccia utente di Gestione pacchetti, individuare il pacchetto e selezionare **[!UICONTROL Installa]**.
 
 1. Nella finestra di dialogo di conferma, seleziona nuovamente **[!UICONTROL Installa]**. L’installazione richiede qualche minuto.
 

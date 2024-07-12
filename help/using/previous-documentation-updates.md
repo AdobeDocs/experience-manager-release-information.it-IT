@@ -56,7 +56,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>11 ottobre 2019</td> 
    <td>Activity Map</td> 
-   <td><p>In seguito a modifiche di sicurezza nell’API di Adobe Analytics, non è più possibile utilizzare la versione di Activity Map inclusa in AEM. Consulta <a href="https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Plug-in Activity Map fornito da Adobe Analytics</a> ora deve essere utilizzato. </p> </td> 
+   <td><p>In seguito a modifiche di sicurezza nell’API di Adobe Analytics, non è più possibile utilizzare la versione di Activity Map inclusa in AEM. Utilizzare il plug-in Activity Map <a href="https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">fornito da Adobe Analytics</a>. </p> </td> 
   </tr>
   <tr>
    <td>10 ottobre 2019</td> 
@@ -76,7 +76,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>1 ottobre 2019 </td> 
    <td>Guida alle best practice per i progetti AEM Screens</td> 
-   <td><p>Questa nuova guida fornisce informazioni approfondite e consigli pratici per immaginare, progettare e introdurre esperienze cliente intenzionali nell’implementazione della segnaletica digitale. Inoltre, illustra come creare un impatto positivo sull’azienda utilizzando alcune delle best practice adottate durante l’implementazione di un progetto di segnaletica digitale in AEM Screens.</p> <p>Consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/using/about-guide">Guida alle best practice per i progetti AEM Screens</a> per ulteriori dettagli.</p> </td> 
+   <td><p>Questa nuova guida fornisce informazioni approfondite e consigli pratici per immaginare, progettare e introdurre esperienze cliente intenzionali nell’implementazione della segnaletica digitale. Inoltre, illustra come creare un impatto positivo sull’azienda utilizzando alcune delle best practice adottate durante l’implementazione di un progetto di segnaletica digitale in AEM Screens.</p> <p>Per ulteriori dettagli, consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/using/about-guide">Guida alle best practice per i progetti AEM Screens</a>.</p> </td> 
   </tr>
   <tr>
    <td>25 settembre 2019</td> 
@@ -121,7 +121,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>21 agosto 2019</td> 
    <td>Guida utente di AEM 6.5 Screens</td> 
-   <td>È disponibile una nuova sezione sulle nozioni di base relative all’implementazione in rete. Consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/user-guide/aem-screens-introduction">Guida utente</a> per ulteriori dettagli.</td> 
+   <td>È disponibile una nuova sezione sulle nozioni di base relative all’implementazione in rete. Per ulteriori dettagli, consulta la <a href="https://experienceleague.adobe.com/it/docs/experience-manager-screens/user-guide/aem-screens-introduction">Guida utente</a>.</td> 
   </tr>
   <tr>
    <td>20 agosto 2019</td> 
@@ -136,7 +136,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>25 luglio 2019</td> 
    <td>Funzionalità AEM Assets con licenze diverse</td> 
-   <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">Elenco delle funzionalità</a> di AEM Assets che sono disponibili con una licenza DAM stand-alone o in AEM MediaLibrary sono aggiornati per la versione AEM 6.5.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">L'elenco delle funzionalità</a> di AEM Assets disponibili con una licenza DAM stand-alone o in AEM MediaLibrary è stato aggiornato per la versione AEM 6.5.<br /> </td> 
   </tr>
   <tr>
    <td>12 luglio 2019</td> 
@@ -237,7 +237,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
 
 ## Contenuti precedenti {#legacy-content}
 
-A partire dal 1° maggio 2023, le versioni precedenti della documentazione AEM sono state spostate all’indirizzo [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+A partire dal 1° maggio 2023, le versioni precedenti della documentazione AEM sono state spostate in [Versioni precedenti di Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 Sono state spostate le seguenti versioni:
 

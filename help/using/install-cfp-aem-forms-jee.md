@@ -27,12 +27,12 @@ Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versi
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
-Se si utilizza l’AEM 6.3 [!DNL Forms JEE] server con database Oracle, configura le seguenti impostazioni dopo la distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
+Se utilizzi il server AEM 6.3 [!DNL Forms JEE] con database Oracle, configura le seguenti impostazioni dopo la distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
 
 1. Accedi all’interfaccia utente **Amministratore**.
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Gestione utente]** > **[!UICONTROL Configurazione]** > **[!UICONTROL Import and Export Configuration File]** (Importa ed esporta file di configurazione).
 1. Esporta il file config.xml.
-1. Modifica la voce per &quot;&quot;`groupMemberDBQueryBatchSize`&quot; nelle configurazioni del dominio in *config.xml*. Voce di esempio:
+1. Modificare la voce per &quot;`groupMemberDBQueryBatchSize`&quot; nelle configurazioni del dominio in *config.xml*. Voce di esempio:
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
