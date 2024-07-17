@@ -3,16 +3,16 @@ title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] fornisce in modo coerente nuove funzionalità e miglioramenti alle funzionalità esistenti. Sono disponibili correzioni di bug per gli utenti nelle versioni on-premise, Managed Services e [!DNL Cloud Service]. In questo articolo sono elencate le prossime versioni di [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] fornisce costantemente nuove funzioni e miglioramenti alle funzionalità esistenti. Fornisce correzioni di bug per gli utenti delle versioni [!DNL Cloud Service], Managed Services e on-premise. In questo articolo sono elencate le prossime versioni di [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Gli aggiornamenti del prodotto in termini di nuove funzionalità, miglioramenti 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti tramite Service Pack trimestrali. che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes).
+Gli aggiornamenti del prodotto [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali. che includono nuove funzionalità, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta [[!DNL Experience Manager] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Versione | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|---|

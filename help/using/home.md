@@ -1,15 +1,15 @@
 ---
-title: Aggiornamenti e roadmap per la versione di Adobe Experience Manager
-description: Ulteriori informazioni sugli aggiornamenti e sulla roadmap delle versioni di Adobe Experience Manager.
+title: Aggiornamenti e roadmap della versione di Adobe Experience Manager
+description: Ulteriori informazioni sugli aggiornamenti e sulla roadmap della versione di Adobe Experience Manager.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Aggiornamenti e roadmap per la versione di Adobe Experience Manager
+# Aggiornamenti e roadmap della versione di Adobe Experience Manager
 
 Questa guida fornisce informazioni sulla roadmap delle versioni di [!DNL Adobe Experience Manager], sugli aggiornamenti delle versioni precedenti e sugli aggiornamenti della documentazione.
 

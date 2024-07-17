@@ -1,12 +1,12 @@
 ---
 title: Installazione di Cumulative Fix Pack in AEM Forms JEE
-description: Riepilogo dei passaggi per installare e configurare Cumulative Fix Pack (CFP) in AEM Forms JEE.
+description: Riepilogo dei passaggi d’installazione e configurazione di Cumulative Fix Pack (CFP) in AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '905'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versi
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
-Se utilizzi il server AEM 6.3 [!DNL Forms JEE] con database Oracle, configura le seguenti impostazioni dopo la distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
+Se si utilizza un server [!DNL Forms JEE] per AEM 6.3 con database Oracle, configura le seguenti impostazioni successivamente alla distribuzione di CFP1, ovvero dopo l’esecuzione di Configuration Manager. Questa impostazione è necessaria per sincronizzare utenti, gruppi e membri di gruppi quando viene eseguita la sincronizzazione di un dominio aziendale.
 
 1. Accedi all’interfaccia utente **Amministratore**.
 1. Passa a **[!UICONTROL Impostazioni]** > **[!UICONTROL Gestione utente]** > **[!UICONTROL Configurazione]** > **[!UICONTROL Import and Export Configuration File]** (Importa ed esporta file di configurazione).
 1. Esporta il file config.xml.
-1. Modificare la voce per &quot;`groupMemberDBQueryBatchSize`&quot; nelle configurazioni del dominio in *config.xml*. Voce di esempio:
+1. Modifica la voce “`groupMemberDBQueryBatchSize`” nelle configurazioni del dominio in *config.xml*. Voce di esempio:
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
 
 1. Per impostare su 600 sec il valore di timeout per tutte le operazioni del servizio:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   imposta “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`”
 
 1. Per impostare su 500 sec i valori di timeout dell’operazione `DesigntimeService`:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   imposta “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`”
 
 1. Per impostare su 700 sec i valori di timeout dell’operazione `DesigntimeService's previewLCA`:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   imposta “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`”
 
-1. Per impostare su 600 secondi il `DSC operations`, come il caricamento e l’installazione, utilizza:
+1. Per impostare su 600 secondi le `DSC operations`, come il caricamento e l’installazione, utilizza:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   imposta “`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`”
 
 ## Installare e configurare AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ Utilizza i seguenti comandi per impostare il valore di timeout a livello di comp
 
    **Windows**
 
-   Passare alla directory sul supporto di installazione o alla cartella in cui è stato copiato il programma di installazione.
+   Passa alla directory appropriata sul supporto di installazione o sulla cartella in cui è stato copiato il programma di installazione.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`

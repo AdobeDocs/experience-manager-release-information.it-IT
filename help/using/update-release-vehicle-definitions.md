@@ -4,9 +4,9 @@ description: Questo articolo descrive nel dettaglio i vari tipi di versioni di [
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '740'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 | Elementi | Descrizione |
 |-------|------|
-| Definizione | <ul> <li> Versione pianificata </li> <li> Supporta i percorsi di aggiornamento per versioni specifiche definite nelle note sulla versione </li> </ul> |
+| Definizione | <ul> <li> Versione pianificata </li> <li> Supporta i percorsi di aggiornamento per versioni specifiche, definiti nelle note sulla versione </li> </ul> |
 | Denominazione | <ul> <li> I numeri di versione per le release principali aumentano in base alla formula X+1.Y.Z. </li> <li> I numeri di versione per le release minori aumentano in base alla formula X.Y+1.Z </li> </ul> Dove X è il numero di versione principale, Y è il numero di versione secondario e Z il numero di patch. |
 | Comprende | <ul> <li> Nuove funzioni </li> <li>  Miglioramenti </li> <li>  Correzioni di bug </li> </ul> |
 | Documentazione | <ul> <li> Le note sulla versione sono disponibili nel portale della documentazione </li> <li> La documentazione su funzioni, miglioramenti e correzioni di bug è disponibile nel portale della documentazione </li> </ul> |
@@ -34,7 +34,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 | Elemento | Descrizione |
 |-----|-----|
-| Definizione | <ul> <li> Versione pianificata </li> <li> Attualmente non è possibile eseguirne il rollback </li> </ul> |
+| Definizione | <ul> <li> Versione pianificata </li> <li> Attualmente non è possibile eseguire il rollback </li> </ul> |
 | Denominazione | <ul> <li> Il numero di versione della patch è identificato da un numero a una cifra </li> <li> Dopo l’installazione, aumenterà la cifra del numero di versione della patch installata, in base alla formula X.Y.Z.SPx </li> </ul> Dove X è il numero di versione principale, Y è il numero di versione secondario e Z il numero di patch. x è il numero del service pack. |
 | Comprende | <ul> <li> Nuove funzioni</li> <li>  Miglioramenti </li> <li> Correzioni di bug </li> <li> Feature Pack di interesse comune (se presenti) </li> </ul> |
 | Documentazione | <ul> <li> Le note sulla versione sono disponibili nel portale della documentazione </li> <li> La documentazione su funzioni, miglioramenti, correzioni di bug si trova nel portale della documentazione </li> </ul> |
@@ -48,7 +48,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 |-----|-----|
 | Definizione | <ul> <li> Modello di consegna singola delle correzioni rilasciate </li> <li> Pacchetto di contenuti aggregatore che comprende il pacchetto di contenuto di singoli componenti </li> <li>  I CFP comprendono gli hotfix ma non contengono miglioramenti delle funzioni.  </li> </ul> |
 | Denominazione | X.Y.Z.CFPx <br> Dove X è il numero di versione principale, Y è il numero di versione secondaria e Z il numero della patch. x è il numero del Service Pack cumulativo. |
-| Comprende | Il CFP è un fix pack cumulativo contenente le correzioni di tutti i componenti apportate in un periodo di tempo specificato. Ad esempio, se un cliente applica CFP3, allora CFP3 = CFP1 + CFP2. |
+| Comprende | Il CFP è un Fix Pack cumulativo contenente le correzioni di tutti i componenti apportate in un periodo di tempo specificato. Ad esempio, se un cliente applica CFP3, allora CFP3 = CFP1 + CFP2. |
 | Documentazione | Le note sulla versione sono disponibili nel portale della documentazione |
 | Cadenza | Trimestrale |
 | Disponibilità e installazione | <ul> <li> Consegnato come pacchetto </li> <li>  Disponibile su Software Distribution </li> <li>  A seconda dell’ultimo service pack rilasciato </li> <li>  Il CFP è indipendente. I clienti non devono preoccuparsi di trovare/risolvere le dipendenze. Il CFP deve essere installato sull’ultimo Service Pack rilasciato. </li> <li>  Il CFP può essere installato come pacchetto singolo, per una migliore esperienza del cliente.  </li> </ul> |
@@ -69,7 +69,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 | Elementi | Dettagli |
 |--------|-----|
-| Definizione | <ul> <li>I Feature Pack sono funzionalità aggiuntive e vengono forniti tramite Service Pack. Se la versione [!DNL Experience Manager] ha rilasciato l&#39;ultimo Service Pack, Adobe non fornirà più alcun feature pack. </li> <li> I FP contengono miglioramenti del prodotto, pianificati per essere inseriti in una versione successiva del prodotto, ma consegnati in anticipo in base alla decisione di [!DNL Adobe's] Product Management.</li> <li>  Le funzioni vengono sempre unite alla versione principale successiva. Vengono quindi portati alla versione [!DNL Experience Manager] richiesta dal cliente </li> <li>  I feature pack di interesse comune e disponibilità generale (GA) vengono uniti nel service pack successivo.  </li> </ul> |
+| Definizione | <ul> <li>I Feature Pack (FP) comprendono funzionalità aggiuntive e vengono forniti tramite Service Pack. Se per una versione di [!DNL Experience Manager] è stato rilasciato l’ultimo service pack, Adobe non fornirà più ulteriori Feature Pack. </li> <li> I FP contengono miglioramenti del prodotto, pianificati per essere inseriti in una versione successiva del prodotto, ma consegnati in anticipo in base alla decisione di [!DNL Adobe's] Product Management.</li> <li>  Le funzioni vengono unite sempre alla versione principale successiva. Vengono quindi portati alla versione di [!DNL Experience Manager] richiesta dal cliente </li> <li>  I feature pack di interesse comune e disponibilità generale (GA) vengono uniti nel service pack successivo.  </li> </ul> |
 | Denominazione | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Comprende | <ul> <li> Nuove funzioni </li> <li> Miglioramenti </li> <li> Correzioni di bug (aggiornamenti di prodotto incrementali) </li> </ul> |
 | Documentazione | La documentazione è disponibile su adobe.com. |
@@ -77,4 +77,4 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 | Disponibilità e installazione | <ul> <li>Consegnato tramite Service Pack </li> <li> Disponibile su Software Distribution. I clienti accettano i Termini e Condizioni [!DNL Adobe's] attraverso Software Distribution. </li> </ul> |
 | Livello di test | I pacchetti di funzioni per la disponibilità generale (GA) sono convalidati tramite QA. |
 
-* 1: Le correzioni Oak non vengono distribuite come singoli hot fix. Tuttavia, sono incluse nel successivo hotfix cumulativo di OAK. Se necessario, è possibile mettere a disposizione una build diagnostica basata sulla versione più recente del COFP. La condizione preliminare è che il cliente disponga del COFP più recente e lo utilizzi. Le build diagnostiche forniscono solo lo stesso livello di garanzia di qualità di un hotfix. Pertanto, non forniscono lo stesso livello di qualità di un Cumulative Fix Pack, di un Service Pack o di una versione del prodotto. La correzione definitiva viene fornita con il successivo CFP.
+* 1: Le correzioni Oak non vengono distribuite come singoli hot fix. Tuttavia, sono incluse nel successivo hotfix cumulativo di OAK. Se necessario, è possibile mettere a disposizione una build diagnostica basata sulla versione più recente del COFP. La condizione preliminare è che il cliente disponga del COFP più recente e lo utilizzi. Le build diagnostiche forniscono solo lo stesso livello di controllo qualità di un hotfix. Pertanto, non forniscono lo stesso livello di qualità di un Cumulative Fix Pack, di un Service Pack o di una versione del prodotto. La correzione definitiva viene fornita con il successivo CFP.

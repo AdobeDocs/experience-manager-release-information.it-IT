@@ -3,9 +3,9 @@ title: Scaricare la documentazione per le versioni precedenti di AEM, CQ e CRX
 description: Scarica i pacchetti della documentazione per le versioni precedenti di Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '571'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Le versioni di [!DNL Adobe Experience Manager], CQ e CRX elencate in questa pagi
 Prima di scaricare il pacchetto, verifica chi utilizzerà il contenuto. Questa decisione determinerà come verrà implementato:
 
 * Gli sviluppatori possono eseguire una installazione locale per riferimento rapido.
-* Per esigenze di documentazione organizzativa più ampie, l’Adobe consiglia di distribuire il pacchetto su un’istanza di creazione AEM non di produzione accessibile internamente.
+* Per esigenze di documentazione aziendale più ampie, è consigliabile che il pacchetto venga implementato su un’istanza di authoring di AEM non di produzione accessibile internamente.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 1. Una volta caricato il pacchetto, installalo.
 
-1. Nell&#39;interfaccia utente di Gestione pacchetti, individuare il pacchetto e selezionare **[!UICONTROL Installa]**.
+1. Nell’interfaccia utente della gestione dei pacchetti, individua il pacchetto e seleziona **[!UICONTROL Installa]**.
 
 1. Nella finestra di dialogo di conferma, seleziona nuovamente **[!UICONTROL Installa]**. L’installazione richiede qualche minuto.
 
