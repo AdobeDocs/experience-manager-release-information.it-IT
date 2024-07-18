@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: d65b79e8a568a0e2356930d25ec205b3548569a0
+workflow-type: tm+mt
+source-wordcount: '477'
+ht-degree: 99%
 
 ---
 
@@ -37,13 +37,13 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [16544](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | Aggiornamento automatico | 10-12 giugno 2024 | Aggiornato |
 | Versione di manutenzione [16799](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | Aggiornamento automatico | 24-26 giugno 2024 | Aggiornato |
 | Versione funzionale [2024.6.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 27 giugno 2024 | Attivato |
+| Versione di manutenzione [16971](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Aggiornamento automatico | 8-10 luglio 2024 | Aggiornata |
 
 ### Prossime versioni {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [16971](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 8-10 luglio 2024 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 22-24 luglio 2024 | Destinazione |
+| Versione di manutenzione [17098](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 22-24 luglio 2024 | Destinazione |
 | Versione funzionale 2024.7.0 | Attivazione della funzione | 25 luglio 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 5-7 agosto 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 19-21 agosto 2024 | Destinazione |
