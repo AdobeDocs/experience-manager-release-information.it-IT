@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c53f3d28c02939b953a1b817314399ba399b8041
-workflow-type: ht
-source-wordcount: '419'
-ht-degree: 100%
+source-git-commit: ef01ba25b04e890eb58c59dff08e677ecbce6cf1
+workflow-type: tm+mt
+source-wordcount: '421'
+ht-degree: 87%
 
 ---
 
@@ -41,12 +41,13 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione | Aggiornamento automatico | 5-7 agosto 2024 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 19-21 agosto 2024 | Destinazione |
-| Versione funzionale 2024.8.0 | Attivazione della funzione | 29 agosto 2024 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 2-4 settembre 2024 | Destinazione |
-| Versione di manutenzione | Aggiornamento automatico | 16-18 settembre 2024 | Destinazione |
-| Versione funzionale 2024.9.0 | Attivazione della funzione | 26 settembre 2024 | Destinazione |
+
+| Versione Di Manutenzione [17258](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258)|Aggiornamento Automatico|5-7 Agosto 2024|Target|
+| Versione di manutenzione|Aggiornamento automatico|19-21 agosto 2024|Target|
+| Versione di funzioni 2024.8.0 |Attivazione della funzione|29 agosto 2024 |Destinazione|
+| Versione di manutenzione|Aggiornamento automatico|2-4 settembre 2024|Target|
+| Versione di manutenzione|Aggiornamento automatico|16-18 settembre 2024|Target|
+| Versione di funzioni 2024.9.0 |Attivazione della funzione|26 settembre 2024 |Destinazione|
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
