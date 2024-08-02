@@ -4,9 +4,9 @@ description: Ulteriori informazioni sulle modifiche e sugli aggiornamenti signif
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 2aac500e8b094977f5431d213dbe658f5ff58729
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1255'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>11 ottobre 2019</td> 
    <td>Activity Map</td> 
-   <td><p>In seguito a modifiche di sicurezza nell’API di Adobe Analytics, non è più possibile utilizzare la versione di Activity Map inclusa in AEM. Consulta il <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">plug-in Activity Map fornito con Adobe Analytics</a>, che dovrà essere utilizzato. </p> </td> 
+   <td><p>In seguito a modifiche di sicurezza nell’API di Adobe Analytics, non è più possibile utilizzare la versione di Activity Map inclusa in AEM. Consulta il <a href="https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">plug-in Activity Map fornito con Adobe Analytics</a>, che dovrà essere utilizzato. </p> </td> 
   </tr>
   <tr>
    <td>10 ottobre 2019</td> 
