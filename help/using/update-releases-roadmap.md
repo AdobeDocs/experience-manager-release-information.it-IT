@@ -2,10 +2,10 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: b48c3d7991339a3921093eda1290c54bcb1d5b1f
-workflow-type: ht
+source-git-commit: c03b10a8e6580a4c906cc9523a6c90688ae25dca
+workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -34,14 +34,14 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [16799](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | Aggiornamento automatico | 24-26 giugno 2024 | Aggiornata |
 | Versione funzionale [2024.6.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-6-0) | Attivazione della funzione | 27 giugno 2024 | Attivato |
 | Versione di manutenzione [16971](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Aggiornamento automatico | 8-10 luglio 2024 | Aggiornata |
-| Versione di manutenzione [17098](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 22-24 luglio 2024 | Aggiornata |
+| Versione di manutenzione [17098](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Aggiornamento automatico | 22-24 luglio 2024 | Aggiornata |
 | Versione funzionale [2024.7.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 25 luglio 2024 | Attivato |
+| Versione di manutenzione [17258](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 5-7 agosto 2024 | Aggiornata |
 
 ### Prossime versioni {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [17258](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258) | Aggiornamento automatico | 5-7 agosto 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 19-21 agosto 2024 | Destinazione |
 | Versione funzionale 2024.8.0 | Attivazione della funzione | 29 agosto 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 2-4 settembre 2024 | Destinazione |
