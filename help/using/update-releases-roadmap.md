@@ -2,8 +2,8 @@
 title: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 description: “Roadmap delle versioni di [!DNL Adobe Experience Manager]”
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 2771a67a9be25da1d9f7ea8b601bbd32974bff2c
-workflow-type: ht
+source-git-commit: 5cfeb22daf15d2fd9ab681ee60db8283ec1240b5
+workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
 
@@ -37,12 +37,12 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [18175](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Aggiornamento automatico | 14-16 ottobre 2024 | Aggiornata |
 | Versione di manutenzione [18311](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Aggiornamento automatico | 28-30 ottobre 2024 | Aggiornata |
 | Versione funzionale [2024.10.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 31 ottobre 2024 | Attivata |
+| Versione di manutenzione [18598](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 11-13 novembre 2024 | Aggiornata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [18598](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 11-13 novembre 2024 | Destinazione |
 | Versione funzionale 2024.11.0 | Attivazione della funzione | 21 novembre 2024 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 9-11 dicembre 2024 | Destinazione |
 | Versione funzionale 2024.12.0 | Attivazione della funzione | 12 dicembre 2024 | Destinazione |
