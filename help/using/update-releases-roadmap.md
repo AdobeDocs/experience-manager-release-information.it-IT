@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
 source-wordcount: '442'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -32,8 +32,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2024.10.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | Attivazione della funzione | 31 ottobre 2024 | Attivata |
 | Versione di manutenzione [18598](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | Aggiornamento automatico | 11-13 novembre 2024 | Aggiornata |
 | Versione funzionale [2024.11.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) | Attivazione della funzione | 21 novembre 2024 | Attivata |
-| Versione di manutenzione [18751](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Aggiornamento automatico | 13-15 gennaio 2025 | Attivata |
-| Versione di manutenzione [19149](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Aggiornamento automatico | 27-29 gennaio 2025 | Aggiornata |
+| Versione di manutenzione [18751](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Aggiornamento automatico | 13-15 gennaio 2025 | Attivata |
+| Versione di manutenzione [19149](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Aggiornamento automatico | 27-29 gennaio 2025 | Aggiornata |
 | Versione funzionale [2025.1.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | venerdì 30 gennaio 2025 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
