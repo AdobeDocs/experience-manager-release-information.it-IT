@@ -3,9 +3,9 @@ title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -29,26 +29,26 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 |---|---|---|---|
 | Versione di manutenzione [18751](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Aggiornamento automatico | 13-15 gennaio 2025 | Attivata |
 | Versione di manutenzione [19149](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Aggiornamento automatico | 27-29 gennaio 2025 | Aggiornata |
-| Versione funzionale [2025.1.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) | Attivazione della funzione | venerdì 30 gennaio 2025 | Attivata |
+| Versione funzionale [2025.1.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) | Attivazione delle funzioni | venerdì 30 gennaio 2025 | Attivata |
 | Versione di manutenzione [19352](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Aggiornamento automatico | 10-12 febbraio 2025 | Aggiornata |
 | Versione di manutenzione [19687](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Aggiornamento automatico | 24-26 febbraio 2025 | Aggiornata |
-| Versione funzionale [2025.2.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 4 marzo 2025 | Attivata |
+| Versione funzionale [2025.2.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione delle funzioni | 4 marzo 2025 | Attivata |
 | Versione di manutenzione [19823](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 10-12 marzo 2025 | Aggiornata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione funzionale 2025.3.0 | Attivazione della funzione | 27 marzo 2025 | Destinazione |
+| Versione funzionale 2025.3.0 | Attivazione delle funzioni | 27 marzo 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 7-9 aprile 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 21-23 aprile 2025 | Destinazione |
-| Versione funzionale 2025.4.0 | Attivazione della funzione | 24 aprile 2025 | Destinazione |
+| Versione funzionale 2025.4.0 | Attivazione delle funzioni | 24 aprile 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 5-7 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 19-21 maggio 2025 | Destinazione |
-| Versione funzionale 2025.5.0 | Attivazione della funzione | venerdì 29 maggio 2025 | Destinazione |
+| Versione funzionale 2025.5.0 | Attivazione delle funzioni | 29 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 2-4 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 16-18 giugno 2025 | Destinazione |
-| Versione funzionale 2025.6.0 | Attivazione della funzione | venerdì 26 giugno 2025 | Destinazione |
+| Versione funzionale 2025.6.0 | Attivazione delle funzioni | 26 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 30 giugno - 2 luglio 2025 | Destinazione |
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
