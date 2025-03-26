@@ -1,12 +1,12 @@
 ---
-title: “Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]”
-description: “Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]”
+title: Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]
+description: Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 77%
 
 ---
 
@@ -30,6 +30,13 @@ Per le offerte On-Premise e Managed Services, l’articolo elenca l’ultimo Cum
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso Service Pack trimestrali che includono nuove funzionalità, miglioramenti e correzioni di bug.
+Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti tramite Service Pack semestrali e includono nuove funzionalità, miglioramenti e correzioni di bug.
 
 Consulta [[!DNL Experience Manager] 6.5 Ultimo Feature Pack](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes) per informazioni dettagliate sulla versione corrente/più recente. Da questa pagina è possibile anche passare ai dettagli delle versioni precedenti (disposti in ordine cronologico).
+
+### [!DNL Experience Manager] 6,5 LITRI {#aem-65-lts}
+
+Gli aggiornamenti di [!DNL Experience Manager] 6.5 LTS vengono forniti tramite Service Pack trimestrali e includono nuove funzionalità, miglioramenti e correzioni di bug.
+
+Per informazioni dettagliate sulla versione corrente/più recente, consulta [[!DNL Experience Manager] 6.5 LTS ultimo feature pack](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en).
+
