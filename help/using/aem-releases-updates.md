@@ -4,9 +4,9 @@ description: Aggiornamenti delle versioni di [!DNL Adobe Experience Manager]
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -30,13 +30,13 @@ Per le offerte On-Premise e Managed Services, l’articolo elenca l’ultimo Cum
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti tramite Service Pack semestrali e includono nuove funzionalità, miglioramenti e correzioni di bug.
+Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti tramite Service Pack semestrali e includono nuove funzioni, miglioramenti e correzioni di bug.
 
 Consulta [[!DNL Experience Manager] 6.5 Ultimo Feature Pack](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes) per informazioni dettagliate sulla versione corrente/più recente. Da questa pagina è possibile anche passare ai dettagli delle versioni precedenti (disposti in ordine cronologico).
 
-### [!DNL Experience Manager] 6,5 LITRI {#aem-65-lts}
+### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
-Gli aggiornamenti di [!DNL Experience Manager] 6.5 LTS vengono forniti tramite Service Pack trimestrali e includono nuove funzionalità, miglioramenti e correzioni di bug.
+Gli aggiornamenti di [!DNL Experience Manager] 6.5 LTS vengono forniti tramite Service Pack trimestrali e includono nuove funzioni, miglioramenti e correzioni di bug.
 
-Per informazioni dettagliate sulla versione corrente/più recente, consulta [[!DNL Experience Manager] 6.5 LTS ultimo feature pack](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en).
+Consulta [[!DNL Experience Manager] 6.5 LTS Ultimo Feature Pack](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=it) per informazioni dettagliate sulla versione corrente/più recente.
 
