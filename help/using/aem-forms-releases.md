@@ -3,10 +3,10 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 1f66894bb15a06e1d9b0775ec7b51bfdce0cc3a6
+source-git-commit: 3f1ad6029dd048cb3baabc15cb85c514386ad740
 workflow-type: tm+mt
-source-wordcount: '3215'
-ht-degree: 98%
+source-wordcount: '3224'
+ht-degree: 97%
 
 ---
 
@@ -39,20 +39,20 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>Versioni delle build</strong></td>
    </tr>
   </tr>
-    <tr>
+   <tr>
     <td>7 marzo 2025</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6,5 LTS Forms</a></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6,5 LTS Forms</a></td>
     <td>
      <ul>
      <br><b>AEM Forms su programmi di installazione completi OSGi</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">Pacchetto di componenti aggiuntivi AEM Forms per Linux®</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">Pacchetto di componenti aggiuntivi AEM Forms per Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms pacchetto aggiuntivo per mac OSX</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">Pacchetto di compatibilità per AEM Forms</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">AEM Forms 6.5 LTS Add-on per Linux®</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">AEM Forms 6.5 LTS Add-on per Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms 6.5 LTS Add-on per mac OSX</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms Pacchetto Compatibilità da 6,5 LTS</a></li>
       </ul> 
       </td>
-    <td><p>Componente aggiuntivo per pacchetti di AEM Forms: 6.1.152 <br/></p><p>Pacchetto di compatibilità per AEM Forms: 2.1.2 </td>
+    <td><p>AEM Forms 6.5 LTS Packages add-on: 6.1.152 <br/></p><p>AEM Forms Pacchetto Compatibilità da 6,5 LTS: 2.1.2 </td>
    </tr>
   <tr>
     <td>29 novembre 2024</td>
