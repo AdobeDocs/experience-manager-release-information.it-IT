@@ -3,10 +3,10 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 1c00252ff9c14591369cbddf0c24ef2134990c7e
-workflow-type: ht
-source-wordcount: '3159'
-ht-degree: 100%
+source-git-commit: 1f66894bb15a06e1d9b0775ec7b51bfdce0cc3a6
+workflow-type: tm+mt
+source-wordcount: '3215'
+ht-degree: 98%
 
 ---
 
@@ -39,6 +39,21 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>Versioni delle build</strong></td>
    </tr>
   </tr>
+    <tr>
+    <td>7 marzo 2025</td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6,5 LTS Forms</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6,5 LTS Forms</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms su programmi di installazione completi OSGi</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">Pacchetto di componenti aggiuntivi AEM Forms per Linux®</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">Pacchetto di componenti aggiuntivi AEM Forms per Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms pacchetto aggiuntivo per mac OSX</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">Pacchetto di compatibilità per AEM Forms</a></li>
+      </ul> 
+      </td>
+    <td><p>Componente aggiuntivo per pacchetti di AEM Forms: 6.1.152 <br/></p><p>Pacchetto di compatibilità per AEM Forms: 2.1.2 </td>
+   </tr>
   <tr>
     <td>29 novembre 2024</td>
     <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 22 Pacchetto di componenti aggiuntivi per Forms per AEM 6.5.22.0</a></td>
@@ -686,7 +701,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 
-Il pacchetto di compatibilità per la versione 6.5.4.0 di `[3]`AEM [!DNL Forms] rimane invariato rispetto alla versione 6.5.3.0.
+`[3]`[!DNL Forms] AEM Compatibilità pacchetto per 6.5.4.0 rimane lo stesso di quello di 6.5.3.0 rilascio.
 
 ## Aspetti da ricordare {#things-to-remember}
 
