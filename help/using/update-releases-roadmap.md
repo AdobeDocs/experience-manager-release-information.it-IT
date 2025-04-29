@@ -2,9 +2,9 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 65c62261b3b1d96a131cf804ab0e7d59058b1692
+source-git-commit: a955c9315d3b2a0c34f035cfae4504798463dc57
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '409'
 ht-degree: 99%
 
 ---
@@ -27,9 +27,6 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [18751](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Aggiornamento automatico | 13-15 gennaio 2025 | Attivata |
-| Versione di manutenzione [19149](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Aggiornamento automatico | 27-29 gennaio 2025 | Aggiornata |
-| Versione funzionale [2025.1.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) | Attivazione delle funzioni | venerdì 30 gennaio 2025 | Attivata |
 | Versione di manutenzione [19352](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Aggiornamento automatico | 10-12 febbraio 2025 | Aggiornata |
 | Versione di manutenzione [19687](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Aggiornamento automatico | 24-26 febbraio 2025 | Aggiornata |
 | Versione funzionale [2025.2.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | Attivazione delle funzioni | 4 marzo 2025 | Attivata |
@@ -45,8 +42,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 |---|---|---|---|
 | Versione di manutenzione | Aggiornamento automatico | 5-7 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 19-21 maggio 2025 | Destinazione |
-| Versione funzionale 2025.5.0 | Attivazione delle funzioni | 29 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 2-4 giugno 2025 | Destinazione |
+| Versione funzionale 2025.5.0 | Attivazione delle funzioni | venerdì 5 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 16-18 giugno 2025 | Destinazione |
 | Versione funzionale 2025.6.0 | Attivazione delle funzioni | 26 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 30 giugno - 2 luglio 2025 | Destinazione |
