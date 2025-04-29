@@ -2,9 +2,9 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: a955c9315d3b2a0c34f035cfae4504798463dc57
+source-git-commit: b7c4e0328e3a33350cabf5614df28a12fa1e115d
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 99%
 
 ---
@@ -33,14 +33,14 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [19823](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Aggiornamento automatico | 10-12 marzo 2025 | Aggiornata |
 | Versione funzionale [2025.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-3-0) | Attivazione delle funzioni | 27 marzo 2025 | Attivata |
 | Versione di manutenzione [20133](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Aggiornamento automatico | 7-9 aprile 2025 | Aggiornata |
-| Versione di manutenzione [20476](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 22-24 aprile 2025 | Aggiornata |
+| Versione di manutenzione [20476](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | Aggiornamento automatico | 22-24 aprile 2025 | Aggiornata |
 | Versione funzionale [2025.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione delle funzioni | 24 aprile 2025 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione | Aggiornamento automatico | 5-7 maggio 2025 | Destinazione |
+| Versione di manutenzione [20626](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 5-7 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 19-21 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 2-4 giugno 2025 | Destinazione |
 | Versione funzionale 2025.5.0 | Attivazione delle funzioni | venerdì 5 giugno 2025 | Destinazione |
