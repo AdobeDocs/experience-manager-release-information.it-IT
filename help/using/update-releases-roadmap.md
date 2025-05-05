@@ -31,8 +31,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [19687](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Aggiornamento automatico | 24-26 febbraio 2025 | Aggiornata |
 | Versione funzionale [2025.2.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | Attivazione delle funzioni | 4 marzo 2025 | Attivata |
 | Versione di manutenzione [19823](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Aggiornamento automatico | 10-12 marzo 2025 | Aggiornata |
-| Versione funzionale [2025.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-3-0) | Attivazione delle funzioni | 27 marzo 2025 | Attivata |
-| Versione di manutenzione [20133](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Aggiornamento automatico | 7-9 aprile 2025 | Aggiornata |
+| Versione funzionale [2025.3.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-3-0) | Attivazione delle funzioni | 27 marzo 2025 | Attivata |
+| Versione di manutenzione [20133](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Aggiornamento automatico | 7-9 aprile 2025 | Aggiornata |
 | Versione di manutenzione [20476](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | Aggiornamento automatico | 22-24 aprile 2025 | Aggiornata |
 | Versione funzionale [2025.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione delle funzioni | 24 aprile 2025 | Attivata |
 
