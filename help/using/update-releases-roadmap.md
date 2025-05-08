@@ -3,9 +3,9 @@ title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b7c4e0328e3a33350cabf5614df28a12fa1e115d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [20626](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 5-7 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 19-21 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 2-4 giugno 2025 | Destinazione |
-| Versione funzionale 2025.5.0 | Attivazione delle funzioni | venerdì 5 giugno 2025 | Destinazione |
+| Versione funzionale 2025.5.0 | Attivazione delle funzioni | 5 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 16-18 giugno 2025 | Destinazione |
 | Versione funzionale 2025.6.0 | Attivazione delle funzioni | 26 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 30 giugno - 2 luglio 2025 | Destinazione |
