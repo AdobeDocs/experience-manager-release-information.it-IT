@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cc9b7543118d61f6beedc1433e03888cbc340c0a
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +49,7 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione | Aggiornamento automatico | 30 giugno - 2 luglio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 14-16 luglio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 28-30 luglio 2025 | Destinazione |
-| Versione funzionale 2025.7.0 | Attivazione delle funzioni | venerdì 31 luglio 2025 | Destinazione |
+| Versione funzionale 2025.7.0 | Attivazione delle funzioni | 31 luglio 2025 | Destinazione |
 
 ## On-Premise e Managed Services di [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
