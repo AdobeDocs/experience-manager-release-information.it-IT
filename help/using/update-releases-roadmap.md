@@ -2,10 +2,10 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 720153ad37a24d61c55e89e9cb14d53a7020de87
+source-git-commit: 9062751317033be48bf9b6247ec4984abe589bda
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 99%
+source-wordcount: '428'
+ht-degree: 100%
 
 ---
 
@@ -35,13 +35,12 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [20133](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Aggiornamento automatico | 7-9 aprile 2025 | Aggiornata |
 | Versione di manutenzione [20476](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | Aggiornamento automatico | 22-24 aprile 2025 | Aggiornata |
 | Versione funzionale [2025.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione delle funzioni | 24 aprile 2025 | Attivata |
-| Versione di manutenzione [20626](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Aggiornamento automatico | 5-7 maggio 2025 | Attivata |
+| Versione di manutenzione [20626](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 5-7 maggio 2025 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [20936](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 19-21 maggio 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 2-4 giugno 2025 | Destinazione |
 | Versione funzionale 2025.5.0 | Attivazione delle funzioni | 5 giugno 2025 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 16-18 giugno 2025 | Destinazione |
