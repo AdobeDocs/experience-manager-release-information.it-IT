@@ -51,7 +51,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>18 ottobre 2019<br /> </td> 
    <td>Gestione delle esperienze headless<br /> </td> 
-   <td>Sono state documentate le funzioni di <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Remote Content Renderer</a> utilizzate per il rendering lato server delle applicazioni a pagina singola.<br /> </td> 
+   <td>Sono state documentate le funzioni di <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Remote Content Renderer</a> utilizzate per il rendering lato server delle applicazioni a pagina singola.<br /> </td> 
   </tr>
   <tr>
    <td>11 ottobre 2019</td> 
