@@ -10,7 +10,7 @@ ht-degree: 97%
 
 ---
 
-# Installazione di Cumulative Fix Pack in AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Installazione di Cumulative Fix Pack in AEM [!DNL &#x200B; Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Installare CFP in AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
@@ -23,7 +23,7 @@ Per installare il Cumulative Fix Pack su AEM 6.3 [!DNL Forms JEE], esegui la seq
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
-Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
+Il pacchetto [!DNL &#x200B; Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ Se si utilizza un server [!DNL Forms JEE] per AEM 6.3 con database Oracle, confi
 
 1. Importa di nuovo il file modificato ed esegui nuovamente la sincronizzazione.
 
-## Installare CFP in AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
+## Installare CFP in AEM 6.2 [!DNL &#x200B; Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
 Per installare il Cumulative Fix Pack su AEM 6.2 [!DNL Forms JEE], esegui la sequenza di passaggi seguente.
 
