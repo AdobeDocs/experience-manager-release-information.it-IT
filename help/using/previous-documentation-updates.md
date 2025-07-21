@@ -3,10 +3,10 @@ title: Aggiornamenti della documentazione precedenti
 description: Ulteriori informazioni sulle modifiche e sugli aggiornamenti significativi della documentazione precedente per [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
-workflow-type: ht
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -51,7 +51,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>18 ottobre 2019<br /> </td> 
    <td>Gestione delle esperienze headless<br /> </td> 
-   <td>Sono state documentate le funzioni di <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">Remote Content Renderer</a> utilizzate per il rendering lato server delle applicazioni a pagina singola.<br /> </td> 
+   <td>Sono state documentate le funzioni di <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Remote Content Renderer</a> utilizzate per il rendering lato server delle applicazioni a pagina singola.<br /> </td> 
   </tr>
   <tr>
    <td>11 ottobre 2019</td> 
@@ -81,7 +81,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>25 settembre 2019</td> 
    <td>Componenti core</td> 
-   <td>La versione 2.7.0 dei componenti core, che include il componente Incorpora, è disponibile con i relativi <a href="https://github.com/adobe/aem-core-wcm-components">dettagli per gli sviluppatori e i progetti da scaricare da GitHub</a>.</td> 
+   <td>La versione 2.7.0 dei componenti core, che include il componente Incorpora, è disponibile con <a href="https://github.com/adobe/aem-core-wcm-components">i dettagli per gli sviluppatori e i progetti da scaricare da GitHub</a>.</td> 
   </tr>
   <tr>
    <td>25 settembre 2019</td> 
@@ -171,7 +171,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>3 giugno 2019</td> 
    <td>Editor Rich Text<br /> </td> 
-   <td><p>È stato aggiunto un pacchetto in <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">creare un componente con più campi</a>.<br /> </p> <p>È stata creata una sezione di <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">domande frequenti sulla risoluzione dei problemi</a> basate sul feedback ricevuto dai clienti.</p> </td> 
+   <td><p>È stato aggiunto un pacchetto nel <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente con più campi creato</a>.<br /> </p> <p>È stata creata una sezione di <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">domande frequenti sulla risoluzione dei problemi</a> basate sul feedback ricevuto dai clienti.</p> </td> 
   </tr>
   <tr>
    <td>31 maggio 2019</td> 
