@@ -4,26 +4,26 @@ description: Riepilogo dei passaggi d’installazione e configurazione di Cumula
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '904'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Installazione di Cumulative Fix Pack in AEM [!DNL &#x200B; Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Installazione di Cumulative Fix Pack in AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Installare CFP in AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
 Per installare il Cumulative Fix Pack su AEM 6.3 [!DNL Forms JEE], esegui la sequenza di passaggi seguente.
 
-1. Per ottenere il programma di installazione di AEM 6.3 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support).
+1. Per ottenere il programma di installazione di AEM 6.3 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installare la versione più recente di AEM CFP 6.3.3.x
 1. Installare il pacchetto del componente aggiuntivo [!DNL Forms] per AEM CFP [6.3.3.x](aem-forms-releases.md)
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
-Il pacchetto [!DNL &#x200B; Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
+Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
@@ -38,11 +38,11 @@ Se si utilizza un server [!DNL Forms JEE] per AEM 6.3 con database Oracle, confi
 
 1. Importa di nuovo il file modificato ed esegui nuovamente la sincronizzazione.
 
-## Installare CFP in AEM 6.2 [!DNL &#x200B; Forms JEE] {#install-cfp-on-aem-62-forms-jee}
+## Installare CFP in AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
 Per installare il Cumulative Fix Pack su AEM 6.2 [!DNL Forms JEE], esegui la sequenza di passaggi seguente.
 
-1. Per ottenere il programma di installazione di AEM 6.2 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support).
+1. Per ottenere il programma di installazione di AEM 6.2 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installa AEM Hotfix 12785 versione 7.0.
 1. Installa AEM 6.2 Service Pack 1.
@@ -59,7 +59,7 @@ Il pacchetto JEE per AEM Forms (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.
 >
 >Dopo AEM 6.2 CFP4, puoi utilizzare le seguenti istruzioni per configurare il timeout per operazioni DSC, qualora si verifichino problemi dovuti a errori di timeout durante il processo di aggiornamento.
 
-L’implementazione di DSC richiede un intervallo tempo variabile e, per questo motivo, potrebbe non riuscire. Per modificare il timeout delle operazioni DSC come l&#39;installazione, il caricamento, l&#39;avvio e l&#39;arresto, è necessario impostare `adobe.component.registry.timeout` utilizzando l&#39;argomento JVM con l&#39;opzione `-D`.
+L’implementazione di DSC richiede un intervallo tempo variabile e, per questo motivo, potrebbe non riuscire. Per modificare il timeout per le operazioni DSC come l’installazione, il caricamento, l’avvio e l’interruzione, è necessario impostare `adobe.component.registry.timeout` utilizzando l’argomento JVM con l’opzione `-D`.
 
 Specifica il valore relativo alla chiave in secondi. Esempio: `-Dadobe.component.registry.timeout=300`
 

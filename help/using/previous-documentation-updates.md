@@ -4,9 +4,9 @@ description: Ulteriori informazioni sulle modifiche e sugli aggiornamenti signif
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1172'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -81,7 +81,7 @@ In questa pagina sono elencate le precedenti modifiche e aggiornamenti significa
   <tr>
    <td>25 settembre 2019</td> 
    <td>Componenti core</td> 
-   <td>La versione 2.7.0 dei componenti core, che include il componente Incorpora, è disponibile con <a href="https://github.com/adobe/aem-core-wcm-components">i dettagli per gli sviluppatori e i progetti da scaricare da GitHub</a>.</td> 
+   <td>La versione 2.7.0 dei componenti core, che include il componente Incorpora, è ora disponibile con i <a href="https://github.com/adobe/aem-core-wcm-components">dettagli per gli sviluppatori e i progetti da scaricare presenti su GitHub</a>.</td> 
   </tr>
   <tr>
    <td>25 settembre 2019</td> 
