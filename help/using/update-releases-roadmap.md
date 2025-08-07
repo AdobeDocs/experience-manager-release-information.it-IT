@@ -34,7 +34,7 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2025.6.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-6-0) | Attivazione della funzione | 26 giugno 2025 | Attivata |
 | Versione di manutenzione [21331](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Aggiornamento automatico | 30 giugno - 2 luglio 2025 | Aggiornata |
 | Versione di manutenzione [21570](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Aggiornamento automatico | 14-16 luglio 2025 | Aggiornata |
-| Versione di manutenzione [21706](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Aggiornamento automatico | 28-30 luglio 2025 | Aggiornata |
+| Versione di manutenzione [21706](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Aggiornamento automatico | 28-30 luglio 2025 | Aggiornata |
 | Versione funzionale [2025.7.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 7 agosto 2025 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
