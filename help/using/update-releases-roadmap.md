@@ -2,10 +2,10 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 59c28e32a8a94a9d3df8dd989f6ab94941fedca2
+source-git-commit: d33e61138d1bde75df3b53eda07a3bc7b190b37a
 workflow-type: tm+mt
-source-wordcount: '518'
-ht-degree: 99%
+source-wordcount: '519'
+ht-degree: 98%
 
 ---
 
@@ -68,7 +68,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 LTS vengono forniti attravers
 
 | Versione | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 28 agosto 2025 | Target |
+| [!DNL Experience Manager] 6,5 LTS [Service Pack 1](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28 agosto 2025 | Attivata |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
