@@ -2,9 +2,9 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 26d2f5d3d9947ec7aaf700e286f38116eb1be311
+source-git-commit: 575994376d8a5dee0adb4064c069d3e92f83c0f2
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '546'
 ht-degree: 98%
 
 ---
@@ -27,16 +27,11 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [21005](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | Aggiornamento automatico | 2-4 giugno 2025 | Aggiornata |
-| Versione funzionale [2025.5.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-5-0) | Attivazione della funzione | 5 giugno 2025 | Attivata |
-| Versione di manutenzione [21193](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Aggiornamento automatico | 16-18 giugno 2025 | Aggiornata |
-| Versione funzionale [2025.6.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-6-0) | Attivazione della funzione | 26 giugno 2025 | Attivata |
-| Versione di manutenzione [21331](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Aggiornamento automatico | 30 giugno - 2 luglio 2025 | Aggiornata |
 | Versione di manutenzione [21570](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Aggiornamento automatico | 14-16 luglio 2025 | Aggiornata |
 | Versione di manutenzione [21706](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Aggiornamento automatico | 28-30 luglio 2025 | Aggiornata |
-| Versione funzionale [2025.7.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Attivazione della funzione | 7 agosto 2025 | Attivata |
+| Versione funzionale [2025.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Attivazione della funzione | 7 agosto 2025 | Attivata |
 | Versione di manutenzione [21772](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Aggiornamento automatico | 11-13 agosto 2025 | Aggiornata |
-| Versione di manutenzione [21994](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Aggiornamento automatico | 25-27 agosto 2025 | Aggiornata |
+| Versione di manutenzione [21994](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Aggiornamento automatico | 25-27 agosto 2025 | Aggiornata |
 | Versione funzionale [2025.8.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 28 agosto 2025 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
@@ -47,6 +42,16 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione | Aggiornamento automatico | 22-24 settembre 2025 | Target |
 | Versione funzionale 2025.9.0 | Attivazione della funzione | 25 settembre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 6-8 ottobre 2025 | Target |
+| Versione di manutenzione | Aggiornamento automatico | 20-22 ottobre 2025 | Target |
+| Versione funzionale 2025.10.0 | Attivazione della funzione | venerdì 30 ottobre 2025 | Target |
+| Versione di manutenzione | Aggiornamento automatico | 3-5 novembre 2025 | Target |
+| Versione di manutenzione | Aggiornamento automatico | 17-19 novembre 2025 | Target |
+| Versione funzionale 2025.11.0 | Attivazione della funzione | 20 novembre 2025 | Target |
+| Versione di manutenzione | Aggiornamento automatico | 8-10 dicembre 2025 | Target |
+| Versione funzionale 2025.12.0 | Attivazione della funzione | venerdì 11 dicembre 2025 | Target |
+| Versione di manutenzione | Aggiornamento automatico | 12-14 gennaio 2026 | Target |
+| Versione di manutenzione | Aggiornamento automatico | 26-28 gennaio 2026 | Target |
+| Versione funzionale 2026.1.0 | Attivazione della funzione | venerdì 29 gennaio 2026 | Destinazione |
 
 >[!CAUTION]
 >
