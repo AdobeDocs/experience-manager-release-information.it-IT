@@ -3,7 +3,7 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 39a62f724dc810e593e3a653fe1d724cb2949ec0
+source-git-commit: 1681730a26c32920d24250f71f1ab966bfe3e42b
 workflow-type: tm+mt
 source-wordcount: '3381'
 ht-degree: 99%
@@ -44,8 +44,8 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms Service Pack 1</a></td>
     <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms Service Pack 1</a></td>
     <td>
-     <ul>
      <br><b>Programmi di installazione completi per AEM Forms 6.5 LTS su OSGi</b></br>
+     <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.176.zip">Componente aggiuntivo AEM Forms 6.5 LTS per Linux®</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.176.zip">Componente aggiuntivo AEM Forms 6.5 LTS per Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.176.zip">Componente aggiuntivo AEM Forms 6.5 LTS per macOS X</a></li>
@@ -60,8 +60,8 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 23 Pacchetto di componenti aggiuntivi per Forms per AEM 6.5.23.0</a></td>
     <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.23.0</a></td>
     <td>
-     <ul>
      <br><b>Programmi di installazione patch per AEM Forms su OSGi</b></br>
+     <ul>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1360.zip">Pacchetto di componenti aggiuntivi AEM Forms per Linux®</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1360.zip">Pacchetto di componenti aggiuntivi AEM Forms per Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1360.zip">Pacchetto di componenti aggiuntivi AEM Forms per macOS X [2]</a></li>
@@ -749,7 +749,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
+`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 
