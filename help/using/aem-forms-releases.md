@@ -3,9 +3,9 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 2bf864f7ac9af12e4875ad871d1a00bc27844cec
+source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
 workflow-type: tm+mt
-source-wordcount: '3401'
+source-wordcount: '3400'
 ht-degree: 95%
 
 ---
@@ -57,7 +57,7 @@ Questo articolo fornisce informazioni sia per:
         </a>
       </td>
       <td>
-        <b style="display:block; margin:10px 0;">Programmi di installazione completi per AEM Forms 6.5 LTS su OSGi</b>
+        <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS sui programmi di installazione OSGi</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.176.zip">Componente aggiuntivo AEM Forms 6.5 LTS per Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.176.zip">Componente aggiuntivo AEM Forms 6.5 LTS per Windows</a></li>
@@ -287,7 +287,6 @@ Questo articolo fornisce informazioni sia per:
       <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes#forms-6519"> (Solo AEM Forms su JEE) AEM 6.5 Forms Service Pack 19.1 (6.5.19.1)</a></td>
       <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
-     <ul>
       <b style="display:block; margin:10px 0;">Programmi di installazione patch per AEM Forms su JEE</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0079/jboss/win/adobe-aem-forms-jee-service-pack-6.5.19.1-windows-jboss.zip">JBoss® su Windows</a></li>
@@ -934,7 +933,7 @@ Questo articolo fornisce informazioni sia per:
   </tbody>
  </table>
 
-`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
+`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 
