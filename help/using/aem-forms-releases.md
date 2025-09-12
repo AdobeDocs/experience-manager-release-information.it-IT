@@ -40,9 +40,9 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
   <tr>
-    <td>sabato 5 settembre 2025</td>
+    <td>5 settembre 2025</td>
     <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms Service Pack 1</a></td>
-    <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms Service Pack 1</a></td>
+    <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms  Service Pack 1</a></td>
     <td>
      <ul>
      <div style="margin: 10px 0;"><b>Programmi di installazione completi per AEM Forms 6.5 LTS su OSGi</b></div>
@@ -763,7 +763,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
+`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 

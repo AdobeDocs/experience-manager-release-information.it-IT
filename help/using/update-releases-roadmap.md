@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 5ea75151fa68dd30327ab9b9bc519ab379fd5115
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -43,15 +43,15 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale 2025.9.0 | Attivazione della funzione | 25 settembre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 6-8 ottobre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 20-22 ottobre 2025 | Target |
-| Versione funzionale 2025.10.0 | Attivazione della funzione | venerdì 30 ottobre 2025 | Target |
+| Versione funzionale 2025.10.0 | Attivazione della funzione | 30 ottobre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 3-5 novembre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 17-19 novembre 2025 | Target |
 | Versione funzionale 2025.11.0 | Attivazione della funzione | 20 novembre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 8-10 dicembre 2025 | Target |
-| Versione funzionale 2025.12.0 | Attivazione della funzione | venerdì 11 dicembre 2025 | Target |
+| Versione funzionale 2025.12.0 | Attivazione della funzione | 11 dicembre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 12-14 gennaio 2026 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 26-28 gennaio 2026 | Target |
-| Versione funzionale 2026.1.0 | Attivazione della funzione | venerdì 29 gennaio 2026 | Destinazione |
+| Versione funzionale 2026.1.0 | Attivazione della funzione | 29 gennaio 2026 | Target |
 
 >[!CAUTION]
 >
@@ -72,7 +72,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 LTS vengono forniti attravers
 
 | Versione | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6,5 LTS [Service Pack 1](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28 agosto 2025 | Attivata |
+| [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28 agosto 2025 | Attivata |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
