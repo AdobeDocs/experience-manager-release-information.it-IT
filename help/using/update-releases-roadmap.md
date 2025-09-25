@@ -2,9 +2,9 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: fe220b2c7f95cfb6a0e2e3c9768a5fbabfc2c2ce
+source-git-commit: 246722449e9a3fb527f6a10a69f122b30c9dbe0b
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '549'
 ht-degree: 99%
 
 ---
@@ -32,15 +32,15 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2025.7.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Attivazione della funzione | 7 agosto 2025 | Attivata |
 | Versione di manutenzione [21772](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Aggiornamento automatico | 11-13 agosto 2025 | Aggiornata |
 | Versione di manutenzione [21994](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Aggiornamento automatico | 25-27 agosto 2025 | Aggiornata |
-| Versione della funzione [2025.8.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 28 agosto 2025 | Attivata |
-| Versione di manutenzione [22171](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | Aggiornamento automatico | 8-10 settembre 2025 | Aggiornata |
+| Versione della funzione [2025.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-8-0) | Attivazione della funzione | 28 agosto 2025 | Attivata |
+| Versione di manutenzione [22171](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | Aggiornamento automatico | 8-10 settembre 2025 | Aggiornata |
+| Versione di manutenzione [22450](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 22-24 settembre 2025 | Aggiornata |
+| Versione della funzione [2025.9.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 25 settembre 2025 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [22450](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 22-24 settembre 2025 | Target |
-| Versione funzionale 2025.9.0 | Attivazione della funzione | 25 settembre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 6-8 ottobre 2025 | Target |
 | Versione di manutenzione | Aggiornamento automatico | 20-22 ottobre 2025 | Target |
 | Versione funzionale 2025.10.0 | Attivazione della funzione | 30 ottobre 2025 | Target |
