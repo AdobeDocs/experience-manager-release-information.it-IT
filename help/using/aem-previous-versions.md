@@ -4,9 +4,9 @@ description: Scarica i pacchetti della documentazione per le versioni precedenti
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '571'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '579'
+ht-degree: 96%
 
 ---
 
@@ -83,7 +83,7 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 1. Seleziona **[!UICONTROL Strumenti]** > **[!UICONTROL Distribuzione]** > **[!UICONTROL Pacchetti]**.
 
-1. Dall’interfaccia utente per la gestione dei pacchetti, seleziona **[!UICONTROL Carica pacchetto]**.
+1. Dall’interfaccia utente del gestore di pacchetti, seleziona **[!UICONTROL Carica pacchetto]**.
 
 1. Individua il percorso in cui hai scaricato il pacchetto AEM.
 
@@ -91,11 +91,11 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 1. Una volta caricato il pacchetto, installalo.
 
-1. Nell’interfaccia utente della gestione dei pacchetti, individua il pacchetto e seleziona **[!UICONTROL Installa]**.
+1. Nell’interfaccia utente del gestore di pacchetti, individua il pacchetto e seleziona **[!UICONTROL Installa]**.
 
 1. Nella finestra di dialogo di conferma, seleziona nuovamente **[!UICONTROL Installa]**. L’installazione richiede qualche minuto.
 
-1. In un browser web, avvia la pagina della documentazione. Utilizzando l’esempio di AEM 5.6.1, l’URL sarà: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. In un browser web, avvia la pagina della documentazione. Utilizzando l&#39;esempio di AEM 5.6.1, l&#39;URL sarà: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Chiedere aiuto alla community di [!DNL Experience Manager] {#get-help-from-aem-community}
 
