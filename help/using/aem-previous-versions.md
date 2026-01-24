@@ -99,4 +99,4 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 ## Chiedere aiuto alla community di [!DNL Experience Manager] {#get-help-from-aem-community}
 
-In caso di domande sull’utilizzo di Experience Manager, Adobe consiglia di [contattare gli esperti della community nei  [!DNL Experience Manager] forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+In caso di domande sull’utilizzo di Experience Manager, Adobe consiglia di [contattare gli esperti della community nei  [!DNL Experience Manager] forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=it).

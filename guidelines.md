@@ -37,7 +37,7 @@ Fanno eccezione le note sulla versione, in cui possono essere elencati i problem
 
 È gradita come contributo qualsiasi idea che punti al miglioramento della documentazione di AEM. Tuttavia, commenti, problemi e richieste sono intesi per *contributi* solo. L’obiettivo non è quello di rispondere a domande su come utilizzare l’AEM, implementare un progetto AEM o risolvere problemi tecnici.
 
-Segnala eventuali domande sull’utilizzo dell’AEM o errori tecnici utilizzando [Portale di supporto Experience Cloud Enterprise](https://experienceleague.adobe.com/i?support-solution=General#support). Oppure, utilizza [community Experienci Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?lang=it).
+Segnala eventuali domande sull’utilizzo dell’AEM o errori tecnici utilizzando [Portale di supporto Experience Cloud Enterprise](https://experienceleague.adobe.com/i?support-solution=General#support). Oppure, utilizza [community Experienci Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=it&lang=it).
 
 ***I contributi alla documentazione di AEM non sostituiscono l’Assistenza clienti di Adobe***. Pertanto, verranno rifiutati tutti i contributi che richiedono risposte a domande correlate al supporto.
 
