@@ -3,7 +3,7 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 7ad37f4ff62a3c3774f04205f25144102095a988
+source-git-commit: 6a222f920c79c624b9c70cbf95e89c0a6d43f8a4
 workflow-type: tm+mt
 source-wordcount: '3577'
 ht-degree: 98%
@@ -132,7 +132,7 @@ Questo articolo fornisce informazioni per:
       <td><strong>Versioni delle build</strong></td>
     </tr>
     <tr>
-      <td>venerdì 4 dicembre 2025</td>
+      <td>mercoledì 28 gennaio 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">
          AEM 6.5 Forms Service Pack 24 Forms pacchetto aggiuntivo per AEM 6.5.24.0
@@ -146,19 +146,19 @@ Questo articolo fornisce informazioni per:
       <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione patch per AEM Forms su OSGi</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1448.zip">Pacchetto di componenti aggiuntivi AEM Forms per Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1448.zip">Pacchetto di componenti aggiuntivi AEM Forms per Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">Pacchetto di componenti aggiuntivi AEM Forms per macOS X [2]</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1452.zip">Pacchetto di componenti aggiuntivi AEM Forms per Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1452.zip">Pacchetto di componenti aggiuntivi AEM Forms per Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1452.zip">Pacchetto di componenti aggiuntivi AEM Forms per macOS X [2]</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.52.zip">Pacchetto di compatibilità per AEM Forms</a></li>
         </ul>
         <b style="display:block; margin:10px 0;">Programmi di installazione patch per AEM Forms su JEE</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-win-jboss.zip">JBoss® su Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss® su Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic su Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic su Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/softwhttps://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® su Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz">WebSphere® su Linux®</a>      </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-win-jboss.zip">JBoss® su Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss® su Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic su Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic su Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® su Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz">WebSphere® su Linux®</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -174,7 +174,7 @@ Questo articolo fornisce informazioni per:
         </ul>
       </td>
       <td>
-        <p>Programma di installazione patch AEM Forms OSGI: 6.0.1448 <br/><p>Programma di installazione patch di AEM Forms per JEE: 6-5-0-0114 <br/><p>Pacchetto di compatibilità per AEM Forms: 6.0.1448 <br/></p></td>
+        <p>Programma di installazione patch AEM Forms OSGI: 6.0.1452<br/><p>Programma di installazione patch di AEM Forms per JEE: 6-5-0-0115 <br/><p>Pacchetto di compatibilità per AEM Forms: 6.0.1448 <br/></p></td>
     </tr>
     <tr>
       <td>6 giugno 2025</td>
@@ -1001,7 +1001,7 @@ Questo articolo fornisce informazioni per:
   </tbody>
  </table>
 
-`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
+`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 
