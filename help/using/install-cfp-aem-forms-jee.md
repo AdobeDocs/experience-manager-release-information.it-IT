@@ -5,7 +5,7 @@ contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: ht
-source-wordcount: '904'
+source-wordcount: '932'
 ht-degree: 100%
 
 ---
@@ -16,14 +16,14 @@ ht-degree: 100%
 
 Per installare il Cumulative Fix Pack su AEM 6.3 [!DNL Forms JEE], esegui la sequenza di passaggi seguente.
 
-1. Per ottenere il programma di installazione di AEM 6.3 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support).
+1. Per ottenere il programma di installazione di AEM 6.3 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installare la versione più recente di AEM CFP 6.3.3.x
 1. Installare il pacchetto del componente aggiuntivo [!DNL Forms] per AEM CFP [6.3.3.x](aem-forms-releases.md)
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
 
-Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
+Il pacchetto [!DNL  Forms JEE] per AEM (aemfd-jee-bundles-package-6.3CFP1; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati nel gestore di pacchetti e installa il pacchetto, se non è già installato.
 
 ### Istruzioni aggiuntive per CQ-4208044 {#additional-instructions-for-cq}
 
@@ -42,7 +42,7 @@ Se si utilizza un server [!DNL Forms JEE] per AEM 6.3 con database Oracle, confi
 
 Per installare il Cumulative Fix Pack su AEM 6.2 [!DNL Forms JEE], esegui la sequenza di passaggi seguente.
 
-1. Per ottenere il programma di installazione di AEM 6.2 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support).
+1. Per ottenere il programma di installazione di AEM 6.2 [!DNL Forms JEE] per il CFP, contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support).
 1. Esegui il programma di installazione del Cumulative Fix Pack e configura AEM [!DNL Forms JEE] come descritto in [Installare e configurare AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installa AEM Hotfix 12785 versione 7.0.
 1. Installa AEM 6.2 Service Pack 1.
@@ -51,7 +51,7 @@ Per installare il Cumulative Fix Pack su AEM 6.2 [!DNL Forms JEE], esegui la seq
 
 ### Installare il pacchetto di bundle AEM [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
 
-Il pacchetto JEE per AEM Forms (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati in Gestione pacchetti e installa il pacchetto se non è già installato.
+Il pacchetto JEE per AEM Forms (aemfd-jee-bundles-package-6.2CFP5; versione 1.0.2) fornisce all’[!DNL Forms] utente su AEM [!DNL Forms JEE] gli stessi diritti e le stesse funzionalità disponibili in AEM [!DNL Forms OSGi]. Verifica i pacchetti installati nel gestore di pacchetti e installa il pacchetto, se non è già installato.
 
 ### Configurazione del timeout per le operazioni a livello di componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -67,7 +67,7 @@ Specifica il valore relativo alla chiave in secondi. Esempio: `-Dadobe.component
 
 1. `adobe.all-component.timeout`: sovrascrive i valori di timeout di tutti i servizi del prodotto.
 1. `adobe.<serviceName>.timeout`: sovrascrive il valore di timeout solo per il servizio (&lt;serviceName>) indicato nella chiave. Se il valore è impostato a livello di servizio, questo comando sovrascrive solo il valore di timeout relativo al servizio specificato, se impostato a livello di applicazione.
-1. `adobe.<serviceName>.<operationName>.timeout`: sovrascrive solo il valore di timeout relativo all’operazione del servizio (&lt;serviceName>.&lt;operationName>) indicato nella chiave. Se il valore è impostato a livello di operazione, questo comando sovrascrive solo il valore di timeout relativo al servizio specificato, se impostato a livello di applicazione o di servizio.
+1. `adobe.<serviceName>.<operationName>.timeout`: sovrascrive solo il valore di timeout relativo all’operazione del servizio specifico (&lt;serviceName>.&lt;operationName>) indicato nella chiave. Se il valore è impostato a livello di operazione, questo comando sovrascrive solo il valore di timeout relativo al servizio specificato, se impostato a livello di applicazione o di servizio.
 
 **Esempi:**
 

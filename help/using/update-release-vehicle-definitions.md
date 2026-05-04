@@ -5,12 +5,12 @@ contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '740'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
 
-# Definizioni relative alle versioni di aggiornamento di [!DNL Experience Manager]  {#update-release-vehicle-definitions}
+# Definizioni relative alle versioni di aggiornamento di [!DNL Experience Manager] {#update-release-vehicle-definitions}
 
 Questo documento contiene informazioni dettagliate sui vari tipi di versioni di [!DNL Adobe Experience Manager], tra cui versioni complete, Feature Pack e Service Pack che [!DNL Adobe] distribuisce ai clienti.
 
