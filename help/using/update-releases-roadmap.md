@@ -98,7 +98,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso i 
 >  Ogni Service Pack è supportato per un periodo massimo di 18 mesi dalla data di rilascio, fino al 28/2/2027.
 >* Il supporto di AEM 6.5 per i clienti di **Adobe Managed Service** terminerà entro il 31 agosto 2026.
 >* La fine del supporto di base di AEM 6.5 per i clienti **On Prem** è attualmente prevista entro febbraio 2027.
->* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Dai un&#39;occhiata alle [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
+>* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Dai un&#39;occhiata alle [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
