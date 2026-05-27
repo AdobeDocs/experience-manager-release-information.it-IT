@@ -49,7 +49,7 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione di manutenzione [25194](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | Aggiornamento automatico | 6-8 aprile 2026 | Aggiornata |
 | Versione di manutenzione [25520](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | Aggiornamento automatico | 27-29 aprile 2026 | Aggiornata |
 | Versione funzionale [2026.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 30 aprile 2026 | Attivata |
-| Versione di manutenzione [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Aggiornamento automatico | 11-13 maggio 2026 | Aggiornata |
+| Versione di manutenzione [25892](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Aggiornamento automatico | 11-13 maggio 2026 | Aggiornata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
@@ -99,7 +99,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso i 
 >  Ogni Service Pack è supportato per un periodo massimo di 18 mesi dalla data di rilascio, fino al 28/2/2027.
 >* Il supporto di AEM 6.5 per i clienti di **Adobe Managed Service** terminerà entro il 31 agosto 2026.
 >* La fine del supporto di base di AEM 6.5 per i clienti **On Prem** è attualmente prevista entro febbraio 2027.
->* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Dai un&#39;occhiata alle [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
+>* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Dai un&#39;occhiata alle [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
