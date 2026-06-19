@@ -3,10 +3,10 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 43454d87fad7b5e709aec50cc0ac2275f4ed5923
+source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
 workflow-type: tm+mt
-source-wordcount: '15948'
-ht-degree: 96%
+source-wordcount: '16071'
+ht-degree: 94%
 
 ---
 
@@ -88,15 +88,15 @@ Questo articolo fornisce informazioni per:
       <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione per AEM Forms 6.5 LTS SP2 su JEE</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]0327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Microsoft Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Linux
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Microsoft Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Linux
 </a></li>
-<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]ges/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per Linux®</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per macOS X</a></li>
+<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per macOS X</a></li>
         </ul>
       </td>
-      <td>
+      <td>Pacchetti del componente aggiuntivo AEM Forms 6.5 LTS SP2: 6.1.206
       </td>
      </tr>
      <tr>
@@ -114,12 +114,12 @@ Questo articolo fornisce informazioni per:
       <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione per AEM Forms 6.5 LTS su JEE</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione Experience Manager 6.5.1.LTS Forms per JBoss EAP e Linux</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?pack[…]1218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione Experience Manager 6.5.1.LTS Forms per JBoss EAP e Microsoft Windows
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione Experience Manager 6.5.1.LTS Forms per JBoss EAP e Linux</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione Experience Manager 6.5.1.LTS Forms per JBoss EAP e Microsoft Windows
 </a></li>
         </ul>
       </td>
-      <td>
+      <td>6-6-0-20251218-2-12345
       </td>
      </tr>
     <tr>
@@ -1105,7 +1105,7 @@ Questo articolo fornisce informazioni per:
   </tbody>
  </table>
 
-`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
+`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 
