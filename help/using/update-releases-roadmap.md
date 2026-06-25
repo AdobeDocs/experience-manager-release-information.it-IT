@@ -2,10 +2,10 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d6de7b7a63c1dd3271df667a52dbefd902275dfb
+source-git-commit: a017e5af16a5793a0926b8236cceebdd989f8244
 workflow-type: tm+mt
-source-wordcount: '1218'
-ht-degree: 71%
+source-wordcount: '1163'
+ht-degree: 70%
 
 ---
 
@@ -35,8 +35,6 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione [23482](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | Aggiornamento automatico | 8-10 dicembre 2025 | Aggiornata |
-| Versione funzionale [2025.12.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | Attivazione della funzione | 11 dicembre 2025 | Attivata |
 | Versione di manutenzione [23963](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | Aggiornamento automatico | 26-28 gennaio 2026 | Aggiornata |
 | Versione funzionale [2026.1.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | Attivazione della funzione | 29 gennaio 2026 | Attivata |
 | Versione di manutenzione[24288](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | Aggiornamento automatico | 9-11 febbraio 2026 | Aggiornata |
@@ -46,11 +44,11 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2026.3.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0) | Attivazione della funzione | venerdì 26 marzo 2026 | Attivata |
 | Versione di manutenzione [25194](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194) | Aggiornamento automatico | 6-8 aprile 2026 | Aggiornata |
 | Versione di manutenzione [25520](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520) | Aggiornamento automatico | 27-29 aprile 2026 | Aggiornata |
-| Versione funzionale [2026.4.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | Attivazione della funzione | 30 aprile 2026 | Attivata |
-| Versione di manutenzione [25892](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Aggiornamento automatico | 11-13 maggio 2026 | Aggiornata |
-| Versione di manutenzione [26309](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | Aggiornamento automatico | 25-27 maggio 2026 | Aggiornata |
+| Versione funzionale [2026.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-4-0) | Attivazione della funzione | 30 aprile 2026 | Attivata |
+| Versione di manutenzione [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-25892) | Aggiornamento automatico | 11-13 maggio 2026 | Aggiornata |
+| Versione di manutenzione [26309](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | Aggiornamento automatico | 25-27 maggio 2026 | Aggiornata |
 | Versione funzionalità [2026.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | Attivazione della funzione | 28 maggio 2026 | Attivata |
-| Versione di manutenzione [26353](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | Aggiornamento automatico | 8-10 giugno 2026 | Aggiornata |
+| Versione di manutenzione [26353](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | Aggiornamento automatico | 8-10 giugno 2026 | Aggiornata |
 | Versione di manutenzione [26773](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 22-24 giugno 2026 | Aggiornata |
 | Versione funzionalità [2026.6.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 25 giugno 2026 | Attivata |
 
@@ -83,7 +81,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso i 
 | Versione | Versione | Tipo | Pianificazione | Stato |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 6 giugno 2024 | Attivata |
-| [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | Service Pack | 21 novembre 2024 | Attivata |
+| [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | Service Pack | 21 novembre 2024 | Attivata |
 | [!DNL Experience Manager] 6.5 [Service Pack 23](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Service Pack | 22 maggio 2025 | Attivata |
 | [!DNL Experience Manager] 6.5 [Service Pack 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | Service Pack | giovedì 26 novembre 2025 | Attivata |
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | Service Pack | 21 maggio 2026 | Attivata |
@@ -97,7 +95,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso i 
 >  Ogni Service Pack è supportato per un massimo di 18 mesi dalla sua versione, fino al 2/28/2027.
 >* Il supporto di AEM 6.5 per i clienti di **Adobe Managed Service** terminerà entro il 31 agosto 2026.
 >* La fine del supporto di base di AEM 6.5 per i clienti **On Prem** è attualmente prevista entro febbraio 2027.
->* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Consulta le [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/faq).
+>* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Consulta le [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
