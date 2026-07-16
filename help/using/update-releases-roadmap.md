@@ -2,10 +2,10 @@
 title: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 description: Roadmap delle versioni di [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f99ec47fc6f25fa3582f6108cd36fb5c833c865e
+source-git-commit: af8a6e57c31622c80eb0b5db724bbd3909f4935b
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 69%
+source-wordcount: '1314'
+ht-degree: 64%
 
 ---
 
@@ -93,15 +93,20 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso i 
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | Service Pack | 21 maggio 2026 | Attivata |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | 19 novembre 2026 | Target |
 
+>[!AVAILABILITY]
+>
+> Il supporto per AEM 6.5 continua con AEM 6.5 LTS. Attuali timeline di supporto 6.5:
+>
+> * **Clienti Adobe Managed Services**: termina entro il 31 agosto 2026.
+> * **Clienti Prem**: il supporto di base è attualmente pianificato per terminare entro febbraio 2027.
+> 
+>Entrambi i percorsi sono coperti da AEM 6.5 LTS. Per informazioni dettagliate, consulta le [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/faq).
+
 >[!NOTE]
 >
->Per AEM 6.5:
+> 6.5.26.0 è l’ultima versione del service pack supportata per AEM 6.5.
 >
->* 6.5.26.0 è l’ultima versione del service pack supportata per AEM 6.5.
->  Ogni Service Pack è supportato per un periodo massimo di 18 mesi dalla data di rilascio, fino al 28/2/2027.
->* Il supporto di AEM 6.5 per i clienti di **Adobe Managed Service** terminerà entro il 31 agosto 2026.
->* La fine del supporto di base di AEM 6.5 per i clienti **On Prem** è attualmente prevista entro febbraio 2027.
->* Il supporto per AEM 6.5 viene continuato tramite AEM 6.5 LTS. Consulta le [Domande frequenti su AEM 6.5 LTS](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/faq).
+> Ogni Service Pack è supportato per un massimo di 18 mesi dal rilascio, fino al 28 febbraio 2027. Consulta [Prodotti e periodi di supporto tecnico](https://helpx.adobe.com/it/support/programs/eol-matrix.html#cq).
 
 >[!NOTE]
 >
