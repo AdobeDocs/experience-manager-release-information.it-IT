@@ -4,9 +4,9 @@ description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacc
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: tm+mt
-source-wordcount: '16071'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '16241'
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Questo articolo fornisce informazioni per:
   <tbody>
     <tr>
       <td><strong>Data</strong></td>
-      <td><strong>Rilascio di AEM 6.5 LTS Forms</strong></td>
+      <td><strong>Versione AEM 6.5 LTS Forms</strong></td>
       <td><strong>Prerequisito</strong></td>
       <td><strong>Pacchetti disponibili</strong></td>
       <td><strong>Versione build</strong></td>
@@ -57,16 +57,16 @@ Questo articolo fornisce informazioni per:
         </a>
       </td>
       <td>
-        <strong style="display:block; margin:10px 0;">Installatori AEM Forms 6.5 LTS Service Pack 2 WLP (IBM WebSphere Liberty Profile)</strong>
+        <strong style="display:block; margin:10px 0;">Programmi di installazione di AEM Forms 6.5 LTS Service Pack 2 WLP (IBM WebSphere Liberty Profile)</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_win.zip">
-              WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 Installer per Microsoft Windows
+              Programma di installazione di WLP (IBM WebSphere Liberty Profile) per AEM Forms 6.5 LTS Service Pack 2 per Microsoft Windows
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
-              WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 Installer per Linux
+              Programma di installazione di AEM Forms 6.5 LTS Service Pack 2 WLP (IBM WebSphere Liberty Profile) per Linux
             </a>
           </li>
         </ul>
@@ -88,8 +88,8 @@ Questo articolo fornisce informazioni per:
       <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione per AEM Forms 6.5 LTS SP2 su JEE</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Microsoft Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Linux
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione di Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Microsoft Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione di Experience Manager 6.5 LTS SP2 Forms per JBoss EAP e Linux
 </a></li>
 <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">Componente aggiuntivo AEM Forms 6.5 LTS SP2 per Windows</a></li>
@@ -103,19 +103,19 @@ Questo articolo fornisce informazioni per:
       <td>sabato 19 dicembre 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms 
+          AEM 6.5 Forms LTS 
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms 
+         AEM 6.5 Forms LTS 
         </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione per AEM Forms 6.5 LTS su JEE</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione Experience Manager 6.5.1.LTS Forms per JBoss EAP e Linux</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione Experience Manager 6.5.1.LTS Forms per JBoss EAP e Microsoft Windows
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Programma di installazione di Experience Manager 6.5.1.LTS Forms per JBoss EAP e Linux</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20251218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Programma di installazione di Experience Manager 6.5.1.LTS Forms per JBoss EAP e Microsoft Windows
 </a></li>
         </ul>
       </td>
@@ -126,13 +126,13 @@ Questo articolo fornisce informazioni per:
       <td>5 settembre 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-............AEM Forms 6.5 LTS Service Pack 1
-..........</a>
+          AEM 6.5 LTS Forms Service Pack 1
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-............AEM Forms 6.5 LTS Service Pack 1
-..........</a>
+          AEM 6.5 LTS Forms Service Pack 1
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione per AEM Forms 6.5 LTS su OSGi</b>
@@ -150,12 +150,12 @@ Questo articolo fornisce informazioni per:
       <td>7 marzo 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM Forms 6.5 LTS
+          AEM 6.5 LTS Forms
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM Forms 6.5 LTS
+          AEM 6.5 LTS Forms
         </a>
       </td>
       <td>
@@ -194,7 +194,7 @@ Questo articolo fornisce informazioni per:
       <td>10 giugno 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">
-          Pacchetto del componente aggiuntivo AEM 6.5 Forms Service Pack 25 Forms per AEM 6.5.25.0
+          Pacchetto di componenti aggiuntivi AEM 6.5 Forms Service Pack 25 per AEM 6.5.25.0
         </a>
       </td>
       <td>
@@ -233,14 +233,14 @@ Questo articolo fornisce informazioni per:
         </ul>
       </td>
       <td>
-        <p>Programma di installazione patch AEM Forms OSGI: 6.0.1482<br/><p>Programma di installazione patch AEM Forms JEE: 6-5-0-127 <br/></p></td>
+        <p>Programma di installazione patch OSGi per AEM Forms: 6.0.1482<br/><p>Programma di installazione patch JEE per AEM Forms: 6-5-0-127 <br/></p></td>
     </tr>
     <tr>
       <td>28 gennaio 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">
-         AEM 6.5 Forms Service Pack 24 Forms pacchetto aggiuntivo per AEM 6.5.24.0
-         </a>
+          Pacchetto di componenti aggiuntivi AEM 6.5 Forms Service Pack 24 per AEM 6.5.24.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">
@@ -284,8 +284,8 @@ Questo articolo fornisce informazioni per:
       <td>6 giugno 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">
-         AEM 6.5 Forms Service Pack 23 Forms pacchetto aggiuntivo per AEM 6.5.23.0
-         </a>
+          Pacchetto di componenti aggiuntivi AEM 6.5 Forms Service Pack 23 per AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">
