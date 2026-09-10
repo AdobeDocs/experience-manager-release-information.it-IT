@@ -3,10 +3,10 @@ title: Versioni di AEM Forms
 description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacchetti corrispondenti.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: ht
-source-wordcount: '16241'
-ht-degree: 100%
+source-git-commit: 71e0cf1e14117e9e7b6e09501af6140b1fbc8482
+workflow-type: tm+mt
+source-wordcount: '16443'
+ht-degree: 98%
 
 ---
 
@@ -43,6 +43,41 @@ Questo articolo fornisce informazioni per:
       <td><strong>Prerequisito</strong></td>
       <td><strong>Pacchetti disponibili</strong></td>
       <td><strong>Versione build</strong></td>
+    </tr>
+    <tr>
+      <td>8 settembre 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">Componente aggiuntivo OSGi AEM Forms 6.5 LTS Service Pack 3</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.238.zip">
+              Componente aggiuntivo AEM Forms 6.5 LTS Service Pack 3 per Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.238.zip">
+              Componente aggiuntivo AEM Forms 6.5 LTS Service Pack 3 per Linux®
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
+              Componente aggiuntivo AEM Forms 6.5 LTS Service Pack 3 per macOS
+            </a>
+          </li>
+        </ul>
+        <p>I programmi di installazione di AEM Forms 6.5 LTS Service Pack 3 JEE saranno disponibili in un secondo momento.</p>
+      </td>
+      <td>6.1.238</td>
     </tr>
     <tr>
       <td>18 giugno 2026</td>
@@ -150,12 +185,12 @@ Questo articolo fornisce informazioni per:
       <td>7 marzo 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+          AEM 6.5 Forms LTS
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+         AEM 6.5 Forms LTS
         </a>
       </td>
       <td>
@@ -1105,7 +1140,7 @@ Questo articolo fornisce informazioni per:
   </tbody>
  </table>
 
-`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/it?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
+`[1]` Contatta il [Supporto Adobe](https://experienceleague.adobe.com/?support-solution=General&support-tab=homehome?lang=it#support) per ottenere i programmi di installazione per Workbench, Rights Management SDK, Portable Protection Library (PPL) e Enhanced PPL.
 
 `[2]`Il pacchetto dei componenti aggiuntivi AEM [!DNL Forms] per macOS X non è supportato nell’ambiente di produzione e dovrebbe essere utilizzato solo a scopo dimostrativo. La funzionalità PDF Generator non è disponibile nel pacchetto per macOS X.
 
