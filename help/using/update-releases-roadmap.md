@@ -6,9 +6,7 @@ source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
 ht-degree: 100%
-
 ---
-
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] fornisce costantemente nuove funzioni e miglioramenti alle funzionalità esistenti. Fornisce correzioni di bug per gli utenti delle versioni [!DNL Cloud Service], Managed Services e on-premise. In questo articolo sono elencate le prossime versioni di [!DNL Experience Manager].
