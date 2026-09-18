@@ -127,8 +127,8 @@
 <target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Adobe Experience Manager]">[!DNL Adobe Experience Manager]</ph> fornisce costantemente nuove funzioni e miglioramenti alle funzionalità esistenti. Fornisce correzioni di bug per gli utenti delle versioni <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph>, Managed Services e on-premise. In questo articolo sono elencate le prossime versioni di <ph id="3" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph>.</target>
 </trans-unit>
 <trans-unit id="tu5" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu6" xml:space="preserve">
 <source xml:lang="en-US">The dates below and roadmap updates available in this article are for information only and are subject to change at any time.</source>
@@ -139,14 +139,14 @@
 <target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph></target>
 </trans-unit>
 <trans-unit id="tu8" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> new features are delivered through a <ph id="3" ctype="x-LINK">[</ph>monthly feature activation<ph id="4" ctype="x-LINK">[#$tu9]</ph>, while enhancements and bug fixes are delivered twice a month through <ph id="5" ctype="x-LINK">[</ph>maintenance releases<ph id="6" ctype="x-LINK">[#$tu10]</ph>.
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> new features are delivered through a <ph id="3" ctype="x-LINK">&lbrack;</ph>monthly feature activation<ph id="4" ctype="x-LINK">[#$tu9]</ph>, while enhancements and bug fixes are delivered twice a month through <ph id="5" ctype="x-LINK">&lbrack;</ph>maintenance releases<ph id="6" ctype="x-LINK">[#$tu10]</ph>.
 The upcoming releases for <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="8" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> are planned as follows:</source>
-<target xml:lang="en-XX">Le nuove funzioni di <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> vengono distribuite tramite un’<ph id="3" ctype="x-LINK">[</ph>attivazione mensile delle funzioni<ph id="4" ctype="x-LINK">[#$tu9]</ph>, mentre i miglioramenti e le correzioni di bug vengono distribuiti due volte al mese tramite <ph id="5" ctype="x-LINK">[</ph>versioni di manutenzione<ph id="6" ctype="x-LINK">[#$tu10]</ph>.
+<target xml:lang="en-XX">Le nuove funzioni di <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> vengono distribuite tramite un’<ph id="3" ctype="x-LINK">&lbrack;</ph>attivazione mensile delle funzioni<ph id="4" ctype="x-LINK">[#$tu9]</ph>, mentre i miglioramenti e le correzioni di bug vengono distribuiti due volte al mese tramite <ph id="5" ctype="x-LINK">&lbrack;</ph>versioni di manutenzione<ph id="6" ctype="x-LINK">[#$tu10]</ph>.
 Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="8" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> sono pianificate come segue:</target>
 </trans-unit>
 <trans-unit id="tu11" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!IMPORTANT">[!IMPORTANT]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!IMPORTANT">[!IMPORTANT]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!IMPORTANT">[!IMPORTANT]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!IMPORTANT">[!IMPORTANT]</ph></target>
 </trans-unit>
 <trans-unit id="tu12" xml:space="preserve">
 <source xml:lang="en-US">For customers on outdated versions: to help ensure the security and stability of your AEM environments and related instances, your programs must be updated to the latest <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> as a <ph id="2" ctype="x-regxph" equiv-text="[!DNL Cloud Service]">[!DNL Cloud Service]</ph> release.</source>
@@ -181,8 +181,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Stato</target>
 </trans-unit>
 <trans-unit id="tu20" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>26353<ph id="2" ctype="x-LINK">[#$tu21]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>26353<ph id="2" ctype="x-LINK">[#$tu21]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>26353<ph id="2" ctype="x-LINK">[#$tu21]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>26353<ph id="2" ctype="x-LINK">[#$tu21]</ph></target>
 </trans-unit>
 <trans-unit id="tu22" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -197,8 +197,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Aggiornata</target>
 </trans-unit>
 <trans-unit id="tu25" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>26773<ph id="2" ctype="x-LINK">[#$tu26]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>26773<ph id="2" ctype="x-LINK">[#$tu26]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>26773<ph id="2" ctype="x-LINK">[#$tu26]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>26773<ph id="2" ctype="x-LINK">[#$tu26]</ph></target>
 </trans-unit>
 <trans-unit id="tu27" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -213,8 +213,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Aggiornata</target>
 </trans-unit>
 <trans-unit id="tu30" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Feature Release <ph id="1" ctype="x-LINK">[</ph>2026.6.0<ph id="2" ctype="x-LINK">[#$tu31]</ph></source>
-<target xml:lang="en-XX">Versione funzionale <ph id="1" ctype="x-LINK">[</ph>2026.6.0<ph id="2" ctype="x-LINK">[#$tu31]</ph></target>
+<source xml:lang="en-US">Feature Release <ph id="1" ctype="x-LINK">&lbrack;</ph>2026.6.0<ph id="2" ctype="x-LINK">[#$tu31]</ph></source>
+<target xml:lang="en-XX">Versione funzionale <ph id="1" ctype="x-LINK">&lbrack;</ph>2026.6.0<ph id="2" ctype="x-LINK">[#$tu31]</ph></target>
 </trans-unit>
 <trans-unit id="tu32" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Feature Activation</source>
@@ -229,8 +229,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu35" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>26908<ph id="2" ctype="x-LINK">[#$tu36]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>26908<ph id="2" ctype="x-LINK">[#$tu36]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>26908<ph id="2" ctype="x-LINK">[#$tu36]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>26908<ph id="2" ctype="x-LINK">[#$tu36]</ph></target>
 </trans-unit>
 <trans-unit id="tu37" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -245,8 +245,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Aggiornata</target>
 </trans-unit>
 <trans-unit id="tu40" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>27083<ph id="2" ctype="x-LINK">[#$tu41]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>27083<ph id="2" ctype="x-LINK">[#$tu41]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>27083<ph id="2" ctype="x-LINK">[#$tu41]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>27083<ph id="2" ctype="x-LINK">[#$tu41]</ph></target>
 </trans-unit>
 <trans-unit id="tu42" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -261,8 +261,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Aggiornata</target>
 </trans-unit>
 <trans-unit id="tu45" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Feature Release <ph id="1" ctype="x-LINK">[</ph>2026.7.0<ph id="2" ctype="x-LINK">[#$tu46]</ph></source>
-<target xml:lang="en-XX">Versione funzionale <ph id="1" ctype="x-LINK">[</ph>2026.7.0<ph id="2" ctype="x-LINK">[#$tu46]</ph></target>
+<source xml:lang="en-US">Feature Release <ph id="1" ctype="x-LINK">&lbrack;</ph>2026.7.0<ph id="2" ctype="x-LINK">[#$tu46]</ph></source>
+<target xml:lang="en-XX">Versione funzionale <ph id="1" ctype="x-LINK">&lbrack;</ph>2026.7.0<ph id="2" ctype="x-LINK">[#$tu46]</ph></target>
 </trans-unit>
 <trans-unit id="tu47" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Feature Activation</source>
@@ -277,8 +277,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu50" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>27293<ph id="2" ctype="x-LINK">[#$tu51]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>27293<ph id="2" ctype="x-LINK">[#$tu51]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>27293<ph id="2" ctype="x-LINK">[#$tu51]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>27293<ph id="2" ctype="x-LINK">[#$tu51]</ph></target>
 </trans-unit>
 <trans-unit id="tu52" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -293,8 +293,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Aggiornata</target>
 </trans-unit>
 <trans-unit id="tu55" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>27673<ph id="2" ctype="x-LINK">[#$tu56]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>27673<ph id="2" ctype="x-LINK">[#$tu56]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>27673<ph id="2" ctype="x-LINK">[#$tu56]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>27673<ph id="2" ctype="x-LINK">[#$tu56]</ph></target>
 </trans-unit>
 <trans-unit id="tu57" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -309,8 +309,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Aggiornata</target>
 </trans-unit>
 <trans-unit id="tu60" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Feature Release <ph id="1" ctype="x-LINK">[</ph>2026.8.0<ph id="2" ctype="x-LINK">[#$tu61]</ph></source>
-<target xml:lang="en-XX">Versione funzionale <ph id="1" ctype="x-LINK">[</ph>2026.8.0<ph id="2" ctype="x-LINK">[#$tu61]</ph></target>
+<source xml:lang="en-US">Feature Release <ph id="1" ctype="x-LINK">&lbrack;</ph>2026.8.0<ph id="2" ctype="x-LINK">[#$tu61]</ph></source>
+<target xml:lang="en-XX">Versione funzionale <ph id="1" ctype="x-LINK">&lbrack;</ph>2026.8.0<ph id="2" ctype="x-LINK">[#$tu61]</ph></target>
 </trans-unit>
 <trans-unit id="tu62" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Feature Activation</source>
@@ -325,8 +325,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu65" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">[</ph>27830<ph id="2" ctype="x-LINK">[#$tu66]</ph></source>
-<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">[</ph>27830<ph id="2" ctype="x-LINK">[#$tu66]</ph></target>
+<source xml:lang="en-US">Maintenance Release <ph id="1" ctype="x-LINK">&lbrack;</ph>27830<ph id="2" ctype="x-LINK">[#$tu66]</ph></source>
+<target xml:lang="en-XX">Versione di manutenzione <ph id="1" ctype="x-LINK">&lbrack;</ph>27830<ph id="2" ctype="x-LINK">[#$tu66]</ph></target>
 </trans-unit>
 <trans-unit id="tu67" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Automatic Update</source>
@@ -457,8 +457,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Puntuale</target>
 </trans-unit>
 <trans-unit id="tu99" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!CAUTION">[!CAUTION]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!CAUTION">[!CAUTION]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!CAUTION">[!CAUTION]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!CAUTION">[!CAUTION]</ph></target>
 </trans-unit>
 <trans-unit id="tu100" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>Planned Maintenance Exclusion Period<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph></source>
@@ -489,8 +489,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS</target>
 </trans-unit>
 <trans-unit id="tu107" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see <ph id="2" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>6.5 LTS release notes<ph id="3" ctype="x-LINK">[#$tu108]</ph>.</source>
-<target xml:lang="en-XX">Gli aggiornamenti di <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS vengono forniti attraverso i Service Pack. Questi Service Pack includono nuove funzioni, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta le Note sulla versione di <ph id="2" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph> 6.5 LTS<ph id="3" ctype="x-LINK">[#$tu108]</ph>.</target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see <ph id="2" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>6.5 LTS release notes<ph id="3" ctype="x-LINK">[#$tu108]</ph>.</source>
+<target xml:lang="en-XX">Gli aggiornamenti di <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS vengono forniti attraverso i Service Pack. Questi Service Pack includono nuove funzioni, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta le Note sulla versione di <ph id="2" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph> 6.5 LTS<ph id="3" ctype="x-LINK">[#$tu108]</ph>.</target>
 </trans-unit>
 <trans-unit id="tu109" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Release</source>
@@ -513,8 +513,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Stato</target>
 </trans-unit>
 <trans-unit id="tu114" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">[</ph>Service Pack 1<ph id="3" ctype="x-LINK">[#$tu115]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">[</ph>Service Pack 1<ph id="3" ctype="x-LINK">[#$tu115]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 1<ph id="3" ctype="x-LINK">[#$tu115]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 1<ph id="3" ctype="x-LINK">[#$tu115]</ph></target>
 </trans-unit>
 <trans-unit id="tu116" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">6.5.LTS.SP1</source>
@@ -533,8 +533,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu120" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">[</ph>Service Pack 2<ph id="3" ctype="x-LINK">[#$tu121]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">[</ph>Service Pack 2<ph id="3" ctype="x-LINK">[#$tu121]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 2<ph id="3" ctype="x-LINK">[#$tu121]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 2<ph id="3" ctype="x-LINK">[#$tu121]</ph></target>
 </trans-unit>
 <trans-unit id="tu122" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">6.5.LTS.SP2</source>
@@ -553,8 +553,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu126" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">[</ph>Service Pack 3<ph id="3" ctype="x-LINK">[#$tu127]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">[</ph>Service Pack 3<ph id="3" ctype="x-LINK">[#$tu127]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 3<ph id="3" ctype="x-LINK">[#$tu127]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 LTS <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 3<ph id="3" ctype="x-LINK">[#$tu127]</ph></target>
 </trans-unit>
 <trans-unit id="tu128" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">6.5.LTS.SP3</source>
@@ -577,8 +577,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5</target>
 </trans-unit>
 <trans-unit id="tu133" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see <ph id="2" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>6.5 service pack release notes<ph id="3" ctype="x-LINK">[#$tu134]</ph>.</source>
-<target xml:lang="en-XX">Gli aggiornamenti di <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 vengono forniti attraverso i Service Pack. Questi Service Pack includono nuove funzioni, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta <ph id="2" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>6.5 Service Pack - Note sulla versione<ph id="3" ctype="x-LINK">[#$tu134]</ph>.</target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see <ph id="2" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>6.5 service pack release notes<ph id="3" ctype="x-LINK">[#$tu134]</ph>.</source>
+<target xml:lang="en-XX">Gli aggiornamenti di <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 vengono forniti attraverso i Service Pack. Questi Service Pack includono nuove funzioni, miglioramenti e correzioni di bug. Per informazioni dettagliate sull’ultimo Service Pack rilasciato, consulta <ph id="2" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>6.5 Service Pack - Note sulla versione<ph id="3" ctype="x-LINK">[#$tu134]</ph>.</target>
 </trans-unit>
 <trans-unit id="tu135" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US">Release</source>
@@ -601,8 +601,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Stato</target>
 </trans-unit>
 <trans-unit id="tu140" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 21<ph id="3" ctype="x-LINK">[#$tu141]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 21<ph id="3" ctype="x-LINK">[#$tu141]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 21<ph id="3" ctype="x-LINK">[#$tu141]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 21<ph id="3" ctype="x-LINK">[#$tu141]</ph></target>
 </trans-unit>
 <trans-unit id="tu142" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="6.5.21.0">6.5.21.0</ph></source>
@@ -621,8 +621,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu146" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 22<ph id="3" ctype="x-LINK">[#$tu147]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 22<ph id="3" ctype="x-LINK">[#$tu147]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 22<ph id="3" ctype="x-LINK">[#$tu147]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 22<ph id="3" ctype="x-LINK">[#$tu147]</ph></target>
 </trans-unit>
 <trans-unit id="tu148" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="6.5.22.0">6.5.22.0</ph></source>
@@ -641,8 +641,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu152" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 23<ph id="3" ctype="x-LINK">[#$tu153]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 23<ph id="3" ctype="x-LINK">[#$tu153]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 23<ph id="3" ctype="x-LINK">[#$tu153]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 23<ph id="3" ctype="x-LINK">[#$tu153]</ph></target>
 </trans-unit>
 <trans-unit id="tu154" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="6.5.23.0">6.5.23.0</ph></source>
@@ -661,8 +661,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu158" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 24<ph id="3" ctype="x-LINK">[#$tu159]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 24<ph id="3" ctype="x-LINK">[#$tu159]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 24<ph id="3" ctype="x-LINK">[#$tu159]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 24<ph id="3" ctype="x-LINK">[#$tu159]</ph></target>
 </trans-unit>
 <trans-unit id="tu160" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="6.5.24.0">6.5.24.0</ph></source>
@@ -681,8 +681,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Attivata</target>
 </trans-unit>
 <trans-unit id="tu164" restype="x-TABLECELL_TEXT" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 25<ph id="3" ctype="x-LINK">[#$tu165]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">[</ph>Service Pack 25<ph id="3" ctype="x-LINK">[#$tu165]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 25<ph id="3" ctype="x-LINK">[#$tu165]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> 6.5 <ph id="2" ctype="x-LINK">&lbrack;</ph>Service Pack 25<ph id="3" ctype="x-LINK">[#$tu165]</ph></target>
 </trans-unit>
 <trans-unit id="tu166" restype="x-TABLECELL_TEXT" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="6.5.25.0">6.5.25.0</ph></source>
@@ -721,8 +721,8 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Puntuale</target>
 </trans-unit>
 <trans-unit id="tu175" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!AVAILABILITY">[!AVAILABILITY]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!AVAILABILITY">[!AVAILABILITY]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!AVAILABILITY">[!AVAILABILITY]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!AVAILABILITY">[!AVAILABILITY]</ph></target>
 </trans-unit>
 <trans-unit id="tu176" xml:space="preserve">
 <source xml:lang="en-US">AEM 6.5 support continues through AEM 6.5 LTS. Current 6.5 support timelines:</source>
@@ -737,48 +737,48 @@ Le prossime versioni di <ph id="7" ctype="x-regxph" equiv-text="[!DNL Experience
 <target xml:lang="en-XX">Clienti <ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>on-premise<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph>: il supporto di base è attualmente previsto fino a febbraio 2027.</target>
 </trans-unit>
 <trans-unit id="tu179" xml:space="preserve">
-<source xml:lang="en-US">AEM 6.5 LTS covers both paths. See the <ph id="1" ctype="x-LINK">[</ph>AEM 6.5 LTS Frequently Asked Questions<ph id="2" ctype="x-LINK">[#$tu180]</ph> for details.</source>
-<target xml:lang="en-XX">AEM 6.5 LTS copre entrambi i percorsi. Per informazioni dettagliate, consulta le <ph id="1" ctype="x-LINK">[</ph>Domande frequenti su AEM 6.5 LTS<ph id="2" ctype="x-LINK">[#$tu180]</ph>.</target>
+<source xml:lang="en-US">AEM 6.5 LTS covers both paths. See the <ph id="1" ctype="x-LINK">&lbrack;</ph>AEM 6.5 LTS Frequently Asked Questions<ph id="2" ctype="x-LINK">[#$tu180]</ph> for details.</source>
+<target xml:lang="en-XX">AEM 6.5 LTS copre entrambi i percorsi. Per informazioni dettagliate, consulta le <ph id="1" ctype="x-LINK">&lbrack;</ph>Domande frequenti su AEM 6.5 LTS<ph id="2" ctype="x-LINK">[#$tu180]</ph>.</target>
 </trans-unit>
 <trans-unit id="tu181" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu182" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="6.5.26.0">6.5.26.0</ph> is the last supported service pack release for AEM 6.5.</source>
 <target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="6.5.26.0">6.5.26.0</ph> è l’ultima versione del service pack supportata per AEM 6.5.</target>
 </trans-unit>
 <trans-unit id="tu183" xml:space="preserve">
-<source xml:lang="en-US">Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See <ph id="1" ctype="x-LINK">[</ph>Products and technical support periods<ph id="2" ctype="x-LINK">[#$tu184]</ph>.</source>
-<target xml:lang="en-XX">Ogni Service Pack è supportato per un periodo massimo di 18 mesi dalla data di rilascio, fino al 28 febbraio 2027. Consulta i nostri <ph id="1" ctype="x-LINK">[</ph>prodotti e periodi di supporto tecnico<ph id="2" ctype="x-LINK">[#$tu184]</ph>.</target>
+<source xml:lang="en-US">Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See <ph id="1" ctype="x-LINK">&lbrack;</ph>Products and technical support periods<ph id="2" ctype="x-LINK">[#$tu184]</ph>.</source>
+<target xml:lang="en-XX">Ogni Service Pack è supportato per un periodo massimo di 18 mesi dalla data di rilascio, fino al 28 febbraio 2027. Consulta i nostri <ph id="1" ctype="x-LINK">&lbrack;</ph>prodotti e periodi di supporto tecnico<ph id="2" ctype="x-LINK">[#$tu184]</ph>.</target>
 </trans-unit>
 <trans-unit id="tu185" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!NOTE">[!NOTE]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!NOTE">[!NOTE]</ph></target>
 </trans-unit>
 <trans-unit id="tu186" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> Forms releases the add-on packages one week after the scheduled <ph id="2" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> Service Pack release date.</source>
 <target xml:lang="en-XX">I pacchetti del componente aggiuntivo <ph id="1" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph> Forms vengono rilasciati una settimana dopo la data di rilascio pianificata per il Service Pack di <ph id="2" ctype="x-regxph" equiv-text="[!DNL Experience Manager]">[!DNL Experience Manager]</ph>.</target>
 </trans-unit>
 <trans-unit id="tu187" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[!MORELIKETHIS">[!MORELIKETHIS]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[!MORELIKETHIS">[!MORELIKETHIS]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!MORELIKETHIS">[!MORELIKETHIS]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;!MORELIKETHIS">[!MORELIKETHIS]</ph></target>
 </trans-unit>
 <trans-unit id="tu188" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-LINK">[</ph>EOL matrix<ph id="2" ctype="x-LINK">[#$tu189]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-LINK">[</ph>Matrice EOL<ph id="2" ctype="x-LINK">[#$tu189]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-LINK">&lbrack;</ph>EOL matrix<ph id="2" ctype="x-LINK">[#$tu189]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-LINK">&lbrack;</ph>Matrice EOL<ph id="2" ctype="x-LINK">[#$tu189]</ph></target>
 </trans-unit>
 <trans-unit id="tu190" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>releases and updates<ph id="2" ctype="x-LINK">[#$tu191]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Versioni e aggiornamenti di<ph id="2" ctype="x-LINK">[#$tu191]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>releases and updates<ph id="2" ctype="x-LINK">[#$tu191]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>Versioni e aggiornamenti di<ph id="2" ctype="x-LINK">[#$tu191]</ph></target>
 </trans-unit>
 <trans-unit id="tu192" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Learn and Support<ph id="2" ctype="x-LINK">[#$tu193]</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Informazioni e supporto per<ph id="2" ctype="x-LINK">[#$tu193]</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>Learn and Support<ph id="2" ctype="x-LINK">[#$tu193]</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">&lbrack;[!DNL Experience Manager] </ph>Informazioni e supporto per<ph id="2" ctype="x-LINK">[#$tu193]</ph></target>
 </trans-unit>
 <trans-unit id="tu194" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Update Release Vehicle Definitions<ph id="2" ctype="x-LINK">](/help/using/update-release-vehicle-definitions.md)</ph></source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="[[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Definizioni delle versioni di aggiornamento di<ph id="2" ctype="x-LINK">](/help/using/update-release-vehicle-definitions.md)</ph></target>
+<source xml:lang="en-US"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Update Release Vehicle Definitions<ph id="2" ctype="x-LINK">](/help/using/update-release-vehicle-definitions.md)</ph></source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-regxph" equiv-text="&lbrack;[!DNL Experience Manager] ">[[!DNL Experience Manager] </ph>Definizioni delle versioni di aggiornamento di<ph id="2" ctype="x-LINK">](/help/using/update-release-vehicle-definitions.md)</ph></target>
 </trans-unit>
 </body>
 </file>
