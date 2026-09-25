@@ -99,7 +99,7 @@ Questo articolo fornisce informazioni per:
         <strong style="display:block; margin:10px 0;">Programma di installazione di Workbench</strong>
         <ul>
           <li>
-            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
               Programma di installazione di AEM Forms Workbench
             </a>
           </li>
@@ -292,7 +292,7 @@ Questo articolo fornisce informazioni per:
         </ul>
         <b style="display:block; margin:10px 0;">Programma di installazione di Workbench</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">Programma di installazione di AEM Forms Workbench</a>       </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">Programma di installazione di AEM Forms Workbench</a>       </li>
         </ul>
         <b style="display:block; margin:10px 0;">SDK</b>
         <ul>
@@ -548,7 +548,7 @@ Questo articolo fornisce informazioni per:
     </tr>
   <tr>
     <td>8 dicembre 2023</td>
-      <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">Pacchetto aggiuntivo AEM Forms Service Pack per AEM 6.5.19.0</a></td>
+      <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes#forms-6519">Pacchetto aggiuntivo AEM Forms Service Pack 19 per AEM 6.5.19.0</a></td>
       <td><a href="https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.19.0</a></td>
     <td>
         <b style="display:block; margin:10px 0;">Programmi di installazione patch per AEM Forms su OSGi</b>
