@@ -4,9 +4,9 @@ description: Ulteriori informazioni su tutte le versioni di AEM Forms e dei pacc
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 9c5c24d80196ce94e791338bc09e3751edba6997
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16723'
-ht-degree: 98%
+ht-degree: 100%
 ---
 # Versioni di AEM [!DNL Forms] {#aem-forms-releases}
 
@@ -73,26 +73,26 @@ Questo articolo fornisce informazioni per:
             </a>
           </li>
         </ul>
-        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 nei programmi di installazione JEE</strong>
+        <strong style="display:block; margin:10px 0;">Programmi di installazione per AEM Forms 6.5 LTS Service Pack 3 su JEE</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
-              Programma di installazione di AEM Forms 6.5 LTS Service Pack 3 per JBoss® e Microsoft Windows
+              Programma di installazione per AEM Forms 6.5 LTS Service Pack 3 per JBoss® e Microsoft Windows
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
-              Programma di installazione di AEM Forms 6.5 LTS Service Pack 3 per JBoss® e Linux®
+              Programma di installazione per AEM Forms 6.5 LTS Service Pack 3 per JBoss® e Linux®
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
-              Programma di installazione di AEM Forms 6.5 LTS Service Pack 3 per WebSphere® e Microsoft Windows
+              Programma di installazione per AEM Forms 6.5 LTS Service Pack 3 per WebSphere® e Microsoft Windows
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
-              AEM Forms 6.5 LTS Service Pack 3 Installer per WebSphere® e Linux®
+              Programma di installazione per AEM Forms 6.5 LTS Service Pack 3 per WebSphere® e Linux®
             </a>
           </li>
         </ul>
@@ -100,7 +100,7 @@ Questo articolo fornisce informazioni per:
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
-              Programma di installazione di AEM Forms Workbench
+              Programma di installazione per AEM Forms Workbench
             </a>
           </li>
         </ul>
@@ -226,7 +226,7 @@ Questo articolo fornisce informazioni per:
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 Forms LTS
+         AEM 6.5 Forms LTS
         </a>
       </td>
       <td>
