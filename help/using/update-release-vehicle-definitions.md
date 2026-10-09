@@ -33,7 +33,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 >[!NOTE]
 >
->Per la pianificazione delle versioni di aggiornamento di [!DNL Experience Manager], fai riferimento alla roadmap delle versioni di aggiornamento di [[!DNL Experience Manager] ](update-releases-roadmap.md)
+>Per la pianificazione delle versioni di aggiornamento di [!DNL Experience Manager], fai riferimento alla roadmap delle versioni di aggiornamento di [[!DNL Experience Manager] &#x200B;](update-releases-roadmap.md)
 
 ## Versione completa {#full-release}
 
