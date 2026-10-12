@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
 source-wordcount: '1222'
-ht-degree: 96%
+ht-degree: 100%
 ---
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -68,9 +68,9 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione | Aggiornamento automatico | 12-14 ottobre 2026 | Puntuale |
+| Versione di manutenzione | Aggiornamento automatico | 12-14 ottobre 2026 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 26-28 ottobre 2026 | Puntuale |
-| Versione funzionale 2026.10.0 | Attivazione della funzione | 29 ottobre 2026 | Puntuale |
+| Versione funzionale 2026.10.0 | Attivazione della funzione | 29 ottobre 2026 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 9-11 novembre 2026 | Puntuale |
 
 >[!CAUTION]
@@ -95,10 +95,10 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 LTS vengono forniti attravers
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28 agosto 2025 | Attivata |
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 2](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | Service Pack | venerdì 19 febbraio 2026 | Attivata |
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 3](https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | Service Pack | 20 agosto 2026 | Attivata |
-| [!DNL Experience Manager] 6,5 LTS Service Pack 4 | 6.5.LTS.SP4 | Service Pack | 18 febbraio 2027 | Destinazione |
-| [!DNL Experience Manager] 6,5 LTS Service Pack 5 | 6.5.LTS.SP5 | Service Pack | 20 maggio 2027 | Destinazione |
-| [!DNL Experience Manager] 6,5 LTS Service Pack 6 | 6.5.LTS.SP6 | Service Pack | 19 agosto 2027 | Destinazione |
-| [!DNL Experience Manager] 6,5 LTS Service Pack 7 | 6.5.LTS.SP7 | Service Pack | 18 novembre 2027 | Target |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 4 | 6.5.LTS.SP4 | Service Pack | 18 febbraio 2027 | Target |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 5 | 6.5.LTS.SP5 | Service Pack | 20 maggio 2027 | Target |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 6 | 6.5.LTS.SP6 | Service Pack | 19 agosto 2027 | Target |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 7 | 6.5.LTS.SP7 | Service Pack | 18 novembre 2027 | Target |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
