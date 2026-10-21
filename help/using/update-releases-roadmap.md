@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 81cdbe635093d2225a7d69b5123cb27af52dbda6
+source-git-commit: 3d4bc1708d541faaf1d18ee379dc0277d5bf2dc4
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 97%
+source-wordcount: '1287'
+ht-degree: 95%
 ---
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -62,17 +62,17 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2026.8.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | Attivazione della funzione | 27 agosto 2026 | Attivata |
 | Versione di manutenzione [27830](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Aggiornamento automatico | 31 agosto - 2 settembre 2026 | Aggiornata |
 | Versione funzionale [2026.9.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 24 settembre 2026 | Attivata |
-| Versione di manutenzione [28386](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Aggiornamento automatico | 28-30 settembre 2026 | Aggiornata |
-| Versione di manutenzione [28871](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 12-14 ottobre 2026 | Aggiornata |
+| Versione di manutenzione [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Aggiornamento automatico | 28-30 settembre 2026 | Aggiornata |
+| Versione di manutenzione [28871](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | Aggiornamento automatico | 12-14 ottobre 2026 | Aggiornata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
 | Versione | Evento | Pianificazione | Stato |
 |---|---|---|---|
-| Versione di manutenzione | Aggiornamento automatico | 26-28 ottobre 2026 | Puntuale |
+| Versione di manutenzione [29023](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Aggiornamento automatico | 26-28 ottobre 2026 | Puntuale |
 | Versione funzionale 2026.10.0 | Attivazione della funzione | 29 ottobre 2026 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 9-11 novembre 2026 | Puntuale |
-| Versione di funzioni 2026.11.0 | Attivazione della funzione | 19 novembre 2026 | Target |
+| Versione di funzioni 2026.11.0 | Attivazione della funzione | 19 novembre 2026 | Puntuale |
 | Versione di manutenzione | Aggiornamento automatico | 7-9 dicembre 2026 | Target |
 | Versione di funzioni 2026.12.0 | Attivazione della funzione | 10 dicembre 2026 | Puntuale |
 
