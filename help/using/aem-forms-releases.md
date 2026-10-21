@@ -23,7 +23,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16723'
 ht-degree: 100%
 ---
@@ -115,7 +115,7 @@ Questo articolo fornisce informazioni per:
             </a>
           </li>
         </ul>
-        <strong style="display:block; margin:10px 0;">Programma di installazione di Workbench</strong>
+        <strong style="display:block; margin:10px 0;">Programma di installazione per Workbench</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
