@@ -54,7 +54,7 @@ Prima di scaricare il pacchetto, verifica chi utilizzerà il contenuto. Questa d
 
 È necessario un Adobe ID valido:
 
-* Se non disponi di un Adobe ID, puoi crearne uno all’indirizzo https://www.adobe.com/
+* Se non disponi di un Adobe ID, puoi crearne uno all’indirizzo https://www.adobe.com/it/
 Per assistenza nella creazione o nella gestione dell’Adobe ID, [consulta questa guida](https://helpx.adobe.com/it/manage-account.html)
 
 | Versione di [!DNL Experience Manager] | Collegamento per Software Distribution |
@@ -116,4 +116,4 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 ## Chiedere aiuto alla community di [!DNL Experience Manager] {#get-help-from-aem-community}
 
-In caso di domande sull’utilizzo di Experience Manager, Adobe consiglia di [contattare gli esperti della community nei  [!DNL Experience Manager] forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+In caso di domande sull’utilizzo di Experience Manager, Adobe consiglia di [contattare gli esperti della community nei  [!DNL Experience Manager] forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=it).
