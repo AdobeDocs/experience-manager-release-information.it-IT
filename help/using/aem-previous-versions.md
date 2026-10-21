@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '965'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Versioni precedenti della documentazione di [!DNL Adobe Experience Manager], CQ e CRX {#older-versions-aem-cq-crx}
 
@@ -54,7 +54,7 @@ Prima di scaricare il pacchetto, verifica chi utilizzerà il contenuto. Questa d
 
 È necessario un Adobe ID valido:
 
-* Se non disponi di un Adobe ID, puoi crearne uno all’indirizzo https://www.adobe.com/it/
+* Se non disponi di un Adobe ID, puoi crearne uno all’indirizzo https://www.adobe.com/
 Per assistenza nella creazione o nella gestione dell’Adobe ID, [consulta questa guida](https://helpx.adobe.com/it/manage-account.html)
 
 | Versione di [!DNL Experience Manager] | Collegamento per Software Distribution |
@@ -112,8 +112,8 @@ Per installare un pacchetto di documentazione di versioni precedenti è necessar
 
 1. Nella finestra di dialogo di conferma, seleziona nuovamente **[!UICONTROL Installa]**. L’installazione richiede qualche minuto.
 
-1. In un browser web, avvia la pagina della documentazione. Utilizzando l’esempio di AEM 5.6.1, l’URL sarà: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. In un browser web, avvia la pagina della documentazione. Utilizzando l’esempio di AEM 5.6.1, l’URL sarebbe: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Chiedere aiuto alla community di [!DNL Experience Manager] {#get-help-from-aem-community}
 
-In caso di domande sull’utilizzo di Experience Manager, Adobe consiglia di [contattare gli esperti della community nei  [!DNL Experience Manager] forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=it).
+In caso di domande sull’utilizzo di Experience Manager, Adobe consiglia di [contattare gli esperti della community nei  [!DNL Experience Manager] forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).

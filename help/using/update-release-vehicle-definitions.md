@@ -1,6 +1,6 @@
 ---
 title: Definizioni relative alle versioni di aggiornamento
-description: Questo articolo descrive i vari tipi di versioni di [!DNL Experience Manager], inclusi rilasci completi, Feature Pack e Service Pack.
+description: Questo articolo descrive nel dettaglio i vari tipi di versioni di [!DNL Experience Manager], tra cui versioni complete, Feature Pack e Service Pack.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Definizioni relative alle versioni di aggiornamento di [!DNL Experience Manager] {#update-release-vehicle-definitions}
 
@@ -33,7 +33,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 >[!NOTE]
 >
->Per la pianificazione delle versioni di aggiornamento di [!DNL Experience Manager], fai riferimento alla roadmap delle versioni di aggiornamento di [[!DNL Experience Manager] &#x200B;](update-releases-roadmap.md)
+>Per la pianificazione delle versioni di aggiornamento di [!DNL Experience Manager], fai riferimento alla roadmap delle versioni di aggiornamento di [[!DNL Experience Manager] ](update-releases-roadmap.md)
 
 ## Versione completa {#full-release}
 
@@ -86,7 +86,7 @@ Questo documento contiene informazioni dettagliate sui vari tipi di versioni di 
 
 | Elementi | Dettagli |
 |--------|-----|
-| Definizione | <ul> <li>I Feature Pack (FP) comprendono funzionalità aggiuntive e vengono forniti tramite Service Pack. Se per una versione di [!DNL Experience Manager] è stato rilasciato l’ultimo service pack, Adobe non fornirà più ulteriori Feature Pack. </li> <li> I FP contengono miglioramenti del prodotto, pianificati per essere inseriti in una versione successiva del prodotto, ma consegnati in anticipo in base alla decisione di [!DNL Adobe's] Product Management.</li> <li>  Le funzioni vengono unite sempre alla versione principale successiva. Vengono quindi portati alla versione di [!DNL Experience Manager] richiesta dal cliente </li> <li>  I feature pack di interesse comune e disponibilità generale (GA) vengono uniti nel service pack successivo.  </li> </ul> |
+| Definizione | <ul> <li>I Feature Pack (FP) comprendono funzionalità aggiuntive e vengono forniti tramite Service Pack. Se per una versione di [!DNL Experience Manager] è stato rilasciato l’ultimo service pack, Adobe non fornirà più ulteriori Feature Pack. </li> <li> Gli FP contengono miglioramenti del prodotto pianificati per una versione successiva del prodotto, ma che vengono forniti in anticipo in base alla decisione di [!DNL Adobe's] Product Management.</li> <li>  Le funzioni vengono unite sempre alla versione principale successiva. Vengono quindi portati alla versione di [!DNL Experience Manager] richiesta dal cliente </li> <li>  I feature pack di interesse comune e disponibilità generale (GA) vengono uniti nel service pack successivo.  </li> </ul> |
 | Denominazione | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Comprende | <ul> <li> Nuove funzioni </li> <li> Miglioramenti </li> <li> Correzioni di bug (aggiornamenti di prodotto incrementali) </li> </ul> |
 | Documentazione | La documentazione è disponibile su adobe.com. |
