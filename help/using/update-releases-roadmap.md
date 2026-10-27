@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: c62d9cb2b6a7ba3987eafb506d353e85145d7b5d
 workflow-type: tm+mt
 source-wordcount: '1312'
-ht-degree: 93%
+ht-degree: 98%
 ---
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -72,9 +72,9 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 |---|---|---|---|
 | Versione funzionale 2026.10.0 | Attivazione della funzione | 29 ottobre 2026 | Destinazione |
 | Versione di manutenzione | Aggiornamento automatico | 9-11 novembre 2026 | Puntuale |
-| Versione di funzioni 2026.11.0 | Attivazione della funzione | 19 novembre 2026 | Puntuale |
+| Versione funzionale 2026.11.0 | Attivazione della funzione | 19 novembre 2026 | Puntuale |
 | Versione di manutenzione | Aggiornamento automatico | 7-9 dicembre 2026 | Target |
-| Versione di funzioni 2026.12.0 | Attivazione della funzione | 10 dicembre 2026 | Puntuale |
+| Versione funzionale 2026.12.0 | Attivazione della funzione | 10 dicembre 2026 | Puntuale |
 
 
 >[!CAUTION]
