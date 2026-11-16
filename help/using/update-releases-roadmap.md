@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 30a4d86011f735a7c0e71e5dcf70b8d7d37e4173
 workflow-type: tm+mt
 source-wordcount: '1348'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # Roadmap delle versioni di [!DNL Experience Manager] {#aem-releases-roadmap}
 
@@ -64,8 +64,8 @@ Le prossime versioni di [!DNL Experience Manager] as a [!DNL Cloud Service] sono
 | Versione funzionale [2026.9.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | Attivazione della funzione | 24 settembre 2026 | Attivata |
 | Versione di manutenzione [28386](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Aggiornamento automatico | 28-30 settembre 2026 | Aggiornata |
 | Versione di manutenzione [28871](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | Aggiornamento automatico | 12-14 ottobre 2026 | Aggiornata |
-| Versione di manutenzione [29023](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | Aggiornamento automatico | 26-28 ottobre 2026 | Aggiornata |
-| Versione funzionalità [2026.10.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 29 ottobre 2026 | Attivata |
+| Versione di manutenzione [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | Aggiornamento automatico | 26-28 ottobre 2026 | Aggiornata |
+| Versione funzionale [2026.10.0](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Attivazione della funzione | 29 ottobre 2026 | Attivata |
 
 ### Versioni [!DNL Cloud Service] prossime {#upcoming}
 
@@ -128,7 +128,7 @@ Gli aggiornamenti di [!DNL Experience Manager] 6.5 vengono forniti attraverso i 
 
 >[!NOTE]
 >
-> 6.5.26.0 è l’ultima versione del service pack supportata per AEM 6.5.
+> 6.5.26.0 è l’ultima versione supportata dei service pack per AEM 6.5.
 >
 > Ogni Service Pack è supportato per un periodo massimo di 18 mesi dalla data di rilascio, fino al 28 febbraio 2027. Consulta i nostri [prodotti e periodi di supporto tecnico](https://helpx.adobe.com/it/support/programs/eol-matrix.html#cq). Se hai approvato il supporto esteso per 6.5 fino a febbraio 2028, le correzioni di sicurezza critiche saranno disponibili solo sull’ultimo Service Pack 26 rilasciato.
 
