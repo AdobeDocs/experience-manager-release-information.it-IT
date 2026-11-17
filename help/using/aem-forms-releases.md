@@ -22,10 +22,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: ht
-source-wordcount: '16723'
-ht-degree: 100%
+source-git-commit: 39a9a4644f61255c183c0a0ec732d9974b20818d
+workflow-type: tm+mt
+source-wordcount: '16896'
+ht-degree: 98%
 ---
 # Versioni di AEM [!DNL Forms] {#aem-forms-releases}
 
@@ -112,6 +112,34 @@ Questo articolo fornisce informazioni per:
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               Programma di installazione per AEM Forms 6.5 LTS Service Pack 3 per WebSphere® e Linux®
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Programmi di installazione completi a 64 bit di Forms Designer (LTS 3)</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/english/aemforms_designer_6_6_0_wwe_win.zip">
+              Programma di installazione lingua inglese
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/french/aemforms_designer_6_6_0_wwf_win.zip">
+              Programma di installazione lingua francese
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/german/aemforms_designer_6_6_0_d_win.zip">
+              Programma di installazione lingua tedesca
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/japanese/aemforms_designer_6_6_0_j_win.zip">
+              Programma di installazione lingua giapponese
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_6_0_wws_win.zip">
+              Programma di installazione lingua spagnola
             </a>
           </li>
         </ul>
@@ -245,7 +273,7 @@ Questo articolo fornisce informazioni per:
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/it/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 Forms LTS
+         AEM 6.5 Forms LTS
         </a>
       </td>
       <td>
@@ -309,7 +337,7 @@ Questo articolo fornisce informazioni per:
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-windows-websphere.zip">WebSphere® su Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-websphere.tar.gz">WebSphere® su Linux®</a>      </li>
         </ul>
-        <b style="display:block; margin:10px 0;">Programma di installazione di Workbench</b>
+        <b style="display:block; margin:10px 0;">Programma di installazione per Workbench</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/it/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">Programma di installazione di AEM Forms Workbench</a>       </li>
         </ul>
